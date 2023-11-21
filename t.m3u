@@ -24,7 +24,7 @@ http://xcm.budtv-ultra.com:25461/live/bud-185308/acbd5173b7/34728.m3u8
 https://is.gd/3x3BN7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="Music" tvg-id="MTVLiveHD.us" tvg-name="MTVLiveHD.us", MTV Live
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="Music Choice - Dance/EDM" tvg-name="Music Choice - Dance/EDM", Music Choice - Dance/EDM
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MC '80s Rock" tvg-name="MC '80s Rock", MC '80s Rock
 http://45.11.56.147:8808/stream?id=1113
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MC 80´S" tvg-name="MC 80´S", MC 80´S
 http://45.11.56.147:8808/stream?id=1113
