@@ -329,261 +329,261 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50586
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50587
 #EXTINF:-1 group-title="SERIES 24/7", VIP Cocina Abierta FHD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50588
-#EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://latinurbano.com/logo.jpg" group-title="Main",Latinurbano Radio
+#EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://latinurbano.com/logo.jpg" group-title="Radio",Latinurbano Radio
 http://radio.latinurbano.com/radio
-#EXTINF:-1 radio="true" tvg-id="DJ Pflow Radio" tvg-name="DJ Pflow Radio" tvg-logo="https://djpflow.com/logo.jpg" group-title="Main",DJ Pflow Radio
+#EXTINF:-1 radio="true" tvg-id="DJ Pflow Radio" tvg-name="DJ Pflow Radio" tvg-logo="https://djpflow.com/logo.jpg" group-title="Radio",DJ Pflow Radio
 http://radio.djpflow.com/radio
-#EXTINF:-1 radio="true" tvg-id="Hot 97" tvg-name="Hot 97" tvg-logo="https://i.iheart.com/v3/re/assets/images/6046.png" group-title="Main",Hot 97
+#EXTINF:-1 radio="true" tvg-id="Hot 97" tvg-name="Hot 97" tvg-logo="https://i.iheart.com/v3/re/assets/images/6046.png" group-title="Radio",Hot 97
 https://playerservices.streamtheworld.com/api/livestream-redirect/WQHTFMAAC.aac
-#EXTINF:-1 radio="true" tvg-id="WBLS" tvg-name="WBLS" tvg-logo="https://i.iheart.com/v3/re/assets/images/6493.png" group-title="Main",WBLS
+#EXTINF:-1 radio="true" tvg-id="WBLS" tvg-name="WBLS" tvg-logo="https://i.iheart.com/v3/re/assets/images/6493.png" group-title="Radio",WBLS
 https://playerservices.streamtheworld.com/api/livestream-redirect/WBLSFMAAC.aac
-#EXTINF:-1 radio="true" tvg-id="Power 105.1" tvg-name="Power 105.1" tvg-logo="https://i.iheart.com/v3/re/assets/images/1481.png" group-title="Main",Power 105.1
+#EXTINF:-1 radio="true" tvg-id="Power 105.1" tvg-name="Power 105.1" tvg-logo="https://i.iheart.com/v3/re/assets/images/1481.png" group-title="Radio",Power 105.1
 https://stream.revma.ihrhls.com/zc1481
-#EXTINF:-1 radio="true" tvg-id="Mega 97.9 - WSKQ-FM" tvg-name="Mega 97.9 - WSKQ-FM" tvg-logo="https://cdn-web.tunein.com/assets/img/shared/tiles/lamega-small.jpg" group-title="Main",Mega 97.9 - WSKQ-FM
+#EXTINF:-1 radio="true" tvg-id="Mega 97.9 - WSKQ-FM" tvg-name="Mega 97.9 - WSKQ-FM" tvg-logo="https://cdn-web.tunein.com/assets/img/shared/tiles/lamega-small.jpg" group-title="Radio",Mega 97.9 - WSKQ-FM
 https://liveaudio.lamusica.com/NY_WSKQ_icy?aw_0_1st.playerId=Streema
-#EXTINF:-1 radio="true" tvg-id="La X96.3 FM" tvg-name="La X96.3 FM" tvg-logo="https://i.iheart.com/v3/re/new_assets/5df006f201f78836ac596cd2" group-title="Main",La X96.3 FM
+#EXTINF:-1 radio="true" tvg-id="La X96.3 FM" tvg-name="La X96.3 FM" tvg-logo="https://i.iheart.com/v3/re/new_assets/5df006f201f78836ac596cd2" group-title="Radio",La X96.3 FM
 http://in.icy2.abacast.com/univision-wxnyfmaac-im.m3u
-#EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logog.jpg" group-title="Main",m2o Radio
+#EXTINF:-1 radio="true" tvg-id="m2o Radio" tvg-name="m2o Radio" tvg-logo="https://cdn-profiles.tunein.com/s2961/images/logog.jpg" group-title="Radio",m2o Radio
 https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8
-#EXTINF:-1 radio="true" tvg-id="One World Radio" tvg-name="One World Radio" tvg-logo="https://cdn-profiles.tunein.com/s307749/images/logog.jpg" group-title="Main",One World Radio
+#EXTINF:-1 radio="true" tvg-id="One World Radio" tvg-name="One World Radio" tvg-logo="https://cdn-profiles.tunein.com/s307749/images/logog.jpg" group-title="Radio",One World Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac
-#EXTINF:-1 radio="true" tvg-id="Defected Radio" tvg-name="Defected Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Defected_Logo.jpg/1200px-Defected_Logo.jpg" group-title="Main",Defected Radio
+#EXTINF:-1 radio="true" tvg-id="Defected Radio" tvg-name="Defected Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Defected_Logo.jpg/1200px-Defected_Logo.jpg" group-title="Radio",Defected Radio
 https://solid41.streamupsolutions.com//proxy//tbkhkrlu//stream
-#EXTINF:-1 radio="true" tvg-id="Chilltrax" tvg-name="Chilltrax" tvg-logo="https://cdn-profiles.tunein.com/s294226/images/logog.png" group-title="Main",Chilltrax
+#EXTINF:-1 radio="true" tvg-id="Chilltrax" tvg-name="Chilltrax" tvg-logo="https://cdn-profiles.tunein.com/s294226/images/logog.png" group-title="Radio",Chilltrax
 https://streamssl2.chilltrax.com/index.html
-#EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - Chillout" tvg-name="Cafe del Mar Radio - Chillout" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="Main",Cafe del Mar Radio - Chillout
+#EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - Chillout" tvg-name="Cafe del Mar Radio - Chillout" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="Radio",Cafe del Mar Radio - Chillout
 https://streams.radio.co/se1a320b47/listen
-#EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - House" tvg-name="Cafe del Mar Radio - House" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="Main",Cafe del Mar Radio - House
+#EXTINF:-1 radio="true" tvg-id="Cafe del Mar Radio - House" tvg-name="Cafe del Mar Radio - House" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cafe_del_Mar_logo.svg/2048px-Cafe_del_Mar_logo.svg.png" group-title="Radio",Cafe del Mar Radio - House
 https://s4.radio.co/seeae9c220/listen
-#EXTINF:-1 radio="true" tvg-id="BOX Radio - Lofi Radio" tvg-name="BOX Radio - Lofi Radio" tvg-logo="https://boxradio.net/wp-content/uploads/brizy/imgs/boxlofi-1-555x555x0x0x555x555x1665697255.jpg" group-title="Main",BOX Radio - Lofi Radio
+#EXTINF:-1 radio="true" tvg-id="BOX Radio - Lofi Radio" tvg-name="BOX Radio - Lofi Radio" tvg-logo="https://boxradio.net/wp-content/uploads/brizy/imgs/boxlofi-1-555x555x0x0x555x555x1665697255.jpg" group-title="Radio",BOX Radio - Lofi Radio
 https://play.streamafrica.net/lofiradio
-#EXTINF:-1 radio="true" tvg-id="House FM" tvg-name="House FM" tvg-logo="https://play-lh.googleusercontent.com/b3VlVcpTRFf6btlaHDf36OcrLXL5jvipSrnaPn0bA_bR1AbQzklAh0-P6Y8wV3UJsuo" group-title="Main",House FM
+#EXTINF:-1 radio="true" tvg-id="House FM" tvg-name="House FM" tvg-logo="https://play-lh.googleusercontent.com/b3VlVcpTRFf6btlaHDf36OcrLXL5jvipSrnaPn0bA_bR1AbQzklAh0-P6Y8wV3UJsuo" group-title="Radio",House FM
 https://streamer.radio.co/s0de514535/listen
-#EXTINF:-1 radio="true" tvg-id="Worldwide FM" tvg-name="Worldwide FM" tvg-logo="https://play-lh.googleusercontent.com/LIUxQwBItsQtqV-ZdJ8u8gmf92spev3Q7NJ0qW754Z2gH5ySzJVl-QyIUDiEF85SdA" group-title="Main",Worldwide FM
+#EXTINF:-1 radio="true" tvg-id="Worldwide FM" tvg-name="Worldwide FM" tvg-logo="https://play-lh.googleusercontent.com/LIUxQwBItsQtqV-ZdJ8u8gmf92spev3Q7NJ0qW754Z2gH5ySzJVl-QyIUDiEF85SdA" group-title="Radio",Worldwide FM
 https://worldwidefm.out.airtime.pro/worldwidefm_b
-#EXTINF:-1 radio="true" tvg-id="BBC Radio 1" tvg-name="BBC Radio 1" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one/blocks-colour_600x600.png" group-title="BBC",BBC Radio 1
+#EXTINF:-1 radio="true" tvg-id="BBC Radio 1" tvg-name="BBC Radio 1" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one/blocks-colour_600x600.png" group-title="Radio",BBC Radio 1
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
-#EXTINF:-1 radio="true" tvg-id="BBC Radio 1 Dance" tvg-name="BBC Radio 1 Dance" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one_dance/blocks-colour_600x600.png" group-title="BBC",BBC Radio 1 Dance
+#EXTINF:-1 radio="true" tvg-id="BBC Radio 1 Dance" tvg-name="BBC Radio 1 Dance" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one_dance/blocks-colour_600x600.png" group-title="Radio",BBC Radio 1 Dance
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8
-#EXTINF:-1 radio="true" tvg-id="BBC Radio 1 Relax" tvg-name="BBC Radio 1 Relax" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one_relax/blocks-colour_600x600.png" group-title="BBC",BBC Radio 1 Relax
+#EXTINF:-1 radio="true" tvg-id="BBC Radio 1 Relax" tvg-name="BBC Radio 1 Relax" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_one_relax/blocks-colour_600x600.png" group-title="Radio",BBC Radio 1 Relax
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio%3d96000.norewind.m3u8
-#EXTINF:-1 radio="true" tvg-id="BBC Radio 1Xtra" tvg-name="BBC Radio 1Xtra" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_1xtra/blocks-colour_600x600.png" group-title="BBC",BBC Radio 1Xtra
+#EXTINF:-1 radio="true" tvg-id="BBC Radio 1Xtra" tvg-name="BBC Radio 1Xtra" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_1xtra/blocks-colour_600x600.png" group-title="Radio",BBC Radio 1Xtra
 https://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
-#EXTINF:-1 radio="true" tvg-id="Capital UK" tvg-name="Capital UK" tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logog.jpg" group-title="Global Radio",Capital UK
+#EXTINF:-1 radio="true" tvg-id="Capital UK" tvg-name="Capital UK" tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logog.jpg" group-title="Radio",Capital UK
 https://media-sov.musicradio.com/CapitalUK
-#EXTINF:-1 radio="true" tvg-id="Capital XTRA" tvg-name="Capital XTRA" tvg-logo="https://cdn-profiles.tunein.com/s220688/images/logog.jpg" group-title="Global Radio",Capital XTRA
+#EXTINF:-1 radio="true" tvg-id="Capital XTRA" tvg-name="Capital XTRA" tvg-logo="https://cdn-profiles.tunein.com/s220688/images/logog.jpg" group-title="Radio",Capital XTRA
 https://media-ssl.musicradio.com/CapitalXTRANational
-#EXTINF:-1 radio="true" tvg-id="Capital XTRA Reloaded" tvg-name="Capital XTRA Reloaded" tvg-logo="https://cdn-profiles.tunein.com/s306339/images/logog.jpg" group-title="Global Radio",Capital XTRA Reloaded
+#EXTINF:-1 radio="true" tvg-id="Capital XTRA Reloaded" tvg-name="Capital XTRA Reloaded" tvg-logo="https://cdn-profiles.tunein.com/s306339/images/logog.jpg" group-title="Radio",Capital XTRA Reloaded
 https://media-ssl.musicradio.com/CapitalXTRAReloaded
-#EXTINF:-1 radio="true" tvg-id="Capital Dance" tvg-name="Capital Dance" tvg-logo="https://cdn-profiles.tunein.com/s309497/images/logog.jpg" group-title="Global Radio",Capital Dance
+#EXTINF:-1 radio="true" tvg-id="Capital Dance" tvg-name="Capital Dance" tvg-logo="https://cdn-profiles.tunein.com/s309497/images/logog.jpg" group-title="Radio",Capital Dance
 http://media-ice.musicradio.com/CapitalDance
-#EXTINF:-1 radio="true" tvg-id="Capital Chill" tvg-name="Capital Chill" tvg-logo="https://cdn-profiles.tunein.com/s323115/images/logog.jpg" group-title="Global Radio",Capital Chill
+#EXTINF:-1 radio="true" tvg-id="Capital Chill" tvg-name="Capital Chill" tvg-logo="https://cdn-profiles.tunein.com/s323115/images/logog.jpg" group-title="Radio",Capital Chill
 https://media-ssl.musicradio.com/CapitalChill
-#EXTINF:-1 radio="true" tvg-id="Smooth Chill" tvg-name="Smooth Chill" tvg-logo="https://cdn-profiles.tunein.com/s53084/images/logog.jpg" group-title="Global Radio",Smooth Chill
+#EXTINF:-1 radio="true" tvg-id="Smooth Chill" tvg-name="Smooth Chill" tvg-logo="https://cdn-profiles.tunein.com/s53084/images/logog.jpg" group-title="Radio",Smooth Chill
 https://media-ice.musicradio.com/Chill
-#EXTINF:-1 radio="true" tvg-id="SLAM!" tvg-name="SLAM!" tvg-logo="https://cdn-profiles.tunein.com/s67814/images/logog.jpg" group-title="SLAM!",SLAM!
+#EXTINF:-1 radio="true" tvg-id="SLAM!" tvg-name="SLAM!" tvg-logo="https://cdn-profiles.tunein.com/s67814/images/logog.jpg" group-title="Radio",SLAM!
 https://playerservices.streamtheworld.com/api/livestream-redirect/SLAM_AAC_SC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! Zomer" tvg-name="SLAM! Zomer" tvg-logo="https://cdn-profiles.tunein.com/s309396/images/logog.jpg" group-title="SLAM!",SLAM! Zomer
+#EXTINF:-1 radio="true" tvg-id="SLAM! Zomer" tvg-name="SLAM! Zomer" tvg-logo="https://cdn-profiles.tunein.com/s309396/images/logog.jpg" group-title="Radio",SLAM! Zomer
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB08_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! Juize" tvg-name="SLAM! Juize" tvg-logo="https://cdn-profiles.tunein.com/s80824/images/logog.jpg" group-title="SLAM!",SLAM! Juize
+#EXTINF:-1 radio="true" tvg-id="SLAM! Juize" tvg-name="SLAM! Juize" tvg-logo="https://cdn-profiles.tunein.com/s80824/images/logog.jpg" group-title="Radio",SLAM! Juize
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB09_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! Non Stop" tvg-name="SLAM! Non Stop" tvg-logo="https://cdn-profiles.tunein.com/s253879/images/logog.jpg" group-title="SLAM!",SLAM! Non Stop
+#EXTINF:-1 radio="true" tvg-id="SLAM! Non Stop" tvg-name="SLAM! Non Stop" tvg-logo="https://cdn-profiles.tunein.com/s253879/images/logog.jpg" group-title="Radio",SLAM! Non Stop
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB10_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! Hardstyle" tvg-name="SLAM! Hardstyle" tvg-logo="https://cdn-profiles.tunein.com/s155542/images/logog.jpg" group-title="SLAM!",SLAM! Hardstyle
+#EXTINF:-1 radio="true" tvg-id="SLAM! Hardstyle" tvg-name="SLAM! Hardstyle" tvg-logo="https://cdn-profiles.tunein.com/s155542/images/logog.jpg" group-title="Radio",SLAM! Hardstyle
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB11_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! The Boom Room" tvg-name="SLAM! The Boom Room" tvg-logo="https://cdn-profiles.tunein.com/s253880/images/logog.jpg" group-title="SLAM!",SLAM! The Boom Room
+#EXTINF:-1 radio="true" tvg-id="SLAM! The Boom Room" tvg-name="SLAM! The Boom Room" tvg-logo="https://cdn-profiles.tunein.com/s253880/images/logog.jpg" group-title="Radio",SLAM! The Boom Room
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB12_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! MIXMARATHON" tvg-name="SLAM! MIXMARATHON" tvg-logo="https://cdn-profiles.tunein.com/s296300/images/logog.jpg" group-title="SLAM!",SLAM! MIXMARATHON
+#EXTINF:-1 radio="true" tvg-id="SLAM! MIXMARATHON" tvg-name="SLAM! MIXMARATHON" tvg-logo="https://cdn-profiles.tunein.com/s296300/images/logog.jpg" group-title="Radio",SLAM! MIXMARATHON
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB13_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! 40" tvg-name="SLAM! 40" tvg-logo="https://cdn-profiles.tunein.com/s304613/images/logog.jpg" group-title="SLAM!",SLAM! 40
+#EXTINF:-1 radio="true" tvg-id="SLAM! 40" tvg-name="SLAM! 40" tvg-logo="https://cdn-profiles.tunein.com/s304613/images/logog.jpg" group-title="Radio",SLAM! 40
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB14_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! 00's" tvg-name="SLAM! 00's" tvg-logo="https://cdn-profiles.tunein.com/s306475/images/logog.jpg" group-title="SLAM!",SLAM! 00's
+#EXTINF:-1 radio="true" tvg-id="SLAM! 00's" tvg-name="SLAM! 00's" tvg-logo="https://cdn-profiles.tunein.com/s306475/images/logog.jpg" group-title="Radio",SLAM! 00's
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="SLAM! Housuh in de Pauzuh" tvg-name="SLAM! Housuh in de Pauzuh" tvg-logo="https://cdn-profiles.tunein.com/s308578/images/logog.jpg" group-title="SLAM!",SLAM! Housuh in de Pauzuh
+#EXTINF:-1 radio="true" tvg-id="SLAM! Housuh in de Pauzuh" tvg-name="SLAM! Housuh in de Pauzuh" tvg-logo="https://cdn-profiles.tunein.com/s308578/images/logog.jpg" group-title="Radio",SLAM! Housuh in de Pauzuh
 https://playerservices.streamtheworld.com/api/livestream-redirect/WEB16_AAC.aac
-#EXTINF:-1 radio="true" tvg-id="KISS" tvg-name="KISS" tvg-logo="https://cdn-profiles.tunein.com/s260864/images/logog.png" group-title="KISS Network",KISS
+#EXTINF:-1 radio="true" tvg-id="KISS" tvg-name="KISS" tvg-logo="https://cdn-profiles.tunein.com/s260864/images/logog.png" group-title="Radio",KISS
 https://edge-bauerall-01-gos2.sharp-stream.com/kissnational.aac
-#EXTINF:-1 radio="true" tvg-id="KISSTORY" tvg-name="KISSTORY" tvg-logo="https://cdn-profiles.tunein.com/s77960/images/logog.jpg" group-title="KISS Network",KISSTORY
+#EXTINF:-1 radio="true" tvg-id="KISSTORY" tvg-name="KISSTORY" tvg-logo="https://cdn-profiles.tunein.com/s77960/images/logog.jpg" group-title="Radio",KISSTORY
 https://edge-bauerall-01-gos2.sharp-stream.com/kisstory.aac
-#EXTINF:-1 radio="true" tvg-id="KISS FRESH" tvg-name="KISS FRESH" tvg-logo="https://cdn-profiles.tunein.com/s198663/images/logog.jpg" group-title="KISS Network",KISS FRESH
+#EXTINF:-1 radio="true" tvg-id="KISS FRESH" tvg-name="KISS FRESH" tvg-logo="https://cdn-profiles.tunein.com/s198663/images/logog.jpg" group-title="Radio",KISS FRESH
 https://edge-bauerall-01-gos2.sharp-stream.com/kissfresh.aac
-#EXTINF:-1 radio="true" tvg-id="KISS DANCE" tvg-name="KISS DANCE" tvg-logo="https://cdn-profiles.tunein.com/s321341/images/logog.jpg" group-title="KISS Network",KISS DANCE
+#EXTINF:-1 radio="true" tvg-id="KISS DANCE" tvg-name="KISS DANCE" tvg-logo="https://cdn-profiles.tunein.com/s321341/images/logog.jpg" group-title="Radio",KISS DANCE
 https://edge-bauerall-01-gos2.sharp-stream.com/webcast6high.aac
-#EXTINF:-1 radio="true" tvg-id="KISS BLISS" tvg-name="KISS BLISS" tvg-logo="https://cdn-profiles.tunein.com/s321340/images/logog.jpg" group-title="KISS Network",KISS BLISS
+#EXTINF:-1 radio="true" tvg-id="KISS BLISS" tvg-name="KISS BLISS" tvg-logo="https://cdn-profiles.tunein.com/s321340/images/logog.jpg" group-title="Radio",KISS BLISS
 https://edge-bauerall-01-gos2.sharp-stream.com/webcast7high.aac
-#EXTINF:-1 radio="true" tvg-id="Qmusic" tvg-name="Qmusic" tvg-logo="https://cdn-profiles.tunein.com/s87683/images/logog.png" group-title="Qmusic",Qmusic
+#EXTINF:-1 radio="true" tvg-id="Qmusic" tvg-name="Qmusic" tvg-logo="https://cdn-profiles.tunein.com/s87683/images/logog.png" group-title="Radio",Qmusic
 https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac
-#EXTINF:-1 radio="true" tvg-id="Q-Foute Radio" tvg-name="Q-Foute Radio" tvg-logo="https://cdn-profiles.tunein.com/s308757/images/logog.jpg" group-title="Qmusic",Q-Foute Radio
+#EXTINF:-1 radio="true" tvg-id="Q-Foute Radio" tvg-name="Q-Foute Radio" tvg-logo="https://cdn-profiles.tunein.com/s308757/images/logog.jpg" group-title="Radio",Q-Foute Radio
 https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac
-#EXTINF:-1 radio="true" tvg-id="Q-Maximum Hits" tvg-name="Q-Maximum Hits" tvg-logo="https://cdn-profiles.tunein.com/s310489/images/logog.jpg" group-title="Qmusic",Q-Maximum Hits
+#EXTINF:-1 radio="true" tvg-id="Q-Maximum Hits" tvg-name="Q-Maximum Hits" tvg-logo="https://cdn-profiles.tunein.com/s310489/images/logog.jpg" group-title="Radio",Q-Maximum Hits
 https://icecast-qmusicbe-cdp.triple-it.nl/q-maximum-hits.aac
-#EXTINF:-1 radio="true" tvg-id="Q-Summer" tvg-name="Q-Summer" tvg-logo="https://cdn-profiles.tunein.com/s280138/images/logog.jpg" group-title="Qmusic",Q-Summer
+#EXTINF:-1 radio="true" tvg-id="Q-Summer" tvg-name="Q-Summer" tvg-logo="https://cdn-profiles.tunein.com/s280138/images/logog.jpg" group-title="Radio",Q-Summer
 https://icecast-qmusicbe-cdp.triple-it.nl/q-summer.aac
-#EXTINF:-1 radio="true" tvg-id="Q-Party" tvg-name="Q-Party" tvg-logo="https://cdn-profiles.tunein.com/s308758/images/logog.jpg" group-title="Qmusic",Q-Party
+#EXTINF:-1 radio="true" tvg-id="Q-Party" tvg-name="Q-Party" tvg-logo="https://cdn-profiles.tunein.com/s308758/images/logog.jpg" group-title="Radio",Q-Party
 https://icecast-qmusicbe-cdp.triple-it.nl/q-party.aac
-#EXTINF:-1 radio="true" tvg-id="Q-Top 40" tvg-name="Q-Top 40" tvg-logo="https://cdn-profiles.tunein.com/s308759/images/logog.jpg" group-title="Qmusic",Q-Top 40
+#EXTINF:-1 radio="true" tvg-id="Q-Top 40" tvg-name="Q-Top 40" tvg-logo="https://cdn-profiles.tunein.com/s308759/images/logog.jpg" group-title="Radio",Q-Top 40
 https://icecast-qmusicbe-cdp.triple-it.nl/q-top40.aac
-#EXTINF:-1 radio="true" tvg-id="Q-Workout" tvg-name="Q-Workout" tvg-logo="https://cdn-profiles.tunein.com/s320794/images/logog.jpg" group-title="Qmusic",Q-Workout
+#EXTINF:-1 radio="true" tvg-id="Q-Workout" tvg-name="Q-Workout" tvg-logo="https://cdn-profiles.tunein.com/s320794/images/logog.jpg" group-title="Radio",Q-Workout
 https://icecast-qmusicbe-cdp.triple-it.nl/q-workout.aac
-#EXTINF:-1 radio="true" tvg-id="Q-I Love The 90's" tvg-name="Q-I Love The 90's" tvg-logo="https://cdn-profiles.tunein.com/s309410/images/logog.jpg" group-title="Qmusic",Q-I Love The 90's
+#EXTINF:-1 radio="true" tvg-id="Q-I Love The 90's" tvg-name="Q-I Love The 90's" tvg-logo="https://cdn-profiles.tunein.com/s309410/images/logog.jpg" group-title="Radio",Q-I Love The 90's
 https://icecast-qmusicbe-cdp.triple-it.nl/q-ilt90s.aac
-#EXTINF:-1 radio="true" tvg-id="iHeartClassical" tvg-name="iHeartClassical" tvg-logo="https://i.iheart.com/v3/re/new_assets/63b484b4faa942d9be265a9d" group-title="iHeart",iHeartClassical
+#EXTINF:-1 radio="true" tvg-id="iHeartClassical" tvg-name="iHeartClassical" tvg-logo="https://i.iheart.com/v3/re/new_assets/63b484b4faa942d9be265a9d" group-title="Radio",iHeartClassical
 https://stream.revma.ihrhls.com/zc6377
-#EXTINF:-1 radio="true" tvg-id="Evolution" tvg-name="Evolution" tvg-logo="https://i.iheart.com/v3/re/new_assets/7b78fd03-66b1-4b9a-bd41-fb9638a82a24" group-title="iHeart",Evolution
+#EXTINF:-1 radio="true" tvg-id="Evolution" tvg-name="Evolution" tvg-logo="https://i.iheart.com/v3/re/new_assets/7b78fd03-66b1-4b9a-bd41-fb9638a82a24" group-title="Radio",iHeart Evolution
 https://stream.revma.ihrhls.com/zc5953
-#EXTINF:-1 radio="true" tvg-id="Dance Top 20" tvg-name="Dance Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/643efcc7bd6cf8d998763762" group-title="iHeart",Dance Top 20
+#EXTINF:-1 radio="true" tvg-id="Dance Top 20" tvg-name="Dance Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/643efcc7bd6cf8d998763762" group-title="Radio",iHeart Dance Top 20
 https://stream.revma.ihrhls.com/zc9762
-#EXTINF:-1 radio="true" tvg-id="Mix Nation" tvg-name="Mix Nation" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64b165ecdfcdbeb09659a5a1" group-title="iHeart",Mix Nation
+#EXTINF:-1 radio="true" tvg-id="Mix Nation" tvg-name="Mix Nation" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64b165ecdfcdbeb09659a5a1" group-title="Radio",iHeart Mix Nation
 https://stream.revma.ihrhls.com/zc4776
-#EXTINF:-1 radio="true" tvg-id="Jam Hits" tvg-name="Jam Hits" tvg-logo="https://i.iheart.com/v3/re/assets.streams/646bec334f6bc8c913da079d" group-title="iHeart",Jam Hits
+#EXTINF:-1 radio="true" tvg-id="Jam Hits" tvg-name="Jam Hits" tvg-logo="https://i.iheart.com/v3/re/assets.streams/646bec334f6bc8c913da079d" group-title="Radio",iHeart Jam Hits
 https://s4.radio.co/s51a1654a2/listen
-#EXTINF:-1 radio="true" tvg-id="Hip Hop Beats" tvg-name="Hip Hop Beats" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6418bdef3a047b66638616e6" group-title="iHeart",Hip Hop Beats
+#EXTINF:-1 radio="true" tvg-id="Hip Hop Beats" tvg-name="Hip Hop Beats" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6418bdef3a047b66638616e6" group-title="Radio",iHeart Hip Hop Beats
 https://stream.revma.ihrhls.com/zc4429
-#EXTINF:-1 radio="true" tvg-id="Hip Hop Top 20" tvg-name="Hip Hop Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/642ef7c925fdb919c987c51d" group-title="iHeart",Hip Hop Top 20
+#EXTINF:-1 radio="true" tvg-id="Hip Hop Top 20" tvg-name="Hip Hop Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/642ef7c925fdb919c987c51d" group-title="Radio",iHeart Hip Hop Top 20
 https://stream.revma.ihrhls.com/zc4886
-#EXTINF:-1 radio="true" tvg-id="iHeart Hip Hop 50 Radio" tvg-name="iHeart Hip Hop 50 Radio" tvg-logo="https://i.iheart.com/v3/re/assets.streams/640f7846390b4bd2e8606eb5" group-title="iHeart",iHeart Hip Hop 50 Radio
+#EXTINF:-1 radio="true" tvg-id="iHeart Hip Hop 50 Radio" tvg-name="iHeart Hip Hop 50 Radio" tvg-logo="https://i.iheart.com/v3/re/assets.streams/640f7846390b4bd2e8606eb5" group-title="Radio",iHeart Hip Hop 50 Radio
 https://stream.revma.ihrhls.com/zc9717
-#EXTINF:-1 radio="true" tvg-id="Hip Hop Workout Radio" tvg-name="Hip Hop Workout Radio" tvg-logo="https://i.iheart.com/v3/re/new_assets/b883eec0-d545-416a-b2ff-0823b9070597" group-title="iHeart",Hip Hop Workout Radio
+#EXTINF:-1 radio="true" tvg-id="Hip Hop Workout Radio" tvg-name="Hip Hop Workout Radio" tvg-logo="https://i.iheart.com/v3/re/new_assets/b883eec0-d545-416a-b2ff-0823b9070597" group-title="Radio",iHeart Hip Hop Workout Radio
 https://stream.revma.ihrhls.com/zc7785
-#EXTINF:-1 radio="true" tvg-id="Smooth Jazz" tvg-name="Smooth Jazz" tvg-logo="https://i.iheart.com/v3/re/new_assets/62a8bc0f9ba37c3dc7f68986" group-title="iHeart",Smooth Jazz
+#EXTINF:-1 radio="true" tvg-id="Smooth Jazz" tvg-name="Smooth Jazz" tvg-logo="https://i.iheart.com/v3/re/new_assets/62a8bc0f9ba37c3dc7f68986" group-title="Radio",iHeart Smooth Jazz
 https://stream.revma.ihrhls.com/zc4242
-#EXTINF:-1 radio="true" tvg-id="Smooth Jazz Top 20" tvg-name="Smooth Jazz Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/643efd3abd6cf8d998763769" group-title="iHeart",Smooth Jazz Top 20
+#EXTINF:-1 radio="true" tvg-id="Smooth Jazz Top 20" tvg-name="Smooth Jazz Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/643efd3abd6cf8d998763769" group-title="Radio",iHeart Smooth Jazz Top 20
 https://stream.revma.ihrhls.com/zc9761
-#EXTINF:-1 radio="true" tvg-id="Vinyl Jazz" tvg-name="Vinyl Jazz" tvg-logo="https://i.iheart.com/v3/re/new_assets/9ee25d1b-00e4-4d83-bf3a-3df944fcd5bd" group-title="iHeart",Vinyl Jazz
+#EXTINF:-1 radio="true" tvg-id="Vinyl Jazz" tvg-name="Vinyl Jazz" tvg-logo="https://i.iheart.com/v3/re/new_assets/9ee25d1b-00e4-4d83-bf3a-3df944fcd5bd" group-title="Radio",iHeart Vinyl Jazz
 https://stream.revma.ihrhls.com/zc7079
-#EXTINF:-1 radio="true" tvg-id="The Standard" tvg-name="The Standard" tvg-logo="https://i.iheart.com/v3/re/assets/images/c84101fd-74c8-4f40-a20d-707ab6a01535.png" group-title="iHeart",The Standard
+#EXTINF:-1 radio="true" tvg-id="The Standard" tvg-name="The Standard" tvg-logo="https://i.iheart.com/v3/re/assets/images/c84101fd-74c8-4f40-a20d-707ab6a01535.png" group-title="Radio",iHeart The Standard
 https://stream.revma.ihrhls.com/zc6784
-#EXTINF:-1 radio="true" tvg-id="Salsa Bembé" tvg-name="Salsa Bembé" tvg-logo="https://i.iheart.com/v3/re/new_assets/53f10e4d-e303-487e-9feb-6e0bdbfdccc4" group-title="iHeart",Salsa Bembé
+#EXTINF:-1 radio="true" tvg-id="Salsa Bembé" tvg-name="Salsa Bembé" tvg-logo="https://i.iheart.com/v3/re/new_assets/53f10e4d-e303-487e-9feb-6e0bdbfdccc4" group-title="Radio",iHeart Salsa Bembé
 https://stream.revma.ihrhls.com/zc7192
-#EXTINF:-1 radio="true" tvg-id="Latin Jazz" tvg-name="Latin Jazz" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d276e0c93ae1fbff3d2c341" group-title="iHeart",Latin Jazz
+#EXTINF:-1 radio="true" tvg-id="Latin Jazz" tvg-name="Latin Jazz" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d276e0c93ae1fbff3d2c341" group-title="Radio",iHeart Latin Jazz
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR45_S01AAC.m3u8
-#EXTINF:-1 radio="true" tvg-id="Today's Mix" tvg-name="Today's Mix" tvg-logo="https://i.iheart.com/v3/re/assets/images/4409.png" group-title="iHeart",Today's Mix
+#EXTINF:-1 radio="true" tvg-id="Today's Mix" tvg-name="Today's Mix" tvg-logo="https://i.iheart.com/v3/re/assets/images/4409.png" group-title="Radio",iHeart Today's Mix
 https://stream.revma.ihrhls.com/zc4409
-#EXTINF:-1 radio="true" tvg-id="Coffee Shop Radio" tvg-name="Coffee Shop Radio" tvg-logo="https://i.iheart.com/v3/re/assets/images/160a1139-5c48-4cc7-bf08-9d5341a2acd0.png" group-title="iHeart",Coffee Shop Radio
+#EXTINF:-1 radio="true" tvg-id="Coffee Shop Radio" tvg-name="Coffee Shop Radio" tvg-logo="https://i.iheart.com/v3/re/assets/images/160a1139-5c48-4cc7-bf08-9d5341a2acd0.png" group-title="Radio",iHeart Coffee Shop Radio
 https://stream.revma.ihrhls.com/zc6698
-#EXTINF:-1 radio="true" tvg-id="R&B Jams" tvg-name="R&B Jams" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64120faacb98efe4c2d39f6f" group-title="iHeart",R&B Jams
+#EXTINF:-1 radio="true" tvg-id="R&B Jams" tvg-name="R&B Jams" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64120faacb98efe4c2d39f6f" group-title="Radio",iHeart R&B Jams
 https://stream.revma.ihrhls.com/zc4433
-#EXTINF:-1 radio="true" tvg-id="R&B Top 20" tvg-name="R&B Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/641e2fce02602ae7dcd0e9b2" group-title="iHeart",R&B Top 20
+#EXTINF:-1 radio="true" tvg-id="R&B Top 20" tvg-name="R&B Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/641e2fce02602ae7dcd0e9b2" group-title="Radio",iHeart R&B Top 20
 https://stream.revma.ihrhls.com/zc4940
-#EXTINF:-1 radio="true" tvg-id="Throwbacks" tvg-name="Throwbacks" tvg-logo="https://i.iheart.com/v3/re/new_assets/2c49da93-9ac4-4411-b748-b48a5014ecd3" group-title="iHeart",Throwbacks
+#EXTINF:-1 radio="true" tvg-id="Throwbacks" tvg-name="Throwbacks" tvg-logo="https://i.iheart.com/v3/re/new_assets/2c49da93-9ac4-4411-b748-b48a5014ecd3" group-title="Radio",iHeart Throwbacks
 https://stream.revma.ihrhls.com/zc7397
-#EXTINF:-1 radio="true" tvg-id="Classic Funk" tvg-name="Classic Funk" tvg-logo="https://i.iheart.com/v3/re/assets.streams/644170ff4a28c0253208c305" group-title="iHeart",Classic Funk
+#EXTINF:-1 radio="true" tvg-id="Classic Funk" tvg-name="Classic Funk" tvg-logo="https://i.iheart.com/v3/re/assets.streams/644170ff4a28c0253208c305" group-title="Radio",iHeart Classic Funk
 https://stream.revma.ihrhls.com/zc6955
-#EXTINF:-1 radio="true" tvg-id="Classic Soul" tvg-name="Classic Soul" tvg-logo="https://i.iheart.com/v3/re/assets.streams/643d8fb29261a5caee871f76" group-title="iHeart",Classic Soul
+#EXTINF:-1 radio="true" tvg-id="Classic Soul" tvg-name="Classic Soul" tvg-logo="https://i.iheart.com/v3/re/assets.streams/643d8fb29261a5caee871f76" group-title="Radio",iHeart Classic Soul
 https://stream.revma.ihrhls.com/zc7120
-#EXTINF:-1 radio="true" tvg-id="Chill Jams" tvg-name="Chill Jams" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64347eeeb51dd0eb7e421125" group-title="iHeart",Chill Jams
+#EXTINF:-1 radio="true" tvg-id="Chill Jams" tvg-name="Chill Jams" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64347eeeb51dd0eb7e421125" group-title="Radio",iHeart Chill Jams
 https://stream.revma.ihrhls.com/zc4719
-#EXTINF:-1 radio="true" tvg-id="Hit Nation" tvg-name="Hit Nation" tvg-logo="https://i.iheart.com/v3/re/new_assets/5e824556663344f10dab115b" group-title="iHeart",Hit Nation
+#EXTINF:-1 radio="true" tvg-id="Hit Nation" tvg-name="Hit Nation" tvg-logo="https://i.iheart.com/v3/re/new_assets/5e824556663344f10dab115b" group-title="Radio",iHeart Hit Nation
 https://stream.revma.ihrhls.com/zc4422
-#EXTINF:-1 radio="true" tvg-id="Kiss Radio" tvg-name="Kiss Radio" tvg-logo="https://i.iheart.com/v3/re/new_assets/cfe7bd3b-e0ec-40e9-8e2b-6ed7df4cc446" group-title="iHeart",Kiss Radio
+#EXTINF:-1 radio="true" tvg-id="Kiss Radio" tvg-name="Kiss Radio" tvg-logo="https://i.iheart.com/v3/re/new_assets/cfe7bd3b-e0ec-40e9-8e2b-6ed7df4cc446" group-title="Radio",iHeart Kiss Radio
 https://stream.revma.ihrhls.com/zc7362
-#EXTINF:-1 radio="true" tvg-id="Power" tvg-name="Power" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f5a30887ee506307b38d672" group-title="iHeart",Power
+#EXTINF:-1 radio="true" tvg-id="Power" tvg-name="Power" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f5a30887ee506307b38d672" group-title="Radio",iHeart Power
 https://stream.revma.ihrhls.com/zc7360
-#EXTINF:-1 radio="true" tvg-id="HOT" tvg-name="HOT" tvg-logo="https://i.iheart.com/v3/re/new_assets/6001da0a9e9e22464590f21c" group-title="iHeart",HOT
+#EXTINF:-1 radio="true" tvg-id="HOT" tvg-name="HOT" tvg-logo="https://i.iheart.com/v3/re/new_assets/6001da0a9e9e22464590f21c" group-title="Radio",iHeart HOT
 https://stream.revma.ihrhls.com/zc8830
-#EXTINF:-1 radio="true" tvg-id="WiLD" tvg-name="WiLD" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ca63369a162893819640943" group-title="iHeart",WiLD
+#EXTINF:-1 radio="true" tvg-id="WiLD" tvg-name="WiLD" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ca63369a162893819640943" group-title="Radio",iHeart WiLD
 https://stream.revma.ihrhls.com/zc4722
-#EXTINF:-1 radio="true" tvg-id="Pop Top 20" tvg-name="Pop Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/641e2f9002602ae7dcd0e9ad" group-title="iHeart",Pop Top 20
+#EXTINF:-1 radio="true" tvg-id="Pop Top 20" tvg-name="Pop Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/641e2f9002602ae7dcd0e9ad" group-title="Radio",iHeart Pop Top 20
 https://stream.revma.ihrhls.com/zc4878
-#EXTINF:-1 radio="true" tvg-id="LoFi - Relax" tvg-name="LoFi - Relax" tvg-logo="https://i.iheart.com/v3/re/new_assets/6042aa40b7174759c15a7e61g" group-title="iHeart",LoFi - Relax
+#EXTINF:-1 radio="true" tvg-id="LoFi - Relax" tvg-name="LoFi - Relax" tvg-logo="https://i.iheart.com/v3/re/new_assets/6042aa40b7174759c15a7e61g" group-title="Radio",iHeart LoFi - Relax
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR41_S01AAC.m3u8
-#EXTINF:-1 radio="true" tvg-id="Relaxing Sounds" tvg-name="Relaxing Sounds" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d2780356ea1fbc86771f071" group-title="iHeart",Relaxing Sounds
+#EXTINF:-1 radio="true" tvg-id="Relaxing Sounds" tvg-name="Relaxing Sounds" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d2780356ea1fbc86771f071" group-title="Radio",iHeart Relaxing Sounds
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR43_S01AAC.m3u8
-#EXTINF:-1 radio="true" tvg-id="Dash Pop X" tvg-name="Dash Pop X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXPOP/dash_x_pop_color_324.png" group-title="Dash",Dash Pop X
+#EXTINF:-1 radio="true" tvg-id="Dash Pop X" tvg-name="Dash Pop X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXPOP/dash_x_pop_color_324.png" group-title="Radio",Dash Pop X
 https://ice55.securenetsystems.net/DASH17
-#EXTINF:-1 radio="true" tvg-id="Dash Hits X" tvg-name="Dash Hits X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/214/logos/c701b24d-c9f9-41da-8829-01baa5cea68a.png" group-title="Dash",Dash Hits X
+#EXTINF:-1 radio="true" tvg-id="Dash Hits X" tvg-name="Dash Hits X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/214/logos/c701b24d-c9f9-41da-8829-01baa5cea68a.png" group-title="Radio",Dash Hits X
 https://ice55.securenetsystems.net/DASH58
-#EXTINF:-1 radio="true" tvg-id="Dash X" tvg-name="Dash X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHX/dash_x_color_324.png" group-title="Dash",Dash X
+#EXTINF:-1 radio="true" tvg-id="Dash X" tvg-name="Dash X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHX/dash_x_color_324.png" group-title="Radio",Dash X
 https://ice55.securenetsystems.net/DASH50
-#EXTINF:-1 radio="true" tvg-id="Dash Hip-Hop X" tvg-name="Dash Hip-Hop X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXHIPHOP/dash_x_hiphop_color_324.png" group-title="Dash",Dash Hip-Hop X
+#EXTINF:-1 radio="true" tvg-id="Dash Hip-Hop X" tvg-name="Dash Hip-Hop X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHXHIPHOP/dash_x_hiphop_color_324.png" group-title="Radio",Dash Hip-Hop X
 https://ice55.securenetsystems.net/DASH90
-#EXTINF:-1 radio="true" tvg-id="The City - Today's Hottest Hip-Hop & R&B" tvg-name="The City - Today's Hottest Hip-Hop & R&B" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/49/logos/f2bfb506-9f0e-4e0a-9a6c-65cf83743777.png" group-title="Dash",The City - Today's Hottest Hip-Hop & R&B
+#EXTINF:-1 radio="true" tvg-id="The City - Today's Hottest Hip-Hop & R&B" tvg-name="The City - Today's Hottest Hip-Hop & R&B" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/49/logos/f2bfb506-9f0e-4e0a-9a6c-65cf83743777.png" group-title="Radio",Dash The City - Today's Hottest Hip-Hop & R&B
 https://ice55.securenetsystems.net/DASH2
-#EXTINF:-1 radio="true" tvg-id="Native Rhymes - Classic Hip-Hop" tvg-name="Native Rhymes - Classic Hip-Hop" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/NativeRhymes.png" group-title="Dash",Native Rhymes - Classic Hip-Hop
+#EXTINF:-1 radio="true" tvg-id="Native Rhymes - Classic Hip-Hop" tvg-name="Native Rhymes - Classic Hip-Hop" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/NativeRhymes.png" group-title="Radio",Dash Native Rhymes - Classic Hip-Hop
 https://ice55.securenetsystems.net/DASH18
-#EXTINF:-1 radio="true" tvg-id="BPM Supreme Radio" tvg-name="BPM Supreme Radio" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/208/logos/d997833e-6f07-4e34-b88f-f1ecd9734dd7.png" group-title="Dash",BPM Supreme Radio
+#EXTINF:-1 radio="true" tvg-id="BPM Supreme Radio" tvg-name="BPM Supreme Radio" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/208/logos/d997833e-6f07-4e34-b88f-f1ecd9734dd7.png" group-title="Radio",Dash BPM Supreme Radio
 https://ice55.securenetsystems.net/DASH4
-#EXTINF:-1 radio="true" tvg-id="Insomniac Radio - Electronic Music & Festivals" tvg-name="Insomniac Radio - Electronic Music & Festivals" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/218/logos/c0d7b14a-9c44-4818-94ab-4ae8039ab5cb.png" group-title="Dash",Insomniac Radio - Electronic Music & Festivals
+#EXTINF:-1 radio="true" tvg-id="Insomniac Radio - Electronic Music & Festivals" tvg-name="Insomniac Radio - Electronic Music & Festivals" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/218/logos/c0d7b14a-9c44-4818-94ab-4ae8039ab5cb.png" group-title="Radio",Dash Insomniac Radio - Electronic Music & Festivals
 https://ice55.securenetsystems.net/DASH65
-#EXTINF:-1 radio="true" tvg-id="Dash Dance X" tvg-name="Dash Dance X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHDANCE/dash_x_dance_color_324.png" group-title="Dash",Dash Dance X
+#EXTINF:-1 radio="true" tvg-id="Dash Dance X" tvg-name="Dash Dance X" tvg-logo="https://dashradio-files.s3.amazonaws.com/icon_logos/DASHDANCE/dash_x_dance_color_324.png" group-title="Radio",Dash Dance X
 https://ice55.securenetsystems.net/DASH81
-#EXTINF:-1 radio="true" tvg-id="Dash Bot X" tvg-name="Dash Bot X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/138/logos/fb9eaebf-1de6-4cef-99ae-b183e41fe4af.png" group-title="Dash",Dash Bot X
+#EXTINF:-1 radio="true" tvg-id="Dash Bot X" tvg-name="Dash Bot X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/138/logos/fb9eaebf-1de6-4cef-99ae-b183e41fe4af.png" group-title="Radio",Dash Bot X
 https://ice55.securenetsystems.net/DASH45
-#EXTINF:-1 radio="true" tvg-id="Electro City - Electronic Music" tvg-name="Electro City - Electronic Music" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Electrocity.png" group-title="Dash",Electro City - Electronic Music
+#EXTINF:-1 radio="true" tvg-id="Electro City - Electronic Music" tvg-name="Electro City - Electronic Music" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Electrocity.png" group-title="Radio",Dash Electro City - Electronic Music
 https://ice55.securenetsystems.net/DASH9
-#EXTINF:-1 radio="true" tvg-id="Overdrive - Mixes  Remixes  Bootlegs  & Mashups" tvg-name="Overdrive - Mixes  Remixes  Bootlegs  & Mashups" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/180/logos/8ae49444-f5b2-49a9-8fce-07d985d61fe3.png" group-title="Dash",Overdrive - Mixes  Remixes  Bootlegs  & Mashups
+#EXTINF:-1 radio="true" tvg-id="Overdrive - Mixes  Remixes  Bootlegs  & Mashups" tvg-name="Overdrive - Mixes  Remixes  Bootlegs  & Mashups" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/180/logos/8ae49444-f5b2-49a9-8fce-07d985d61fe3.png" group-title="Radio",Dash Overdrive - Mixes  Remixes  Bootlegs  & Mashups
 https://ice55.securenetsystems.net/DASH73
-#EXTINF:-1 radio="true" tvg-id="Waves - Chill Electronic & Lofi" tvg-name="Waves - Chill Electronic & Lofi" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/104/logos/ebbd8a08-e215-4824-a5cd-d0fcd28aa3c5.png" group-title="Dash",Waves - Chill Electronic & Lofi
+#EXTINF:-1 radio="true" tvg-id="Waves - Chill Electronic & Lofi" tvg-name="Waves - Chill Electronic & Lofi" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/104/logos/ebbd8a08-e215-4824-a5cd-d0fcd28aa3c5.png" group-title="Radio",Dash Waves - Chill Electronic & Lofi
 https://ice55.securenetsystems.net/DASH55
-#EXTINF:-1 radio="true" tvg-id="Ratpack - Sinatra & Friends" tvg-name="Ratpack - Sinatra & Friends" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Ratpack.png" group-title="Dash",Ratpack - Sinatra & Friends
+#EXTINF:-1 radio="true" tvg-id="Ratpack - Sinatra & Friends" tvg-name="Ratpack - Sinatra & Friends" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Ratpack.png" group-title="Radio",Dash Ratpack - Sinatra & Friends
 https://ice55.securenetsystems.net/DASH5
-#EXTINF:-1 radio="true" tvg-id="Dash R&B X" tvg-name="Dash R&B X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/50/logos/80156832-ba8b-4c3a-9e24-c5590be67b37.png" group-title="Dash",Dash R&B X
+#EXTINF:-1 radio="true" tvg-id="Dash R&B X" tvg-name="Dash R&B X" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/50/logos/80156832-ba8b-4c3a-9e24-c5590be67b37.png" group-title="Radio",Dash R&B X
 https://ice55.securenetsystems.net/DASH47
-#EXTINF:-1 radio="true" tvg-id="Snoop Dogg's Cadillacc Music - Soul  R&B  Funk  & HipHop" tvg-name="Snoop Dogg's Cadillacc Music - Soul  R&B  Funk  & HipHop" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/107/logos/590aec9f-6927-4ad8-8125-96353e4c3ca9.png" group-title="Dash",Snoop Dogg's Cadillacc Music - Soul  R&B  Funk  & HipHop
+#EXTINF:-1 radio="true" tvg-id="Snoop Dogg's Cadillacc Music - Soul  R&B  Funk  & HipHop" tvg-name="Snoop Dogg's Cadillacc Music - Soul  R&B  Funk  & HipHop" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/107/logos/590aec9f-6927-4ad8-8125-96353e4c3ca9.png" group-title="Radio",Dash Snoop Dogg's Cadillacc Music - Soul  R&B  Funk  & HipHop
 https://ice55.securenetsystems.net/DASH57
-#EXTINF:-1 radio="true" tvg-id="Cool - Classic Jazz" tvg-name="Cool - Classic Jazz" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cool.png" group-title="Dash",Cool - Classic Jazz
+#EXTINF:-1 radio="true" tvg-id="Cool - Classic Jazz" tvg-name="Cool - Classic Jazz" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Cool.png" group-title="Radio",Dash Cool - Classic Jazz
 https://ice55.securenetsystems.net/DASH6
-#EXTINF:-1 radio="true" tvg-id="Concerto - Classical" tvg-name="Concerto - Classical" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Concerto.png" group-title="Dash",Concerto - Classical
+#EXTINF:-1 radio="true" tvg-id="Concerto - Classical" tvg-name="Concerto - Classical" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Concerto.png" group-title="Radio",Dash Concerto - Classical
 https://ice55.securenetsystems.net/DASH33
-#EXTINF:-1 radio="true" tvg-id="Smooth Jazz Hits" tvg-name="Smooth Jazz Hits" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/229/logos/ec3bfac0-18e4-488b-b2f5-42451fb589e6.png" group-title="Dash",Smooth Jazz Hits
+#EXTINF:-1 radio="true" tvg-id="Smooth Jazz Hits" tvg-name="Smooth Jazz Hits" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/229/logos/ec3bfac0-18e4-488b-b2f5-42451fb589e6.png" group-title="Radio",Dash Smooth Jazz Hits
 https://ice55.securenetsystems.net/DASH44
-#EXTINF:-1 radio="true" tvg-id="Myndstream - Meditation Music for Personal Well-being" tvg-name="Myndstream - Meditation Music for Personal Well-being" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/98/logos/ce0c10bc-47ab-403e-8d71-9dbca9f10c21.png" group-title="Dash",Myndstream - Meditation Music for Personal Well-being
+#EXTINF:-1 radio="true" tvg-id="Myndstream - Meditation Music for Personal Well-being" tvg-name="Myndstream - Meditation Music for Personal Well-being" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/98/logos/ce0c10bc-47ab-403e-8d71-9dbca9f10c21.png" group-title="Radio",Myndstream - Meditation Music for Personal Well-being
 https://ice55.securenetsystems.net/DASH93
-#EXTINF:-1 radio="true" tvg-id="Dash Lofi - Chill & Instrumental Hip-Hop Beats" tvg-name="Dash Lofi - Chill & Instrumental Hip-Hop Beats" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/5a781df1-227e-452a-8576-0530244dee94.png" group-title="Dash",Dash Lofi - Chill & Instrumental Hip-Hop Beats
+#EXTINF:-1 radio="true" tvg-id="Dash Lofi - Chill & Instrumental Hip-Hop Beats" tvg-name="Dash Lofi - Chill & Instrumental Hip-Hop Beats" tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/5a781df1-227e-452a-8576-0530244dee94.png" group-title="Radio",Dash Lofi - Chill & Instrumental Hip-Hop Beats
 https://ice55.securenetsystems.net/DASH60
-#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Deep House" tvg-name="RadioSpinner - Deep House" tvg-logo="https://radiospinner.com/images/stations/deephouse-logo.jpg" group-title="RadioSpinner",RadioSpinner - Deep House
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Deep House" tvg-name="RadioSpinner - Deep House" tvg-logo="https://radiospinner.com/images/stations/deephouse-logo.jpg" group-title="Radio",RadioSpinner - Deep House
 https://live.radiospinner.com/deep-house-96
-#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Tech House" tvg-name="RadioSpinner - Tech House" tvg-logo="https://radiospinner.com/images/stations/5fc7b2e14fcdb.jpg" group-title="RadioSpinner",RadioSpinner - Tech House
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Tech House" tvg-name="RadioSpinner - Tech House" tvg-logo="https://radiospinner.com/images/stations/5fc7b2e14fcdb.jpg" group-title="Radio",RadioSpinner - Tech House
 https://live.radiospinner.com/tech-house-96
-#EXTINF:-1 radio="true" tvg-id="RadioSpinner - LoFi Chill" tvg-name="RadioSpinner - LoFi Chill" tvg-logo="https://radiospinner.com/images/stations/612ce7e3bb6f0.jpg" group-title="RadioSpinner",RadioSpinner - LoFi Chill
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - LoFi Chill" tvg-name="RadioSpinner - LoFi Chill" tvg-logo="https://radiospinner.com/images/stations/612ce7e3bb6f0.jpg" group-title="Radio",RadioSpinner - LoFi Chill
 http://live.radiospinner.com/lfch-96
-#EXTINF:-1 radio="true" tvg-id="RadioSpinner - LoFi Hip-Hop" tvg-name="RadioSpinner - LoFi Hip-Hop" tvg-logo="https://radiospinner.com/images/stations/5fc394273d911.jpg" group-title="RadioSpinner",RadioSpinner - LoFi Hip-Hop
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - LoFi Hip-Hop" tvg-name="RadioSpinner - LoFi Hip-Hop" tvg-logo="https://radiospinner.com/images/stations/5fc394273d911.jpg" group-title="Radio",RadioSpinner - LoFi Hip-Hop
 https://live.radiospinner.com/lofi-hip-hop-96
-#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Chillhop" tvg-name="RadioSpinner - Chillhop" tvg-logo="https://radiospinner.com/images/stations/6085c7f0b3f13.jpg" group-title="RadioSpinner",RadioSpinner - Chillhop
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Chillhop" tvg-name="RadioSpinner - Chillhop" tvg-logo="https://radiospinner.com/images/stations/6085c7f0b3f13.jpg" group-title="Radio",RadioSpinner - Chillhop
 https://live.radiospinner.com/chill-hop-96
-#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Chill House" tvg-name="RadioSpinner - Chill House" tvg-logo="https://radiospinner.com/images/stations/620befa834d0a.jpg" group-title="RadioSpinner",RadioSpinner - Chill House
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Chill House" tvg-name="RadioSpinner - Chill House" tvg-logo="https://radiospinner.com/images/stations/620befa834d0a.jpg" group-title="Radio",RadioSpinner - Chill House
 https://live.radiospinner.com/chllhs-96
-#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Buddha Bar Chill" tvg-name="RadioSpinner - Buddha Bar Chill" tvg-logo="https://radiospinner.com/images/stations/6172c9a0ab986.jpg" group-title="RadioSpinner",RadioSpinner - Buddha Bar Chill
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Buddha Bar Chill" tvg-name="RadioSpinner - Buddha Bar Chill" tvg-logo="https://radiospinner.com/images/stations/6172c9a0ab986.jpg" group-title="Radio",RadioSpinner - Buddha Bar Chill
 https://live.radiospinner.com/bddhbrchll-96
-#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Relax & Nirvana" tvg-name="RadioSpinner - Relax & Nirvana" tvg-logo="https://radiospinner.com/images/stations/60477ac1118a6.jpg" group-title="RadioSpinner",RadioSpinner - Relax & Nirvana
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Relax & Nirvana" tvg-name="RadioSpinner - Relax & Nirvana" tvg-logo="https://radiospinner.com/images/stations/60477ac1118a6.jpg" group-title="Radio",RadioSpinner - Relax & Nirvana
 https://live.radiospinner.com/complete-relaxation-96
-#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Coffee Jazz" tvg-name="RadioSpinner - Coffee Jazz" tvg-logo="https://radiospinner.com/images/stations/6047412e8b5d5.jpg" group-title="RadioSpinner",RadioSpinner - Coffee Jazz
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Coffee Jazz" tvg-name="RadioSpinner - Coffee Jazz" tvg-logo="https://radiospinner.com/images/stations/6047412e8b5d5.jpg" group-title="Radio",RadioSpinner - Coffee Jazz
 https://live.radiospinner.com/coffee-jazz-96
-#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Latin Jazz" tvg-name="RadioSpinner - Latin Jazz" tvg-logo="https://radiospinner.com/images/stations/608c7f3ce2dcd.jpg" group-title="RadioSpinner",RadioSpinner - Latin Jazz
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Latin Jazz" tvg-name="RadioSpinner - Latin Jazz" tvg-logo="https://radiospinner.com/images/stations/608c7f3ce2dcd.jpg" group-title="Radio",RadioSpinner - Latin Jazz
 https://live.radiospinner.com/latin-jazz-96
-#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Jazz House" tvg-name="RadioSpinner - Jazz House" tvg-logo="https://radiospinner.com/images/stations/6086afa20be4b.jpg" group-title="RadioSpinner",RadioSpinner - Jazz House
+#EXTINF:-1 radio="true" tvg-id="RadioSpinner - Jazz House" tvg-name="RadioSpinner - Jazz House" tvg-logo="https://radiospinner.com/images/stations/6086afa20be4b.jpg" group-title="Radio",RadioSpinner - Jazz House
 https://live.radiospinner.com/jazz-house-96
-#EXTINF:-1 radio="true" tvg-id="Positively Energy" tvg-name="Positively Energy" tvg-logo="https://manager.uber.radio/static/uploads/station/15980f15-72e1-404f-9d8e-00b9958fe090.png" group-title="Positivity Radio",Positively Energy
+#EXTINF:-1 radio="true" tvg-id="Positively Energy" tvg-name="Positively Energy" tvg-logo="https://manager.uber.radio/static/uploads/station/15980f15-72e1-404f-9d8e-00b9958fe090.png" group-title="Radio",Positively Energy
 https://streaming.positivity.radio/pr-app/energy/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Focus" tvg-name="Positively Focus" tvg-logo="https://manager.uber.radio/static/uploads/station/697ffb47-ca7b-4c1d-9fa8-e0c0ff965f72.png" group-title="Positivity Radio",Positively Focus
+#EXTINF:-1 radio="true" tvg-id="Positively Focus" tvg-name="Positively Focus" tvg-logo="https://manager.uber.radio/static/uploads/station/697ffb47-ca7b-4c1d-9fa8-e0c0ff965f72.png" group-title="Radio",Positively Focus
 https://streaming.positivity.radio/pr-app/posisuccessful/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Reiki" tvg-name="Positively Reiki" tvg-logo="https://manager.uber.radio/static/uploads/station/ed710726-7f38-4106-a3ce-870cd6441115.png" group-title="Positivity Radio",Positively Reiki
+#EXTINF:-1 radio="true" tvg-id="Positively Reiki" tvg-name="Positively Reiki" tvg-logo="https://manager.uber.radio/static/uploads/station/ed710726-7f38-4106-a3ce-870cd6441115.png" group-title="Radio",Positively Reiki
 https://streaming.positivity.radio/pr-app/reiki/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Vibe" tvg-name="Positively Vibe" tvg-logo="https://manager.uber.radio/static/uploads/station/899cde7c-f131-4a18-8569-29cf56a76c8a.png" group-title="Positivity Radio",Positively Vibe
+#EXTINF:-1 radio="true" tvg-id="Positively Vibe" tvg-name="Positively Vibe" tvg-logo="https://manager.uber.radio/static/uploads/station/899cde7c-f131-4a18-8569-29cf56a76c8a.png" group-title="Radio",Positively Vibe
 https://streaming.positivity.radio/pr-app/posivibe/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Calming 396Hz" tvg-name="Positively Calming 396Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/9f8f9b07-036f-45a7-9b16-99018ae9bf1e.png" group-title="Positivity Radio",Positively Calming 396Hz
+#EXTINF:-1 radio="true" tvg-id="Positively Calming 396Hz" tvg-name="Positively Calming 396Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/9f8f9b07-036f-45a7-9b16-99018ae9bf1e.png" group-title="Radio",Positively Calming 396Hz
 https://streaming.positivity.radio/pr-app/calming/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Compassion 639Hz" tvg-name="Positively Compassion 639Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/899cde7c-f131-4a18-8569-29cf56a76c8a.png" group-title="Positivity Radio",Positively Compassion 639Hz
+#EXTINF:-1 radio="true" tvg-id="Positively Compassion 639Hz" tvg-name="Positively Compassion 639Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/899cde7c-f131-4a18-8569-29cf56a76c8a.png" group-title="Radio",Positively Compassion 639Hz
 https://streaming.positivity.radio/pr-app/compassion/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Detox 741Hz" tvg-name="Positively Detox 741Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/40d29b05-b42e-498c-a133-629efa074af2.png" group-title="Positivity Radio",Positively Detox 741Hz
+#EXTINF:-1 radio="true" tvg-id="Positively Detox 741Hz" tvg-name="Positively Detox 741Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/40d29b05-b42e-498c-a133-629efa074af2.png" group-title="Radio",Positively Detox 741Hz
 https://streaming.positivity.radio/pr-app/detox/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Enlightening 936Hz" tvg-name="Positively Enlightening 936Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/4cff0579-de61-4e92-9cab-11db570122ed.png" group-title="Positivity Radio",Positively Enlightening 936Hz
+#EXTINF:-1 radio="true" tvg-id="Positively Enlightening 936Hz" tvg-name="Positively Enlightening 936Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/4cff0579-de61-4e92-9cab-11db570122ed.png" group-title="Radio",Positively Enlightening 936Hz
 https://streaming.positivity.radio/pr-app/enlightening/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Healing 285Hz" tvg-name="Positively Healing 285Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/9f2e7e0a-0a51-4e6b-a9ae-b7e005d51c2a.png" group-title="Positivity Radio",Positively Healing 285Hz
+#EXTINF:-1 radio="true" tvg-id="Positively Healing 285Hz" tvg-name="Positively Healing 285Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/9f2e7e0a-0a51-4e6b-a9ae-b7e005d51c2a.png" group-title="Radio",Positively Healing 285Hz
 https://streaming.positivity.radio/pr-app/healing/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Intuition 852Hz" tvg-name="Positively Intuition 852Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/bda079a6-e2bc-4634-82e2-948b3d0bb6f3.png" group-title="Positivity Radio",Positively Intuition 852Hz
+#EXTINF:-1 radio="true" tvg-id="Positively Intuition 852Hz" tvg-name="Positively Intuition 852Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/bda079a6-e2bc-4634-82e2-948b3d0bb6f3.png" group-title="Radio",Positively Intuition 852Hz
 https://streaming.positivity.radio/pr-app/intuition/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Pain Relief 174Hz" tvg-name="Positively Pain Relief 174Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/da3eebe1-f7fd-4962-938f-bee2b8bdcb5d.png" group-title="Positivity Radio",Positively Pain Relief 174Hz
+#EXTINF:-1 radio="true" tvg-id="Positively Pain Relief 174Hz" tvg-name="Positively Pain Relief 174Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/da3eebe1-f7fd-4962-938f-bee2b8bdcb5d.png" group-title="Radio",Positively Pain Relief 174Hz
 https://streaming.positivity.radio/pr-app/painrelief/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Peaceful 432Hz" tvg-name="Positively Peaceful 432Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/d807718b-5878-48e5-870f-00c6241c3709.png" group-title="Positivity Radio",Positively Peaceful 432Hz
+#EXTINF:-1 radio="true" tvg-id="Positively Peaceful 432Hz" tvg-name="Positively Peaceful 432Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/d807718b-5878-48e5-870f-00c6241c3709.png" group-title="Radio",Positively Peaceful 432Hz
 https://streaming.positivity.radio/pr-app/posipeaceful/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Rejuvenate 528 Hz" tvg-name="Positively Rejuvenate 528 Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/0c8d9f13-6828-466a-a0b5-d17dcff5c08f.png" group-title="Positivity Radio",Positively Rejuvenate 528 Hz
+#EXTINF:-1 radio="true" tvg-id="Positively Rejuvenate 528 Hz" tvg-name="Positively Rejuvenate 528 Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/0c8d9f13-6828-466a-a0b5-d17dcff5c08f.png" group-title="Radio",Positively Rejuvenate 528 Hz
 https://streaming.positivity.radio/pr-app/rejuvenate/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Uplifting 417Hz" tvg-name="Positively Uplifting 417Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/f8900d87-d525-41da-8345-1cee3845df55.png" group-title="Positivity Radio",Positively Uplifting 417Hz
+#EXTINF:-1 radio="true" tvg-id="Positively Uplifting 417Hz" tvg-name="Positively Uplifting 417Hz" tvg-logo="https://manager.uber.radio/static/uploads/station/f8900d87-d525-41da-8345-1cee3845df55.png" group-title="Radio",Positively Uplifting 417Hz
 https://streaming.positivity.radio/pr-app/uplifting/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Tranquil" tvg-name="Positively Tranquil" tvg-logo="https://manager.uber.radio/static/uploads/station/765078fd-51fa-4374-9791-8ff439ed38c0.png" group-title="Positivity Radio",Positively Tranquil
+#EXTINF:-1 radio="true" tvg-id="Positively Tranquil" tvg-name="Positively Tranquil" tvg-logo="https://manager.uber.radio/static/uploads/station/765078fd-51fa-4374-9791-8ff439ed38c0.png" group-title="Radio",Positively Tranquil
 https://streaming.positivity.radio/pr-app/positranquil/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Sleepy" tvg-name="Positively Sleepy" tvg-logo="https://manager.uber.radio/static/uploads/station/ac2cc0dd-5e8e-46d2-b60f-f15492b42971.png" group-title="Positivity Radio",Positively Sleepy
+#EXTINF:-1 radio="true" tvg-id="Positively Sleepy" tvg-name="Positively Sleepy" tvg-logo="https://manager.uber.radio/static/uploads/station/ac2cc0dd-5e8e-46d2-b60f-f15492b42971.png" group-title="Radio",Positively Sleepy
 https://streaming.positivity.radio/pr-app/posisleepy/icecast.audio
-#EXTINF:-1 radio="true" tvg-id="Positively Motivation" tvg-name="Positively Motivation" tvg-logo="https://manager.uber.radio/static/uploads/station/e1dd1541-b7d6-4a77-a1d0-cd0d287b6df1.png" group-title="Positivity Radio",Positively Motivation
+#EXTINF:-1 radio="true" tvg-id="Positively Motivation" tvg-name="Positively Motivation" tvg-logo="https://manager.uber.radio/static/uploads/station/e1dd1541-b7d6-4a77-a1d0-cd0d287b6df1.png" group-title="Radio",Positively Motivation
 https://streaming.positivity.radio/pr-app/motivation/icecast.audio
