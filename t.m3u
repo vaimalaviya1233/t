@@ -104,8 +104,8 @@ https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.
 https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.142.98.225/a39672dcb191bd50922a00ca46243fdf66b9dfe05bd2badf57d5b885867f5065/supertrendy3/supertrendy3/chunks.m3u8
 #EXTINF:-1 tvg-id="Mix Music Channel" tvg-name="Mix Music Channel" tvg-logo="https://supertrendy.net/wp-content/uploads/2022/08/logo-mix-aprobado-03.png" group-title="Music",Mix Music Channel
 https://cdamix.streaming.ws/mixmusic/live/chunklist_w473028903.m3u8
-#EXTINF:-1  group-title="Noticias" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png",Negocios TV #
-http://37.49.225.197:8080/Omni/kTxd7pe4MwVU8DJQ/298749
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png" group-title="Business" tvg-id="Negocios.TV" tvg-name="Negocios TV", Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES 24/7",Los simpsons
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7882.m3u8
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES 24/7",Los Simpson HD
