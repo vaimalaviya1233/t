@@ -88,11 +88,11 @@ http://45.11.56.147:8808/stream?id=144
 http://45.11.56.147:8808/stream?id=137
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceY2K.us" tvg-name="MC Y2K", MC Y2K
 http://45.11.56.147:8808/stream?id=145
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKqLTVk/image-5.png" group-title="Music" tvg-id="TraceHits.uk" tvg-name="TraceHits.uk", Trace Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TRACE_Hits.png" group-title="Music" tvg-id="TraceHits.uk" tvg-name="TraceHits.uk", Trace Hits
 https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKqLTVk/image-5.png" group-title="Music" tvg-id="TraceUrban.fr" tvg-name="TraceUrban.fr", Trace Urban
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Music" tvg-id="TraceUrban.fr" tvg-name="TraceUrban.fr", Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKqLTVk/image-5.png" group-title="Music" tvg-id="TraceLatina.fr" tvg-name="TraceLatina.fr", Trace Latina
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="Music" tvg-id="TraceLatina.fr" tvg-name="TraceLatina.fr", Trace Latina
 https://i.mjh.nz/SamsungTVPlus/ESBA3300042Y6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music" tvg-id="XITE.nl" tvg-name="XITE Hits", XITE Hits
 https://i.mjh.nz/SamsungTVPlus/ESBA3300042Y6.m3u8
