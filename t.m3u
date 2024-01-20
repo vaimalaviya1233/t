@@ -2,9 +2,9 @@
 
 #EXTINF:-1 tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png" group-title="Music", m2o
 https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKqLTVk/image-5.png" group-title="Music" tvg-id="QMusic.be" tvg-name="Qmusic", Qmusic
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKqLTVk/image-5.png" group-title="Music" tvg-id="QMusic.be" tvg-name="Qmusic", Qmusic Belgium
 https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tKqLTVk/image-5.png" group-title="Music" tvg-id="Qmusic.nl" tvg-name="Qmusic", Qmusic
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tKqLTVk/image-5.png" group-title="Music" tvg-id="Qmusic.nl" tvg-name="Qmusic", Qmusic Netherlands
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music" tvg-id="MTV00s.us" tvg-name="MTV 00s", MTV 00s
 http://208.88.246.11:5473/mtvhitsts/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8|user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
