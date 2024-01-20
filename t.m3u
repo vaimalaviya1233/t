@@ -26,6 +26,10 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887378&exten
 https://is.gd/3x3BN7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Mtv_live_hd_new_logo.png" group-title="Music" tvg-id="MTVLiveHD.us" tvg-name="MTVLiveHD.us", MTV Live
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/BET_Jams_Logo.png" group-title="Music" tvg-id="BETJams.us" tvg-name="BET Jams", BET Jams
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/950
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png" group-title="Music" tvg-id="BETSoul.us" tvg-name="BET Soul", BET Soul
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/951
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoice80s.us" tvg-name="MC '80s", MC '80s
 http://45.11.56.147:8808/stream?id=1113
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoice90s.us" tvg-name="MC '90s", MC '90s
