@@ -108,8 +108,12 @@ https://i.mjh.nz/SamsungTVPlus/USBD3300010L9.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music" tvg-id="XITE.nl" tvg-name="XITE Icons", XITE Icons
 https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music" tvg-id="XITE.nl" tvg-name=" XITE R&B Classic Jams",  XITE R&B Classic Jams
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music" tvg-id="XITE.nl" tvg-name="XITE R&B Classic Jams", XITE R&B Classic Jams
 https://i.mjh.nz/SamsungTVPlus/USBD330000948.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Music" tvg-id="VevoHipHop.us" tvg-name="Vevo Hip Hop", Vevo Hip Hop
+https://i.mjh.nz/SamsungTVPlus/USBC3600002EK.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg" group-title="Music" tvg-id="VevoRB.us" tvg-name=" Vevo R&B",  Vevo R&B
+https://i.mjh.nz/SamsungTVPlus/USBC3900009K5.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png" group-title="Music" tvg-id="ClubbingTV.fr" tvg-name="ClubbingTV.fr", Clubbing TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Fjbaj5EjZrd0n3dLPT-do9j4rpt4aapi0msad-oXG2K4cQQvLTBB6ioLOiiBVZU3pXEI" group-title="Music", The Lot Radio
