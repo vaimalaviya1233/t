@@ -167,7 +167,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uW4WIvC.png" group-title="Business" tvg-id="WOBI.ar" tvg-name="WOBI", WOBI
 http://181.78.208.254:8010/play/a07u/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmoueNU.png" group-title="Business" tvg-id="ElFinancieroBloombergTV.mx" tvg-name="El Financiero Bloomberg TV", El Financiero Bloomberg TV
-http://181.78.208.254:8010/play/a07u/index.m3u8?null=0
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26961
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Entertainment" tvg-id="HBOLatinAmerica.us" tvg-name="HBO Latin America", HBO Latin America
 http://45.5.119.155:8090/play/a0l2/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Entertainment" tvg-id="HBO2LatinAmericaHD.us" tvg-name="HBO 2 Latin America", HBO 2 Latin America
