@@ -134,6 +134,12 @@ https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c01ebda0-1d80-4935-ad6a-a5d3c3ef108e/Stingray-Naturescape_Logo_Lightrdx.png" group-title="Music" tvg-id="StingrayNaturescape.ca" tvg-name="Stingray Naturescape", Stingray Naturescape
 https://i.mjh.nz/SamsungTVPlus/USAK3508705A.m3u8
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/6058a55e7bf32c592084ed88/6059be4e542a774d2917fcbb_newLogo-white.png" group-title="Music" tvg-id="QwestTV.fr" tvg-name="Qwest TV", Qwest TV
+https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="Music" tvg-id="QwestTVJazzBeyond.fr" tvg-name="Qwest TV Jazz & Beyond", Qwest TV Jazz & Beyond
+https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lO22nwk.png" group-title="Music" tvg-id="QwestTVMix.fr" tvg-name="Qwest TV Mix", Qwest TV Mix
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fbgxqqq.png" group-title="Music" tvg-id="IHeart80s.us" tvg-name="iHeart 80s", iHeart 80s
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/329ab2f0-5d1a-4e71-9f9a-e6d5674ad982" group-title="Music" tvg-id="IHeart90s.us" tvg-name="iHeart 90s", iHeart 90s
