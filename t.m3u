@@ -130,6 +130,10 @@ https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c01ebda0-1d80-4935-ad6a-a5d3c3ef108e/Stingray-Naturescape_Logo_Lightrdx.png" group-title="Music" tvg-id="StingrayNaturescape.ca" tvg-name="Stingray Naturescape", Stingray Naturescape
 https://i.mjh.nz/SamsungTVPlus/USAK3508705A.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fbgxqqq.png" group-title="Music" tvg-id="IHeart80s.us" tvg-name="iHeart 80s", iHeart 80s
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/329ab2f0-5d1a-4e71-9f9a-e6d5674ad982" group-title="Music" tvg-id="IHeart90s.us" tvg-name="iHeart 90s", iHeart 90s
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Musik 104.5 FM Caracas" tvg-name="Musik 104.5 FM Caracas" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 104.5 FM Caracas
 https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.142.98.225/6743abc7b63e7a42474c7cdf28e1b27005af4b72a0b8d102b976270f33f52556/supertrendy2/supertrendy2/chunks.m3u8
 #EXTINF:-1 tvg-id="Musik 101.9 FM Valencia" tvg-name="Musik 101.9 FM Valencia" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 101.9 FM Valencia
@@ -138,6 +142,8 @@ https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.
 https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.142.98.225/a39672dcb191bd50922a00ca46243fdf66b9dfe05bd2badf57d5b885867f5065/supertrendy3/supertrendy3/chunks.m3u8
 #EXTINF:-1 tvg-id="Mix Music Channel" tvg-name="Mix Music Channel" tvg-logo="https://supertrendy.net/wp-content/uploads/2022/08/logo-mix-aprobado-03.png" group-title="Music",Mix Music Channel
 https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tropicalmusictv.com/wp-content/uploads/2022/07/tropical_music_logo_red-155x68px.png" group-title="Music" tvg-id="TropicalMusicTV.us" tvg-name="Tropical Music TV", Tropical Music TV
+http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png" group-title="Business" tvg-id="Negocios.TV" tvg-name="Negocios TV", Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES 24/7",Los simpsons
