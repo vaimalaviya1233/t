@@ -192,10 +192,12 @@ http://45.5.119.155:8090/play/a0i4/index.m3u8?null=0
 http://45.5.119.155:8090/play/a0i3/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Entertainment" tvg-id="UniversalPremiereEast.us" tvg-name="Universal Premiere", Universal Premiere
 http://45.5.119.155:8090/play/a0i1/index.m3u8?null=0
-#EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES 24/7",Los simpsons
-http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7882.m3u8
-#EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES 24/7",Los Simpson HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58314
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="Los Simpsons S01 a S20", Los Simpsons S01 a S20
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/37767
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="Los Simpsons S20 a S30", Los Simpsons S20 a S30
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/37758
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fresh_Prince_Bel_Aire_logo.png" group-title="24/7" tvg-id="" tvg-name="El Principe del Rap", El Principe del Rap
+http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/37799
 #EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://latinurbano.com/logo.jpg" group-title="Radio",Latinurbano Radio
 http://radio.latinurbano.com/radio
 #EXTINF:-1 radio="true" tvg-id="DJ Pflow Radio" tvg-name="DJ Pflow Radio" tvg-logo="https://djpflow.com/logo.jpg" group-title="Radio",DJ Pflow Radio
