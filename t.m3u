@@ -8,6 +8,8 @@ https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="Music" tvg-id="MTVEast.us" tvg-name="MTV East", MTV East
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45461
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="Music" tvg-id="MTVEast.us" tvg-name="MTV LA", MTV LA
+http://181.78.208.254:8010/play/a05p/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445550073010540557/zOdg7dKW_400x400.jpg" group-title="Music" tvg-id="MTVPlutoTV.us" tvg-name="MTV Pluto TV", MTV Pluto TV
 https://i.mjh.nz/SamsungTVPlus/USBA3000093U.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/800px-Club_MTV_2021_logo.svg.png" group-title="Music" tvg-id="ClubMTVEurope.uk" tvg-name="Club MTV", Club MTV
@@ -16,6 +18,8 @@ http://iptv.prosto.tv:7000/ch125/video.m3u8
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1372
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music" tvg-id="MTVLive.us" tvg-name="MTV Live", MTV Live
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45460
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music" tvg-id="MTVLive.uk" tvg-name="MTV Live LA", MTV Live LA
+http://181.78.208.254:8010/play/a04a/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="Music" tvg-id="MTVClassicEast.us" tvg-name="MTV Classic", MTV Classic
 https://tinyurl.com/fx5efdhn/357
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zNscEST.png" group-title="Music" tvg-id="MTVHitsEurope.us" tvg-name="MTVHitsEurope.us", MTV Hits Europe
@@ -123,6 +127,8 @@ http://ky-iptv.com/harrell421/pass421/391299.ts
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sonomalibrary.org/sites/default/files/styles/max_325x325/public/images/elibrary/logos/Quello_0.png" group-title="Music" tvg-id="QelloConcertsbyStingray.ca" tvg-name="Qello Concerts by Stingray", Qello Concerts by Stingray
 https://i.mjh.nz/SamsungTVPlus/USBD3500024YB.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GKc7RFz.png" group-title="Music" tvg-id="StingrayiConcerts.ca" tvg-name="Stingray iConcerts", Stingray iConcerts
+http://181.78.208.254:8010/play/a05b/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://cdn.startimestv.com/static/image/product/5a6235c1-dd9f-4541-991e-cdd762b94276.png" group-title="Music" tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica", Stingray Classica
 https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8
 #EXTINF:-1 tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/entertainment_products/logos/stingray_djazz_rgb_color_renv.png" group-title="Music" tvg-id="StingrayDJAZZ.ca" tvg-name="Stingray DJAZZ", Stingray DJAZZ
@@ -135,6 +141,10 @@ https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qw
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/329ab2f0-5d1a-4e71-9f9a-e6d5674ad982" group-title="Music" tvg-id="IHeart90s.us" tvg-name="iHeart 90s", iHeart 90s
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Music" tvg-id="HTV.us" tvg-name="HTV", HTV
+http://181.78.208.254:8010/play/a02u/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Music" tvg-id="HTV.us" tvg-name="HTV", HTV
+http://181.78.208.254:8010/play/a02u/index.m3u8?null=0
 #EXTINF:-1 tvg-id="Musik 104.5 FM Caracas" tvg-name="Musik 104.5 FM Caracas" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 104.5 FM Caracas
 https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.142.98.225/6743abc7b63e7a42474c7cdf28e1b27005af4b72a0b8d102b976270f33f52556/supertrendy2/supertrendy2/chunks.m3u8
 #EXTINF:-1 tvg-id="Musik 101.9 FM Valencia" tvg-name="Musik 101.9 FM Valencia" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 101.9 FM Valencia
@@ -147,6 +157,8 @@ https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png" group-title="Business" tvg-id="Negocios.TV" tvg-name="Negocios TV", Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uW4WIvC.png" group-title="Business" tvg-id="WOBI.ar" tvg-name="WOBI", WOBI
+http://181.78.208.254:8010/play/a07u/index.m3u8?null=0
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES 24/7",Los simpsons
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7882.m3u8
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES 24/7",Los Simpson HD
