@@ -166,236 +166,36 @@ http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uW4WIvC.png" group-title="Business" tvg-id="WOBI.ar" tvg-name="WOBI", WOBI
 http://181.78.208.254:8010/play/a07u/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmoueNU.png" group-title="Business" tvg-id="ElFinancieroBloombergTV.mx" tvg-name="El Financiero Bloomberg TV", El Financiero Bloomberg TV
+http://181.78.208.254:8010/play/a07u/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Entertainment" tvg-id="HBOLatinAmerica.us" tvg-name="HBO Latin America", HBO Latin America
+http://45.5.119.155:8090/play/a0l2/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Entertainment" tvg-id="HBO2LatinAmericaHD.us" tvg-name="HBO 2 Latin America", HBO 2 Latin America
+http://45.5.119.155:8090/play/a00c/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Entertainment" tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+ Latin America", HBO+ Latin America
+http://45.5.119.155:8090/play/a0l4/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Entertainment" tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family Latin America", HBO Family Latin America
+http://45.5.119.155:8090/play/a0l5/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Entertainment" tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America", HBO Xtreme Latin America
+http://45.5.119.155:8090/play/a0l6/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="Entertainment" tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO Pop Latin America", HBO Pop Latin America
+http://45.5.119.155:8090/play/a0l6/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Entertainment" tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO Signature Latin America", HBO Signature Latin America
+http://45.5.119.155:8090/play/a0l6/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Entertainment" tvg-id="UniversalCinema.us" tvg-name="Universal Cinema", Universal Cinema
+http://45.5.119.155:8090/play/a0kt/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="Entertainment" tvg-id="UniversalComedy.us" tvg-name="Universal Comedy", Universal Comedy
+http://45.5.119.155:8090/play/a0i5/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Entertainment" tvg-id="UniversalCrimeEast.us" tvg-name="Universal Crime", Universal Crime
+http://45.5.119.155:8090/play/a0i4/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mqfUD1R.png" group-title="Entertainment" tvg-id="UniversalReality.us" tvg-name="Universal Reality", Universal Reality
+http://45.5.119.155:8090/play/a0i3/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Entertainment" tvg-id="UniversalPremiereEast.us" tvg-name="Universal Premiere", Universal Premiere
+http://45.5.119.155:8090/play/a0i1/index.m3u8?null=0
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES 24/7",Los simpsons
 http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7882.m3u8
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES 24/7",Los Simpson HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58314
-#EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES 24/7",Los Simpson FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50616
-#EXTINF:-1 tvg-id="Los Simpson Horror" tvg-name="Los Simpson Horror" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES 24/7",Los Simpson Horror
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50617
-#EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES 24/7",Los Simpson Retro
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50618
-#EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="SERIES 24/7",Retro Simpsons
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58071
-#EXTINF:-1 tvg-id="Cuentos de la Cripta" tvg-name="Cuentos de la Cripta" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Tales_from_the_crypt_title_shot.png" group-title="SERIES 24/7",Cuentos de la Cripta
-#EXTINF:-1 tvg-id="Disney Live Action" tvg-name="Disney Live Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Walt_Disney_Pictures_text_logo.svg/800px-Walt_Disney_Pictures_text_logo.svg.png" group-title="SERIES 24/7",Disney Live Action
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50595
-#EXTINF:-1 tvg-id="Disney Princess" tvg-name="Disney Princess" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Walt_Disney_Pictures_text_logo.svg/800px-Walt_Disney_Pictures_text_logo.svg.png" group-title="SERIES 24/7",Disney Princess
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50596
-#EXTINF:-1 tvg-id="El Laboratorio de Dexter" tvg-name="El Laboratorio de Dexter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dexter-logo.png" group-title="SERIES 24/7",El Laboratorio de Dexter
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50598
-#EXTINF:-1 tvg-id="Futurama" tvg-name="Futurama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Futurama_1999_logo.svg" group-title="SERIES 24/7",Futurama
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50599
-#EXTINF:-1 tvg-id="Moviecenter Kids" tvg-name="Moviecenter Kids" tvg-logo="https://i.pinimg.com/originals/76/9c/1f/769c1fe84f35443be28d61396cad174a.png" group-title="SERIES 24/7",Moviecenter Kids
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50622
-#EXTINF:-1 tvg-id="Moviecenter Premium" tvg-name="Moviecenter Premium" tvg-logo="https://i.pinimg.com/originals/76/9c/1f/769c1fe84f35443be28d61396cad174a.png" group-title="SERIES 24/7",Moviecenter Premium
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50623
-#EXTINF:-1 tvg-id="Moviecenter Premium Este" tvg-name="Moviecenter Premium Este" tvg-logo="https://i.pinimg.com/originals/76/9c/1f/769c1fe84f35443be28d61396cad174a.png" group-title="SERIES 24/7",Moviecenter Premium Este
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50624
-#EXTINF:-1 tvg-id="Moviecenter Premium Oeste" tvg-name="Moviecenter Premium Oeste" tvg-logo="https://i.pinimg.com/originals/76/9c/1f/769c1fe84f35443be28d61396cad174a.png" group-title="SERIES 24/7",Moviecenter Premium Oeste
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50625
-#EXTINF:-1 tvg-id="Rick y Morty" tvg-name="Rick y Morty" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rick_and_Morty.svg/2560px-Rick_and_Morty.svg.png" group-title="SERIES 24/7",Rick y Morty
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50631
-#EXTINF:-1 tvg-id="South Park" tvg-name="South Park" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/South_Park_main_characters.png" group-title="SERIES 24/7",South Park
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50632
-#EXTINF:-1 tvg-id="South Park" tvg-name="South Park" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/South_Park_main_characters.png" group-title="SERIES 24/7",South Park HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35509
-#EXTINF:-1 tvg-id="Pato Aventuras" tvg-name="Pato Aventuras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Patoaventuras_Logo.png/1200px-Patoaventuras_Logo.png" group-title="SERIES 24/7",Pato Aventuras
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50637
-#EXTINF:-1 tvg-id="Animaniacs" tvg-name="Animaniacs" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8a/Animaniacs.png" group-title="SERIES 24/7",Animaniacs
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50640
-#EXTINF:-1 tvg-id="La Pantera Rosa" tvg-name="La Pantera Rosa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Pinkpanther-logo.svg/1280px-Pinkpanther-logo.svg.png" group-title="SERIES 24/7",La Pantera Rosa
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/34443
-#EXTINF:-1 tvg-id="Alf" tvg-name="Alf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alf.svg/1200px-Alf.svg.png" group-title="SERIES 24/7",Alf
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/34475
-#EXTINF:-1 tvg-id="Alf" tvg-name="Alf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alf.svg/1200px-Alf.svg.png" group-title="SERIES 24/7",Alf
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/34475
-#EXTINF:-1 tvg-id="Looney Tunes Platinum" tvg-name="Looney Tunes Platinum" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6d/Looney_Tunes_Logo.png" group-title="SERIES 24/7",Looney Tunes Platinum
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35481
-#EXTINF:-1 tvg-id="Daniel El Travieso" tvg-name="Daniel El Travieso" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b5f6bca884c5c3f64e9804146f1be1789f44f7816afe61808075030410a688a1._RI_V_TTW_.jpg" group-title="SERIES 24/7",Daniel El Travieso
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35483
-#EXTINF:-1 tvg-id="Tom y Jerry" tvg-name="Tom y Jerry" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tom_and_Jerry_logo.svg/800px-Tom_and_Jerry_logo.svg.png" group-title="SERIES 24/7",Tom y Jerry
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35484
-#EXTINF:-1 tvg-id="Pinky ElMyra Y Cerebro" tvg-name="Pinky ElMyra Y Cerebro" tvg-logo="https://static.wikia.nocookie.net/animaniacs/images/b/bc/Logo_PEATB_Episodes.png" group-title="SERIES 24/7",Pinky ElMyra Y Cerebro
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35488
-#EXTINF:-1 tvg-id="El Pájaro Loco" tvg-name="El Pájaro Loco" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/5/54/New_Woody_Wodpecker_Show.png" group-title="SERIES 24/7",El Pájaro Loco
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35495
-#EXTINF:-1 tvg-id="Los Picapiedras" tvg-name="Los Picapiedras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/The_Flintstones.png" group-title="SERIES 24/7",Los Picapiedras
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35497
-#EXTINF:-1 tvg-id="Fenomenoide" tvg-name="Fenomenoide" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Freakazoid_logo.png" group-title="SERIES 24/7",Fenomenoide
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35500
-#EXTINF:-1 tvg-id="La Pequeña LuLú" tvg-name="La Pequeña LuLú" tvg-logo="https://www.vhv.rs/dpng/d/577-5773060_the-little-lulu-show-logos-de-pequea-lulu.png" group-title="SERIES 24/7",La Pequeña LuLú
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35501
-#EXTINF:-1 group-title="SERIES 24/7", Patoaventura 2017 HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35511
-#EXTINF:-1 group-title="SERIES 24/7", Padre De Familia HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35512
-#EXTINF:-1 group-title="SERIES 24/7", Bob Esponja HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35517
-#EXTINF:-1 group-title="SERIES 24/7", PatoAventuras 1987 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35518
-#EXTINF:-1 group-title="SERIES 24/7", Malcolm HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35523
-#EXTINF:-1 group-title="SERIES 24/7", El Show De Looney Tunes HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35526
-#EXTINF:-1 group-title="SERIES 24/7",  Scooby Doo HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35533
-#EXTINF:-1 group-title="SERIES 24/7", Alienigenas Ancestrales SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49167
-#EXTINF:-1 group-title="SERIES 24/7", El Auto Fantastico SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49184
-#EXTINF:-1 group-title="SERIES 24/7", El Auto Fantastico (2008) SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49185
-#EXTINF:-1 group-title="SERIES 24/7", MacGiver (2016) Temp 1 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49186
-#EXTINF:-1 group-title="SERIES 24/7", Hechizada Temp 1 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49192
-#EXTINF:-1 group-title="SERIES 24/7", Friends Temp 1 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49199
-#EXTINF:-1 group-title="SERIES 24/7", Paso A Paso SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49203
-#EXTINF:-1 group-title="SERIES 24/7", Full House Temp 1 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49212
-#EXTINF:-1 group-title="SERIES 24/7", Animaniacs SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49221
-#EXTINF:-1 group-title="SERIES 24/7", El Laboratorio de Dexter SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49230
-#EXTINF:-1 group-title="SERIES 24/7", Aladino SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49245
-#EXTINF:-1 group-title="SERIES 24/7", Super Mario Bross 3 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49249
-#EXTINF:-1 group-title="SERIES 24/7", Rugrats Aventura en Pañales SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49254
-#EXTINF:-1 group-title="SERIES 24/7", Capitan Cabernicola SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49256
-#EXTINF:-1 group-title="SERIES 24/7", Jhonny Bravo SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49257
-#EXTINF:-1 group-title="SERIES 24/7", La Vaca y el Pollito SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49258
-#EXTINF:-1 group-title="SERIES 24/7", Las Aventuras de Tin Tin SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49260
-#EXTINF:-1 group-title="SERIES 24/7", Inspector Gadget SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49261
-#EXTINF:-1 group-title="SERIES 24/7", El Oso Yogui SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49262
-#EXTINF:-1 group-title="SERIES 24/7", Fenomenoide SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49268
-#EXTINF:-1 group-title="SERIES 24/7", El Gallo Claudio SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49275
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Marvel Studios Este FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58067
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Marvel Studios Oeste FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58068
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Anime [test] FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58069
-#EXTINF:-1 group-title="SERIES 24/7", VIP Bob Esponja SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58076
-#EXTINF:-1 group-title="SERIES 24/7", VIP El Pajaro Loco SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58086
-#EXTINF:-1 group-title="SERIES 24/7", VIP Fenomenoide SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58087
-#EXTINF:-1 group-title="SERIES 24/7", VIP Gallo claudio SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58088
-#EXTINF:-1 group-title="SERIES 24/7", VIP Amazon Kids (Test) FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58090
-#EXTINF:-1 group-title="SERIES 24/7", VIP El Show de Garfield FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58097
-#EXTINF:-1 group-title="SERIES 24/7", VIP Mickey Mouse
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58100
-#EXTINF:-1 group-title="SERIES 24/7", VIP Los Picapiedras SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58112
-#EXTINF:-1 group-title="SERIES 24/7", VIP Looney Tunes Show FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58116
-#EXTINF:-1 group-title="SERIES 24/7", VIP Looney Tunes HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58117
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cocina Real TV FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58127
-#EXTINF:-1 group-title="SERIES 24/7", VIP Riquisimo FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58128
-#EXTINF:-1 group-title="SERIES 24/7", VIP Mega Gourmet HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58129
-#EXTINF:-1 group-title="SERIES 24/7", VIP 13 Docu SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58130
-#EXTINF:-1 group-title="SERIES 24/7", VIP Hagalo Usted Mismo TV
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58131
-#EXTINF:-1 group-title="SERIES 24/7", ALF SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58260
-#EXTINF:-1 group-title="SERIES 24/7", Animaniacs SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58262
-#EXTINF:-1 group-title="SERIES 24/7", 11 Beetlejuice HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58263
-#EXTINF:-1 group-title="SERIES 24/7", Cantinflas HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58264
-#EXTINF:-1 group-title="SERIES 24/7", Coraje SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58267
-#EXTINF:-1 group-title="SERIES 24/7", Daniel el travieso SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58268
-#EXTINF:-1 group-title="SERIES 24/7", El Gato Felix SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58280
-#EXTINF:-1 group-title="SERIES 24/7", El Principe De Rap SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58284
-#EXTINF:-1 group-title="SERIES 24/7", El Principe Del Rap 2 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58285
-#EXTINF:-1 group-title="SERIES 24/7", Los Locos Addams SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58306
-#EXTINF:-1 group-title="SERIES 24/7", Los peligros De Penelope Glamour SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58307
-#EXTINF:-1 group-title="SERIES 24/7", Los peligros De Penelope Glamour SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58308
-#EXTINF:-1 group-title="SERIES 24/7", Los pequeños Looney Tunes HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58309
-#EXTINF:-1 group-title="SERIES 24/7", Los pequeños Tom y Jerry SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58310
-#EXTINF:-1 group-title="SERIES 24/7", Los Picapiedras SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58311
-#EXTINF:-1 group-title="SERIES 24/7", MALCOLM SD
-#EXTINF:-1 group-title="SERIES 24/7", Pajaro Loco HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58322
-#EXTINF:-1 group-title="SERIES 24/7", The Big Bang Theory FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58228
-#EXTINF:-1 group-title="SERIES 24/7", Mi pobre angelito SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58209
-#EXTINF:-1 group-title="SERIES 24/7", Looney Tunes  1 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58207
-#EXTINF:-1 group-title="SERIES 24/7", Family Guy HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58183
-#EXTINF:-1 group-title="SERIES 24/7", Archie y Sabrina la Hechicera SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58161
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Accion Classics FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50572
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Ciencia Ficcion FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50573
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Horror Classics HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50574
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Comedia FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50575
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema DC Comics FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50576
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema DC Universe HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50577
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Disney Family FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50578
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Disney Pixar FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50579
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Dreamworks FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50580
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Familia FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50581
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Happy Madison FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50582
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Horror FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50583
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Lego Movies FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50584
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Marvel Animated FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50585
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Marvel Studios FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50586
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cinema Navidad FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50587
-#EXTINF:-1 group-title="SERIES 24/7", VIP Cocina Abierta FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50588
 #EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://latinurbano.com/logo.jpg" group-title="Radio",Latinurbano Radio
 http://radio.latinurbano.com/radio
 #EXTINF:-1 radio="true" tvg-id="DJ Pflow Radio" tvg-name="DJ Pflow Radio" tvg-logo="https://djpflow.com/logo.jpg" group-title="Radio",DJ Pflow Radio
