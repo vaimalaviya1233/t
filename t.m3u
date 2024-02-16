@@ -15,12 +15,11 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/800px-Club_MTV_2021_logo.svg.png" group-title="Music" tvg-id="ClubMTVEurope.uk" tvg-name="Club MTV", Club MTV
 http://iptv.prosto.tv:7000/ch125/video.m3u8
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/MTV2.us.png" group-title="Music" tvg-id="MTV2East.us" tvg-name="MTV 2", MTV 2
-http://goodtv.nicevcd.xyz:8080//live/v09070/8249889012/350244.ts
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1372
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music" tvg-id="MTVLive.us" tvg-name="MTV Live", MTV Live
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45460
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/6a9be37123e36e726eb8d071f434654a.png" group-title="Music" tvg-id="" tvg-name="", MTV Classic
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887378&extension=ts&play_token=xGAbSRTiiG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="Music" tvg-id="MTVClassicEast.us" tvg-name="MTV Classic", MTV Classic
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1074
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTclOQY6awmGtbdEmmjb3X3oru7VkJXgYib-A&usqp=CAU" group-title="Music" tvg-id="MTVHitsEurope.us" tvg-name="MTVHitsEurope.us", MTV Hits Europe
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://is.gd/3x3BN7
