@@ -10,8 +10,6 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 https://tinyurl.com/fx5efdhn/358
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="Music" tvg-id="MTVEast.us" tvg-name="MTV LA", MTV LA
 http://181.78.208.254:8010/play/a05p/index.m3u8?null=0
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445550073010540557/zOdg7dKW_400x400.jpg" group-title="Music" tvg-id="MTVPlutoTV.us" tvg-name="MTV Pluto TV", MTV Pluto TV
-https://i.mjh.nz/SamsungTVPlus/USBA3000093U.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/800px-Club_MTV_2021_logo.svg.png" group-title="Music" tvg-id="ClubMTVEurope.uk" tvg-name="Club MTV", Club MTV
 http://iptv.prosto.tv:7000/ch125/video.m3u8
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/MTV2.us.png" group-title="Music" tvg-id="MTV2East.us" tvg-name="MTV 2", MTV 2
@@ -28,6 +26,18 @@ http://45.5.119.155:8090/play/a0hz/index.m3u8
 http://45.5.119.155:8090/play/a0i0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N9e5hv5.png" group-title="Music" tvg-id="MTV80s.uk" tvg-name="MTV 80s", MTV 80s
 http://45.5.119.155:8090/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445550073010540557/zOdg7dKW_400x400.jpg" group-title="Music" tvg-id="MTVPlutoTV.us" tvg-name="MTV Pluto TV", MTV Pluto TV
+https://i.mjh.nz/SamsungTVPlus/USBA3000093U.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/featuredImage.jpg" group-title="Music" tvg-id="YoMTV.us" tvg-name="Yo! MTV",  Yo! MTV
+https://r.mjh.nz/PlutoTV/5d14fc31252d35decbc4080b-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c10558060e830008ed1b0a/featuredImage.jpg" group-title="Music" tvg-id="YoMTVRapsClassic.us" tvg-name="Yo! MTV Raps Classic", Yo! MTV Raps Classic
+https://r.mjh.nz/PlutoTV/64c10558060e830008ed1b0a-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6245cf8ac69baf000718295a/featuredImage.jpg" group-title="Music" tvg-id="MTVApprovedHipHop.us" tvg-name="MTV Approved Hip-Hop", MTV Approved Hip-Hop
+https://r.mjh.nz/PlutoTV/6245cf8ac69baf000718295a-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/featuredImage.jpg" group-title="Music" tvg-id="MTVBiggestPop.us" tvg-name=" MTV Biggest Pop", MTV Biggest Pop
+https://r.mjh.nz/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65a6939b4a10d800085cee92/featuredImage.jpg" group-title="Music" tvg-id="MTVBestof.us" tvg-name=" MTV Best of", MTV Best of
+https://r.mjh.nz/PlutoTV/65a6939b4a10d800085cee92-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/BET_Jams_Logo.png" group-title="Music" tvg-id="BETJams.us" tvg-name="BET Jams", BET Jams
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/950
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png" group-title="Music" tvg-id="BETSoul.us" tvg-name="BET Soul", BET Soul
