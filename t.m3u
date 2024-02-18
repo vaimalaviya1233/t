@@ -216,6 +216,8 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 http://181.78.208.254:8010/play/a07u/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmoueNU.png" group-title="Business" tvg-id="ElFinancieroBloombergTV.mx" tvg-name="El Financiero Bloomberg TV", El Financiero Bloomberg TV
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26961
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Entertainment" tvg-id="A&E.mx" tvg-name="A&E",A&E
+http://190.90.154.73:8080/play/a00o/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Entertainment" tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America",AMC Latin America
 http://190.149.66.90:4000/play/a01m/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="Entertainment" tvg-id="AXN.mx" tvg-name="AXN",AXN
@@ -225,7 +227,7 @@ http://190.149.66.90:4000/play/a03h/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="Entertainment" tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinecanal",Cinecanal
 http://190.90.154.73:8080/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="Entertainment" tvg-id="FX.mx" tvg-name="FX",FX
-http://190.90.154.73:8080/play/a022/index.m3u8
+http://190.90.154.73:8080/play/a02x/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="Entertainment" tvg-id="GoldenPanregional.mx" tvg-name="Golden",Golden
 http://138.59.177.34:8000/play/a04d/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="Entertainment" tvg-id="GoldenPlus.mx" tvg-name="Golden Plus",Golden Plus
@@ -243,7 +245,7 @@ http://190.149.66.90:4000/play/a03g/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Entertainment" tvg-id="SonyMoviesLatinAmerica.us" tvg-name="Sony Movies",Sony Movies
 http://190.149.66.90:4000/play/a01q/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="Entertainment" tvg-id="Space.mx" tvg-name="Space",Space
-http://190.149.66.90:4000/play/a03e/index.m3u8?null=0
+http://190.90.154.73:8080/play/a00p/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Entertainment" tvg-id="StarChannelSouth.us" tvg-name="Star Channel",Star Channel
 http://190.149.66.90:4000/play/a03e/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="Entertainment" tvg-id="StudioUniversal.mx" tvg-name="Studio Universal",Studio Universal
