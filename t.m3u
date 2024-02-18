@@ -8,8 +8,8 @@ https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="Music" tvg-id="MTVEast.us" tvg-name="MTV East", MTV East
 https://tinyurl.com/fx5efdhn/358
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="Music" tvg-id="MTVEast.us" tvg-name="MTV LA", MTV LA
-http://181.78.208.254:8010/play/a05p/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="Music" tvg-id="MTVenEspanol.us" tvg-name="MTV LA", MTV LA
+http://190.149.66.90:4000/play/a01e/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/800px-Club_MTV_2021_logo.svg.png" group-title="Music" tvg-id="ClubMTVEurope.uk" tvg-name="Club MTV", Club MTV
 http://iptv.prosto.tv:7000/ch125/video.m3u8
 #EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/MTV2.us.png" group-title="Music" tvg-id="MTV2East.us" tvg-name="MTV 2", MTV 2
@@ -17,15 +17,15 @@ http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1372
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music" tvg-id="MTVLive.us" tvg-name="MTV Live", MTV Live
 https://tinyurl.com/fx5efdhn/359
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music" tvg-id="MTVLive.uk" tvg-name="MTV Live LA", MTV Live LA
-http://181.78.208.254:8010/play/a04a/index.m3u8?null=0
+http://190.149.66.90:4000/play/a03r/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="Music" tvg-id="MTVClassicEast.us" tvg-name="MTV Classic", MTV Classic
 https://tinyurl.com/fx5efdhn/357
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" group-title="Music" tvg-id="MMTVHits.uk" tvg-name="MTV Hits", MTV Hits
-http://45.5.119.155:8090/play/a0hz/index.m3u8
+http://190.149.66.90:4000/play/a012/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l5wBRfF.png" group-title="Music" tvg-id="MTV00s.uk" tvg-name="MTV 00s", MTV 00s
-http://45.5.119.155:8090/play/a0i0/index.m3u8
+http://190.149.66.90:4000/play/a03s/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N9e5hv5.png" group-title="Music" tvg-id="MTV80s.uk" tvg-name="MTV 80s", MTV 80s
-http://45.5.119.155:8090/play/a0ge/index.m3u8
+http://190.149.66.90:4000/play/a013/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Music" tvg-id="USBA3000093U" tvg-name="MTV Pluto TV", MTV Pluto TV
 https://i.mjh.nz/SamsungTVPlus/USBA3000093U.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="Music" tvg-id="USBA3000093U" tvg-name="MTV en Espanol",MTV en Espanol
@@ -181,7 +181,7 @@ http://181.78.208.254:8010/play/a05b/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6267dc92cc905f00087ee623/colorLogoPNG.png" group-title="Music" tvg-id="USBD350002623" tvg-name="Stingray Classica", Stingray Classica
 https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64240ccfaa2d690008dc4406/colorLogoPNG.png" group-title="Music" tvg-id="USBD3500024YB" tvg-name="Stingray DJAZZ", Stingray DJAZZ
-https://i.mjh.nz/SamsungTVPlus/USBD3500024YB.m3u8
+https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="Music" tvg-id="USAK3508705A" tvg-name="Stingray Naturescape", Stingray Naturescape
 https://i.mjh.nz/SamsungTVPlus/USAK3508705A.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20231024T231824SQUARE.png_20231024231825.png" group-title="Music" tvg-id="USBD35000128A" tvg-name="Stingray Smooth Jazz",Stingray Smooth Jazz
@@ -189,7 +189,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD35000128A.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/6058a55e7bf32c592084ed88/6059be4e542a774d2917fcbb_newLogo-white.png" group-title="Music" tvg-id="QwestTV.fr" tvg-name="Qwest TV", Qwest TV
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u2irADf.png" group-title="Music" tvg-id="ConcertChannel.us" tvg-name="Concert Channel", Concert Channel
-http://45.5.119.155:8090/play/a02r/index.m3u8
+http://190.149.66.90:4000/play/a04g/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fbgxqqq.png" group-title="Music" tvg-id="IHeart80s.us" tvg-name="iHeart 80s", iHeart 80s
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/329ab2f0-5d1a-4e71-9f9a-e6d5674ad982" group-title="Music" tvg-id="IHeart90s.us" tvg-name="iHeart 90s", iHeart 90s
@@ -197,9 +197,9 @@ https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Music" tvg-id="HTV.us" tvg-name="HTV", HTV
 http://181.78.208.254:8010/play/a02u/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrFfgzC.png" group-title="Music" tvg-id="SinLimites.co" tvg-name="Sin Limites", Sin Limites
-http://45.5.119.155:8090/play/a0jt/index.m3u8?null=0
+http://190.149.66.90:4000/play/a02j/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWOqr1a.png" group-title="Music" tvg-id="ExaTV.mx" tvg-name="Exa TV", Exa TV
-http://45.5.119.155:8090/play/a0hk/index.m3u8?null=0
+http://190.149.66.90:4000/play/a03c/index.m3u8?null=0
 #EXTINF:-1 tvg-id="Musik 104.5 FM Caracas" tvg-name="Musik 104.5 FM Caracas" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 104.5 FM Caracas
 https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.142.98.225/6743abc7b63e7a42474c7cdf28e1b27005af4b72a0b8d102b976270f33f52556/supertrendy2/supertrendy2/chunks.m3u8
 #EXTINF:-1 tvg-id="Musik 101.9 FM Valencia" tvg-name="Musik 101.9 FM Valencia" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 101.9 FM Valencia
@@ -216,6 +216,44 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 http://181.78.208.254:8010/play/a07u/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmoueNU.png" group-title="Business" tvg-id="ElFinancieroBloombergTV.mx" tvg-name="El Financiero Bloomberg TV", El Financiero Bloomberg TV
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26961
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Entertainment" tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America",AMC Latin America
+http://190.149.66.90:4000/play/a01m/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="Entertainment" tvg-id="AXN.mx" tvg-name="AXN",AXN
+http://190.149.66.90:4000/play/a04r/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="Entertainment" tvg-id="Cinecanal.mx" tvg-name="Cinecanal",Cinecanal
+http://190.149.66.90:4000/play/a03h/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="Entertainment" tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinecanal",Cinecanal
+http://190.90.154.73:8080/play/a022/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="Entertainment" tvg-id="FX.mx" tvg-name="FX",FX
+http://190.90.154.73:8080/play/a022/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="Entertainment" tvg-id="GoldenPanregional.mx" tvg-name="Golden",Golden
+http://138.59.177.34:8000/play/a04d/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="Entertainment" tvg-id="GoldenPlus.mx" tvg-name="Golden Plus",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Entertainment" tvg-id="GoldenPremier.mx" tvg-name="Golden Premier",Golden Premier
+http://138.59.177.34:8000/play/a018/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="Entertainment" tvg-id="GoldenPremier2.mx" tvg-name="Golden Premier 2",Golden Premier 2
+http://138.59.177.34:8000/play/a019/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="Entertainment" tvg-id="GoldenEdgePanregional.mx" tvg-name="Golden Edge",Golden Edge
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/125px-Paramount_Network.svg.png" group-title="Entertainment" tvg-id="ParamountNetworkPanregional.us" tvg-name="Paramount Network",Paramount Network
+http://190.149.66.90:4000/play/a04z/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="Entertainment" tvg-id="SonyChannelAndes.us" tvg-name="Sony Channel",Sony Channel
+http://190.149.66.90:4000/play/a03g/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Entertainment" tvg-id="SonyMoviesLatinAmerica.us" tvg-name="Sony Movies",Sony Movies
+http://190.149.66.90:4000/play/a01q/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="Entertainment" tvg-id="Space.mx" tvg-name="Space",Space
+http://190.149.66.90:4000/play/a03e/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Entertainment" tvg-id="StarChannelSouth.us" tvg-name="Star Channel",Star Channel
+http://190.149.66.90:4000/play/a03e/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="Entertainment" tvg-id="StudioUniversal.mx" tvg-name="Studio Universal",Studio Universal
+http://190.149.66.90:4000/play/a01i/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Entertainment" tvg-id="TNT.mx" tvg-name="TNT",TNT
+http://190.149.66.90:4000/play/a03m/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="Entertainment" tvg-id="TNTSeries.mx" tvg-name="TNT Series",TNT Series
+http://190.149.66.90:4000/play/a050/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="Entertainment" tvg-id="WarnerChannel.mx" tvg-name="Warner Channel",Warner Channel
+http://190.149.66.90:4000/play/a03f/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Entertainment" tvg-id="HBOLatinAmerica.us" tvg-name="HBO Latin America", HBO Latin America
 http://190.149.66.90:4000/play/a00c/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Entertainment" tvg-id="HBO2LatinAmericaHD.us" tvg-name="HBO 2 Latin America", HBO 2 Latin America
