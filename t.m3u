@@ -224,7 +224,7 @@ http://190.149.66.90:4000/play/a01m/index.m3u8?null=0
 http://190.149.66.90:4000/play/a04r/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="Entertainment" tvg-id="Cinecanal.mx" tvg-name="Cinecanal",Cinecanal
 http://190.149.66.90:4000/play/a03h/index.m3u8?null=0
-#EXTINF:-1 tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="Entertainment" tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinecanal",Cinecanal
+#EXTINF:-1 tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="Entertainment" tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax",Cinemax
 http://190.90.154.73:8080/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="Entertainment" tvg-id="FX.mx" tvg-name="FX",FX
 http://190.90.154.73:8080/play/a02x/index.m3u8?null=0
