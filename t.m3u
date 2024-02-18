@@ -126,18 +126,22 @@ https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="Music" tvg-id="TraceLatina.fr" tvg-name="TraceLatina.fr", Trace Latina
 https://i.mjh.nz/SamsungTVPlus/ESBA3300042Y6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music" tvg-id="XITE.nl" tvg-name="XITE Hits", XITE Hits
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png" group-title="Music" tvg-id="USBB320000647" tvg-name="XITE 80s Flashback",XITE 80s Flashback
+https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png" group-title="Music" tvg-id="USBB3200007AK" tvg-name="XITE 90s Throwback",XITE 90s Throwback
+https://i.mjh.nz/SamsungTVPlus/USBB3200007AK.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20231024T231908SQUARE.png_20231024231909.png" group-title="Music" tvg-id="USBD3300004RH" tvg-name="XITE Hits", XITE Hits
 https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music" tvg-id="XITE.nl" tvg-name="XITE Nuevo Latino", XITE Nuevo Latino
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20231024T231914SQUARE.png_20231024231915.png" group-title="Music" tvg-id="USBD3300007PB" tvg-name="XITE Nuevo Latino", XITE Nuevo Latino
 https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music" tvg-id="XITE.nl" tvg-name="XITE Siempre Latino", XITE Siempre Latino
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20231024T231922SQUARE.png_20231024231923.png" group-title="Music" tvg-id="USBD3300010L9" tvg-name="XITE Siempre Latino", XITE Siempre Latino
 https://i.mjh.nz/SamsungTVPlus/USBD3300010L9.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music" tvg-id="XITE.nl" tvg-name="XITE Icons", XITE Icons
-https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music" tvg-id="XITE.nl" tvg-name="XITE Icons", XITE Icons
-https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music" tvg-id="XITE.nl" tvg-name="XITE R&B Classic Jams", XITE R&B Classic Jams
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20231024T231919SQUARE.png_20231024231920.png" group-title="Music" tvg-id="USBD330000948" tvg-name="XITE R&B Classic Jams", XITE R&B Classic Jams
 https://i.mjh.nz/SamsungTVPlus/USBD330000948.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20231024T231911SQUARE.png_20231024231912.png" group-title="Music" tvg-id="USBD3300005EX" tvg-name="XITE Icons", XITE Icons
+https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20231024T231619SQUARE.png_20231024231619.png" group-title="Music" tvg-id="USBB2300003JZ" tvg-name="XITE Just Chill",XITE Just Chill
+https://i.mjh.nz/SamsungTVPlus/USBB2300003JZ.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Music" tvg-id="VevoRB.us" tvg-name=" Vevo R&B",  Vevo R&B
 https://r.mjh.nz/PlutoTV/65a6d8e13af63d0008278715-alt.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20230322T000030SQUARE.png_20230322000031.png" group-title="Music" tvg-id="VevoHipHop.us" tvg-name="Vevo Hip Hop", Vevo Hip Hop
@@ -171,15 +175,17 @@ http://ky-iptv.com/harrell421/pass421/391299.ts
 #EXTINF:-1 tvg-logo="https://somoscultura247.com/wp-content/uploads/2022/02/cropped-somosculturanew.png" group-title="Music" tvg-id="SomosCulturaTV.pa" tvg-name="Somos Cultura TV", Somos Cultura TV
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="Music" tvg-id="QelloConcertsbyStingray.ca" tvg-name="Qello Concerts by Stingray", Qello Concerts by Stingray
-https://i.mjh.nz/SamsungTVPlus/USBD3500024YB.m3u8
+https://r.mjh.nz/PlutoTV/5f85ca40eda1b10007b967cd-alt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GKc7RFz.png" group-title="Music" tvg-id="StingrayiConcerts.ca" tvg-name="Stingray iConcerts", Stingray iConcerts
 http://181.78.208.254:8010/play/a05b/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6267dc92cc905f00087ee623/colorLogoPNG.png" group-title="Music" tvg-id="StingrayClassica.ca" tvg-name="Stingray Classica", Stingray Classica
 https://r.mjh.nz/PlutoTV/6267dc92cc905f00087ee623-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64240ccfaa2d690008dc4406/colorLogoPNG.png" group-title="Music" tvg-id="StingrayDJAZZ.ca" tvg-name="Stingray DJAZZ", Stingray DJAZZ
 https://r.mjh.nz/PlutoTV/64240ccfaa2d690008dc4406-alt.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/c01ebda0-1d80-4935-ad6a-a5d3c3ef108e/Stingray-Naturescape_Logo_Lightrdx.png" group-title="Music" tvg-id="StingrayNaturescape.ca" tvg-name="Stingray Naturescape", Stingray Naturescape
-https://i.mjh.nz/SamsungTVPlus/USAK3508705A.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png" group-title="Music" tvg-id="StingrayNaturescape.ca" tvg-name="Stingray Naturescape", Stingray Naturescape
+https://r.mjh.nz/PlutoTV/5f4fed840a2764000720d966-alt.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20231024T231824SQUARE.png_20231024231825.png" group-title="Music" tvg-id="StingraySmoothJazz.ca" tvg-name="Stingray Smooth Jazz",Stingray Smooth Jazz
+https://i.mjh.nz/SamsungTVPlus/USBD35000128A.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/6058a55e7bf32c592084ed88/6059be4e542a774d2917fcbb_newLogo-white.png" group-title="Music" tvg-id="QwestTV.fr" tvg-name="Qwest TV", Qwest TV
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u2irADf.png" group-title="Music" tvg-id="ConcertChannel.us" tvg-name="Concert Channel", Concert Channel
