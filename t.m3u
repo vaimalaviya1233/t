@@ -26,10 +26,8 @@ http://45.5.119.155:8090/play/a0hz/index.m3u8
 http://45.5.119.155:8090/play/a0i0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N9e5hv5.png" group-title="Music" tvg-id="MTV80s.uk" tvg-name="MTV 80s", MTV 80s
 http://45.5.119.155:8090/play/a0ge/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="Music" tvg-id="MTVPlutoTV.us" tvg-name="MTV Pluto TV", MTV Pluto TV
-https://r.mjh.nz/PlutoTV/5ca672f515a62078d2ec0ad2-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cf96d351652631e36d4331f/colorLogoPNG.png" group-title="Music" tvg-id="MTVenEspanol.us" tvg-name="MTV en Espanol", MTV en Espanol
-https://r.mjh.nz/PlutoTV/5cf96d351652631e36d4331f-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Music" tvg-id="MTVPlutoTV.us" tvg-name="MTV Pluto TV", MTV Pluto TV
+https://r.mjh.nz/PlutoTV/5fab088b3279760007d4e4fd-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music" tvg-id="YoMTV.us" tvg-name="Yo! MTV",  Yo! MTV
 https://r.mjh.nz/PlutoTV/5d14fc31252d35decbc4080b-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64c10558060e830008ed1b0a/colorLogoPNG.png" group-title="Music" tvg-id="YoMTVRapsClassic.us" tvg-name="Yo! MTV Raps Classic", Yo! MTV Raps Classic
