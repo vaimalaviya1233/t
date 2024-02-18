@@ -217,29 +217,37 @@ http://181.78.208.254:8010/play/a07u/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmoueNU.png" group-title="Business" tvg-id="ElFinancieroBloombergTV.mx" tvg-name="El Financiero Bloomberg TV", El Financiero Bloomberg TV
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26961
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Entertainment" tvg-id="HBOLatinAmerica.us" tvg-name="HBO Latin America", HBO Latin America
-http://45.5.119.155:8090/play/a0l2/index.m3u8?null=0
+http://190.149.66.90:4000/play/a00c/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Entertainment" tvg-id="HBO2LatinAmericaHD.us" tvg-name="HBO 2 Latin America", HBO 2 Latin America
-http://45.5.119.155:8090/play/a00c/index.m3u8?null=0
+http://190.149.66.90:4000/play/a00d/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Entertainment" tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+ Latin America", HBO+ Latin America
-http://45.5.119.155:8090/play/a0l4/index.m3u8?null=0
+http://190.149.66.90:4000/play/a00e/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Entertainment" tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family Latin America", HBO Family Latin America
-http://45.5.119.155:8090/play/a0l5/index.m3u8?null=0
+http://190.149.66.90:4000/play/a00f/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Entertainment" tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme Latin America", HBO Xtreme Latin America
-http://45.5.119.155:8090/play/a0l6/index.m3u8?null=0
+http://190.149.66.90:4000/play/a00g/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="Entertainment" tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO Pop Latin America", HBO Pop Latin America
-http://181.78.208.254:8010/play/a00a/index.m3u8?null=0
+http://38.41.8.1:8000/play/a00d?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Entertainment" tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO Signature Latin America", HBO Signature Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/52879
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Entertainment" tvg-id="UniversalCinema.us" tvg-name="Universal Cinema", Universal Cinema
-http://45.5.119.155:8090/play/a0kt/index.m3u8?null=0
+http://190.149.66.90:4000/play/a056/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="Entertainment" tvg-id="UniversalComedy.us" tvg-name="Universal Comedy", Universal Comedy
-http://45.5.119.155:8090/play/a0i5/index.m3u8?null=0
+http://190.149.66.90:4000/play/a03x/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Entertainment" tvg-id="UniversalCrimeEast.us" tvg-name="Universal Crime", Universal Crime
-http://45.5.119.155:8090/play/a0i4/index.m3u8?null=0
+http://190.149.66.90:4000/play/a03w/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mqfUD1R.png" group-title="Entertainment" tvg-id="UniversalReality.us" tvg-name="Universal Reality", Universal Reality
-http://45.5.119.155:8090/play/a0i3/index.m3u8?null=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Entertainment" tvg-id="UniversalPremiereEast.us" tvg-name="Universal Premiere", Universal Premiere
-http://45.5.119.155:8090/play/a0i1/index.m3u8?null=0
+http://190.149.66.90:4000/play/a03v/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Entertainment" tvg-id="UniversalPremiereEast.us" tvg-name="Universal Premiere East",Universal Premiere East
+http://190.149.66.90:4000/play/a03t/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Entertainment" tvg-id="UniversalPremiereWest.us" tvg-name="Universal Premiere West",Universal Premiere West
+http://190.149.66.90:4000/play/a03u/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="Entertainment" tvg-id="MXFamily.cl" tvg-name="MX Family",MX Family
+http://138.219.58.234:8112/play/120?null=0
+#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="Entertainment" tvg-id="MXClassic.cl" tvg-name="MX Classic",MX Classic
+http://138.219.58.234:8112/play/121?null=0
+#EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Entertainment" tvg-id="MXPrime.cl" tvg-name="MX Prime",MX Prime
+http://138.219.58.234:8112/play/122?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="Los Simpsons S01 a S20", Los Simpsons S01 a S20
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/37767
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="Los Simpsons S20 a S30", Los Simpsons S20 a S30
