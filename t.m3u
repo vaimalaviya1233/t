@@ -44,6 +44,12 @@ https://r.mjh.nz/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
 https://r.mjh.nz/PlutoTV/65a6939b4a10d800085cee92-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="Music" tvg-id="PlutoTVMTVLatino.us" tvg-name="MTV Flow Latino", MTV Flow Latino
 https://r.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/635bfb89b5cd9b0007ca9d63/colorLogoPNG.png" group-title="Music" tvg-id="MTVClassic.uk" tvg-name="Pluto TV MTV Classic",Pluto TV MTV Classic
+https://r.mjh.nz/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Music" tvg-id="" tvg-name=" MTV Party Music",MTV Party Music
+https://r.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png" group-title="Music" tvg-id="PlutoTVMTVUnplugged.us" tvg-name="Pluto TV MTV Unplugged",Pluto TV MTV Unplugged
+https://r.mjh.nz/PlutoTV/5f98471110cca20007d39f76-alt.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/BET_Jams_Logo.png" group-title="Music" tvg-id="BETJams.us" tvg-name="BET Jams", BET Jams
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/950
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png" group-title="Music" tvg-id="BETSoul.us" tvg-name="BET Soul", BET Soul
@@ -153,7 +159,7 @@ https://r.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Music" tvg-id="Vevo2K.us" tvg-name="Vevo 2K",Vevo 2K
 https://r.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png" group-title="Music" tvg-id="ClubbingTV.fr" tvg-name="ClubbingTV.fr", Clubbing TV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://r.mjh.nz/PlutoTV/5f984784ccb4de0007dfad74-alt.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Fjbaj5EjZrd0n3dLPT-do9j4rpt4aapi0msad-oXG2K4cQQvLTBB6ioLOiiBVZU3pXEI" group-title="Music", The Lot Radio
 https://mia-prod-catalyst-0.lp-playback.studio/hls/video+85c28sa2o8wppm58/0_1/index.m3u8?tkn=ea015f4adb038
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Kiss_Logo_Purple_2020.png" group-title="Music" tvg-id="KissTV.uk" tvg-name="KissTV.uk", Kiss TV
