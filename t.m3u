@@ -335,21 +335,23 @@ http://190.149.66.90:4000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="Entertainment" tvg-id="AnimalPlanetLatinAmericaHD.us" tvg-name="Animal Planet",Animal Planet
 http://190.149.66.90:4000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="Los Simpsons S01 a S20",Los Simpsons S01 a S20
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/37767
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37767
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="Los Simpsons S20 a S30",Los Simpsons S20 a S30
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/37758
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37758
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/640px-Futurama_1999_logo.svg.png" group-title="24/7" tvg-id="" tvg-name="Futurama",Futurama
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/37835
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37835
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/South_Park_Logo.svg" group-title="24/7" tvg-id="" tvg-name="South Park",South Park
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/37754
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37754
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Flintstones_logo.svg/2560px-The_Flintstones_logo.svg.png" group-title="24/7" tvg-id="" tvg-name="Los Picapiedra",Los Picapiedra
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fictionalcrossover/images/8/82/A_jetsons_logo.png" group-title="24/7" tvg-id="" tvg-name="Los Supersonicos",Los Supersonicos
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/37876
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37876
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nicthic/images/3/3d/Top_Cat_Logo.png" group-title="24/7" tvg-id="" tvg-name="Don Gato y su pandilla",Don Gato y su pandilla
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37886
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fresh_Prince_Bel_Aire_logo.png" group-title="24/7" tvg-id="" tvg-name="El Principe del Rap", El Principe del Rap
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/37799
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37799
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Breaking_Bad_logo_simplified.png" group-title="24/7" tvg-id="" tvg-name="Breaking Bad",Breaking Bad
-http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/44381
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/44381
 #EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/th8128tb8b-the-sopranos-logo-the-sopranos-logo-clear-.png" group-title="24/7" tvg-id="" tvg-name="The Sopranos",The Sopranos
 http://tkosportz.live:25461/kevinbeard/3368425/93612
 #EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://latinurbano.com/logo.jpg" group-title="Radio",Latinurbano Radio
