@@ -202,6 +202,12 @@ http://181.78.208.254:8010/play/a02u/index.m3u8?null=0
 http://190.149.66.90:4000/play/a02j/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWOqr1a.png" group-title="Music" tvg-id="ExaTV.mx" tvg-name="Exa TV", Exa TV
 http://190.149.66.90:4000/play/a03c/index.m3u8?null=0
+#EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2021/08/mi-musica-HITS.png" group-title="Music" tvg-id="" tvg-name="Mimusica Hits",Mimusica Hits
+http://191.97.60.193:10000/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN00MSM-jF9_kKysfWxoAy1FugIKukUrsVCAkyIX-1HNAiu1mACouInmwYlPGsacFvQ&usqp=CAU" group-title="Music" tvg-id="" tvg-name="Mimusica Salsa",Mimusica Salsa
+http://177.234.230.226:8010/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg" group-title="Music" tvg-id="" tvg-name="Mimusica Reggaeton",Mimusica Reggaeton
+http://177.234.230.226:8010/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="Musik 104.5 FM Caracas" tvg-name="Musik 104.5 FM Caracas" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 104.5 FM Caracas
 https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.142.98.225/6743abc7b63e7a42474c7cdf28e1b27005af4b72a0b8d102b976270f33f52556/supertrendy2/supertrendy2/chunks.m3u8
 #EXTINF:-1 tvg-id="Musik 101.9 FM Valencia" tvg-name="Musik 101.9 FM Valencia" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 101.9 FM Valencia
@@ -318,7 +324,7 @@ http://138.59.177.34:8000/play/a078/index.m3u8
 http://138.59.177.34:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="Entertainment" tvg-id="History.mx" tvg-name="History",History
 http://190.149.66.90:4000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="Entertainment" tvg-id="History2.mx" tvg-name="History 2",History 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="Entertainment" tvg-id="History2.mx" tvg-name="History 2",History 2
 http://38.41.8.1:8000/play/a030
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="Entertainment" tvg-id="NationalGeographic.mx" tvg-name="National Geographic",National Geographic
 http://190.149.66.90:4000/play/a04y/index.m3u8
