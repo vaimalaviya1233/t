@@ -204,9 +204,9 @@ http://190.149.66.90:4000/play/a02j/index.m3u8?null=0
 http://190.149.66.90:4000/play/a03c/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2021/08/mi-musica-HITS.png" group-title="Music" tvg-id="" tvg-name="Mimusica Hits",Mimusica Hits
 http://191.97.60.193:10000/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN00MSM-jF9_kKysfWxoAy1FugIKukUrsVCAkyIX-1HNAiu1mACouInmwYlPGsacFvQ&usqp=CAU" group-title="Music" tvg-id="" tvg-name="Mimusica Salsa",Mimusica Salsa
+#EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicsalsa.png" group-title="Music" tvg-id="" tvg-name="Mimusica Salsa",Mimusica Salsa
 http://177.234.230.226:8010/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="https://s3.vcdn.biz/static/f/5670663411/image.jpg" group-title="Music" tvg-id="" tvg-name="Mimusica Reggaeton",Mimusica Reggaeton
+#EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicareggaeton.pngg" group-title="Music" tvg-id="" tvg-name="Mimusica Reggaeton",Mimusica Reggaeton
 http://177.234.230.226:8010/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="Musik 104.5 FM Caracas" tvg-name="Musik 104.5 FM Caracas" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 104.5 FM Caracas
 https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.142.98.225/6743abc7b63e7a42474c7cdf28e1b27005af4b72a0b8d102b976270f33f52556/supertrendy2/supertrendy2/chunks.m3u8
