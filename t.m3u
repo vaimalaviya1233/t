@@ -226,6 +226,8 @@ http://181.78.208.254:8010/play/a07u/index.m3u8?null=0
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26961
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/1280px-Bloomberg_Television_logo.svg.png" group-title="Business" tvg-id="BloombergTV.us" tvg-name="Bloomberg TV",Bloomberg TV
 https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Yahoo%21_Finance_logo_2021.png" group-title="Business" tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance",Yahoo! Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Entertainment" tvg-id="A&E.mx" tvg-name="A&E",A&E
 http://38.41.8.1:8000/play/a006
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Entertainment" tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America",AMC Latin America
