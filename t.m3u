@@ -354,6 +354,22 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37799
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/44381
 #EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/th8128tb8b-the-sopranos-logo-the-sopranos-logo-clear-.png" group-title="24/7" tvg-id="" tvg-name="The Sopranos",The Sopranos
 http://tkosportz.live:25461/kevinbeard/3368425/93612
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-iTl7OgdN1wI/XurhnUZiGxI/AAAAAAAACL4/_KrBD6zllBkg6iN1t6SLK6j-Y_oNQstgwCLcBGAsYHQ/s200/Ciencia%2BFiccion%2B3.png" group-title="24/7" tvg-id="" tvg-name="Ciencia Ficcion",Ciencia Ficcion
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37929
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wKoOdCSz_YA/XcsQ4aWeqMI/AAAAAAAAA0w/V7kWXXAPvO0Muf4tN0T1Qce2Cv5bwFbxgCLcBGAsYHQ/s200/comedia.png" group-title="24/7" tvg-id="" tvg-name="Comedia",Comedia
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37913
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-g9Z6tUxU2Pc/XwQInT0RT1I/AAAAAAAAAPs/lrpK2yx8Mbw0FyIOW23sYasUMCoP9Ij_wCK4BGAsYHg/w200-h200/Crimen.png" group-title="24/7" tvg-id="" tvg-name="Crimen",Crimen
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/40271
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-j-Sak8OHviU/XtmKkGSsTdI/AAAAAAAACCQ/g-WDpRG7qdwt5Pjj8FSfm5m9VqPVVHGfwCLcBGAsYHQ/s200/Disney%2B3D.png" group-title="24/7" tvg-id="" tvg-name="Disney Animacion 3D",Disney Animacion 3D
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37910
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GtBqGhVwpGA/XtmLNyz319I/AAAAAAAACCY/j9q-Gd_zUnEfTbORFb3ObqAYjPTc_9VfACLcBGAsYHQ/s200/Disney%2BClasicos.png" group-title="24/7" tvg-id="" tvg-name="Disney Clasicos Animados",Disney Clasicos Animados
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37908
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-nO6LGIGXiKU/Ydd5jqDaLoI/AAAAAAAACeE/OIJntOj0X38xOVhhkwAYsmDC1rOTJJeHQCNcBGAsYHQ/w200-h200/1641511305901712-5.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Accion",Estrenos Accion
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144548
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MyTiBbE9SY0/Ydd5krKAWYI/AAAAAAAACeI/a7TNY6FDnpgmxC10IS5NTI6rYNAf5k_YgCNcBGAsYHQ/w200-h200/1641511312615859-4.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Animacion",Estrenos Animacion
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144549
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Ekk591Kj83Y/Ydd5iLtv3_I/AAAAAAAACeA/UdbrcAv_oKkB1MvvV-bvP_FuI6qfNpU2wCNcBGAsYHQ/w200-h200/1641511301841391-6.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Aventura",Estrenos Aventura
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144550
 #EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://latinurbano.com/logo.jpg" group-title="Radio",Latinurbano Radio
 http://radio.latinurbano.com/radio
 #EXTINF:-1 radio="true" tvg-id="DJ Pflow Radio" tvg-name="DJ Pflow Radio" tvg-logo="https://djpflow.com/logo.jpg" group-title="Radio",DJ Pflow Radio
