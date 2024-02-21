@@ -182,7 +182,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD3500024YB.m3u8
 http://181.78.208.254:8010/play/a05b/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6267dc92cc905f00087ee623/colorLogoPNG.png" group-title="Music" tvg-id="USBD350002623" tvg-name="Stingray Classica", Stingray Classica
 https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64240ccfaa2d690008dc4406/colorLogoPNG.png" group-title="Music" tvg-id="USBD3500024YB" tvg-name="Stingray DJAZZ", Stingray DJAZZ
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64240ccfaa2d690008dc4406/colorLogoPNG.png" group-title="Music" tvg-id="USBD3500025GS" tvg-name="Stingray DJAZZ", Stingray DJAZZ
 https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20230125T022716SQUARE.png_20230125022717.png" group-title="Music" tvg-id="USAK3508705A" tvg-name="Stingray Naturescape", Stingray Naturescape
 https://i.mjh.nz/SamsungTVPlus/USAK3508705A.m3u8
@@ -228,20 +228,20 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26961
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Yahoo%21_Finance_logo_2021.png" group-title="Business" tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Entertainment" tvg-id="A&E.mx" tvg-name="A&E",A&E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Entertainment" tvg-id="AEPanregional.us" tvg-name="A&E Panregional",A&E Panregional
 http://38.41.8.1:8000/play/a006
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Entertainment" tvg-id="AMCLatinAmerica.us" tvg-name="AMC Latin America",AMC Latin America
 http://190.149.66.90:4000/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="Entertainment" tvg-id="AXN.mx" tvg-name="AXN",AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="Entertainment" tvg-id="AXN.mx" tvg-name="AXN Mexico",AXN Mexico
 http://190.149.66.90:4000/play/a04r/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="Entertainment" tvg-id="Cinecanal.mx" tvg-name="Cinecanal",Cinecanal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="Entertainment" tvg-id="CinecanalPacific.us" tvg-name="Cinecanal Pacific",Cinecanal Pacific
 http://190.149.66.90:4000/play/a03h/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="Entertainment" tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax",Cinemax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="Entertainment" tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax Latin America",Cinemax Latin America
 http://190.90.154.73:8080/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="Entertainment" tvg-id="FX.mx" tvg-name="FX",FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="Entertainment" tvg-id="FXPanregional.us" tvg-name="FX Panregional",FX Panregional
 http://190.149.66.90:4000/play/a01o/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="Entertainment" tvg-id="GoldenPanregional.mx" tvg-name="Golden",Golden
-http://138.59.177.34:8000/play/a04d/index.m3u8
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61079
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="Entertainment" tvg-id="GoldenPlus.mx" tvg-name="Golden Plus",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Entertainment" tvg-id="GoldenPremier.mx" tvg-name="Golden Premier",Golden Premier
@@ -250,17 +250,17 @@ http://138.59.177.34:8000/play/a018/index.m3u8
 http://138.59.177.34:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="Entertainment" tvg-id="GoldenEdgePanregional.mx" tvg-name="Golden Edge",Golden Edge
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/125px-Paramount_Network.svg.png" group-title="Entertainment" tvg-id="ParamountNetworkPanregional.us" tvg-name="Paramount Network",Paramount Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/125px-Paramount_Network.svg.png" group-title="Entertainment" tvg-id="ParamountNetworkPanregional.us" tvg-name="Paramount Network Panregional",Paramount Network Panregional
 http://190.149.66.90:4000/play/a04z/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="Entertainment" tvg-id="SonyChannelAndes.us" tvg-name="Sony Channel",Sony Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="Entertainment" tvg-id="SonyChannel.mx" tvg-name="Sony Channel",Sony Channel
 http://190.149.66.90:4000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Entertainment" tvg-id="SonyMoviesLatinAmerica.us" tvg-name="Sony Movies",Sony Movies
-http://45.5.117.182:8000/play/a0fr/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="Entertainment" tvg-id="Space.mx" tvg-name="Space",Space
+http://190.149.66.90:4000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="Entertainment" tvg-id="SpaceSouth.us" tvg-name="Space South",Space South
 http://45.5.117.182:8000/play/a0jj/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Entertainment" tvg-id="StarChannelSouth.us" tvg-name="Star Channel",Star Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Entertainment" tvg-id="StarChannelSouth.us" tvg-name="Star Channel South",Star Channel South
 http://190.149.66.90:4000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="Entertainment" tvg-id="StudioUniversal.mx" tvg-name="Studio Universal",Studio Universal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="Entertainment" tvg-id="StudioUniversalSouth.us" tvg-name="Studio Universal South",Studio Universal South
 http://190.149.66.90:4000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Entertainment" tvg-id="TNT.mx" tvg-name="TNT",TNT
 http://190.149.66.90:4000/play/a03m/index.m3u8
