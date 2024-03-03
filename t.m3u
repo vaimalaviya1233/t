@@ -24,10 +24,10 @@ https://tinyurl.com/fx5efdhn/357
 http://190.149.66.90:4000/play/a012/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="Music" tvg-id="MTV80s.uk" tvg-name="MTV 80s", MTV 80s
 http://190.149.66.90:4000/play/a013/index.m3u8?null=0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Music" tvg-id="MTV90s.uk" tvg-name="MTV 90s", MTV 80s
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Music" tvg-id="MTV90s.uk" tvg-name="MTV 90s", MTV 90s
 http://38.68.134.177:8080/JUNIOR123@EMELEC/Nz7CabgveENy/93080
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l5wBRfF.png" group-title="Music" tvg-id="MTV00s.uk" tvg-name="MTV 00s", MTV 00s
-https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music" tvg-id="MTV00s.uk" tvg-name="MTV 00s", MTV 00s
+http://138.59.177.34:8000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Music" tvg-id="VH1.mx" tvg-name="VH1",VH1
 http://europass.site:8080/sebastianbenitezchapatan10/CDCBpNCuY7/1320
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Music" tvg-id="USBA3000093U" tvg-name="MTV Pluto TV", MTV Pluto TV
