@@ -12,8 +12,10 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119331
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26903
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="Entertainment" tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax Latin America",Cinemax Latin America
 http://190.90.154.73:8080/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="Entertainment" tvg-id="Cinemax.us" tvg-name="Cinemax USA",Cinemax USA
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63660
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/800px-Cinemax_2016.svg.png" group-title="Entertainment" tvg-id="Cinemax.us" tvg-name="Cinemax Latino USA",Cinemax Latino USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/7153
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/1280px-MoreMax_Logo.svg.png" group-title="Entertainment" tvg-id="MoreMaxEast.us" tvg-name="MoreMax East USA",MoreMax East USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/673
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="Entertainment" tvg-id="FXPanregional.us" tvg-name="FX Latin America",FX Latin America
 http://138.59.177.34:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="Entertainment" tvg-id="GoldenPanregional.mx" tvg-name="Golden Latin America",Golden Latin America
@@ -47,7 +49,7 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69586
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Entertainment" tvg-id="TNT.us" tvg-name="TNT USA",TNT USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177498
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="Entertainment" tvg-id="WarnerChannel.mx" tvg-name="Warner Channel Latin America",Warner Channel Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119338
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/121991
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Entertainment" tvg-id="HBOLatinAmerica.us" tvg-name="HBO Latin America", HBO Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/141189
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Entertainment" tvg-id="HBOEast.us" tvg-name="HBO East USA", HBO East USA
@@ -124,12 +126,16 @@ http://138.219.58.234:8112/play/122?null=0
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61031
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/2560px-Discovery_Familia_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryFamilia.us" tvg-name="Discovery Familia USA",Discovery Familia USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61064
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/NBC_Universo_logo.svg" group-title="Entertainment" tvg-id="NBCUniversoEast.us" tvg-name="NBC Universo East",NBC Universo East USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/NBC_Universo_logo.svg" group-title="Entertainment" tvg-id="NBCUniversoEast.us" tvg-name="NBC Universo East USA",NBC Universo East USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61036
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="Entertainment" tvg-id="WNJUDT1.us" tvg-name="Telemundo New York",Telemundo New York USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="Entertainment" tvg-id="WNJUDT1.us" tvg-name="Telemundo New York USA",Telemundo New York USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61225
-#EXTINF:-1 tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn-v2/images/radio-stations/new-york/univision-41-ny.png" group-title="Entertainment" tvg-id="WXTVDT1.us" tvg-name="Univision New York",Univision New York USA
+#EXTINF:-1 tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn-v2/images/radio-stations/new-york/univision-41-ny.png" group-title="Entertainment" tvg-id="WXTVDT1.us" tvg-name="Univision New York USA",Univision New York USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/122269
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png" group-title="Entertainment" tvg-id="WSBSDT1.us" tvg-name="Mega WSBS USA",Mega WSBS USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/95732
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/2560px-WAPA-TV_logo.svg.png" group-title="Entertainment" tvg-id="WAPADT1.pr" tvg-name="WAPA USA",WAPA USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1043
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel Latin America",Discovery Channel Latin America
 http://190.149.66.90:4000/play/a051/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science Latin America",Discovery Science Latin America
@@ -405,7 +411,7 @@ https://r.mjh.nz/PlutoTV/5f984784ccb4de0007dfad74-alt.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Fjbaj5EjZrd0n3dLPT-do9j4rpt4aapi0msad-oXG2K4cQQvLTBB6ioLOiiBVZU3pXEI" group-title="Music", The Lot Radio
 https://mia-prod-catalyst-0.lp-playback.studio/hls/video+85c28sa2o8wppm58/0_1/index.m3u8?tkn=ea015f4adb038
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Kiss_Logo_Purple_2020.png" group-title="Music" tvg-id="KissTV.uk" tvg-name="KissTV.uk", Kiss TV
-http://ky-iptv.com/harrell421/pass421/391299.ts
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/10851
 #EXTINF:-1 tvg-logo="https://somoscultura247.com/wp-content/uploads/2022/02/cropped-somosculturanew.png" group-title="Music" tvg-id="SomosCulturaTV.pa" tvg-name="Somos Cultura TV", Somos Cultura TV
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="Music" tvg-id="USBD3500024YB" tvg-name="Qello Concerts by Stingray", Qello Concerts by Stingray
