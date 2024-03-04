@@ -35,11 +35,11 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1922
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Entertainment" tvg-id="SonyMoviesLatinAmerica.us" tvg-name="Sony Movies Latin America",Sony Movies Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154351
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="Entertainment" tvg-id="SpaceSouth.us" tvg-name="Space Latin America",Space Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/74409
+http://138.59.177.34:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Entertainment" tvg-id="StarChannelSouth.us" tvg-name="Star Channel Latin America",Star Channel Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1454
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="Entertainment" tvg-id="StudioUniversalSouth.us" tvg-name="Studio Universal Latin America",Studio Universal Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26905
+http://138.59.177.34:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Entertainment" tvg-id="TNT.mx" tvg-name="TNT Latin America",TNT Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26926
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="Entertainment" tvg-id="TNTSeries.mx" tvg-name="TNT Series Latin America",TNT Series Latin America
@@ -120,38 +120,46 @@ http://138.219.58.234:8112/play/120?null=0
 http://138.219.58.234:8112/play/121?null=0
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Entertainment" tvg-id="MXPrime.cl" tvg-name="MX Prime",MX Prime
 http://138.219.58.234:8112/play/122?null=0
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Discovery_en_Espa%C3%B1ol_2015.svg/revision/latest?cb=20210816101422" group-title="Entertainment" tvg-id="DiscoveryenEspanol.us" tvg-name="Discovery en Español",Discovery en Español
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Discovery_en_Espa%C3%B1ol_2015.svg/revision/latest?cb=20210816101422" group-title="Entertainment" tvg-id="DiscoveryenEspanol.us" tvg-name="Discovery en Español USA",Discovery en Español USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61031
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/2560px-Discovery_Familia_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryFamilia.us" tvg-name="Discovery Familia",Discovery Familia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/2560px-Discovery_Familia_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryFamilia.us" tvg-name="Discovery Familia USA",Discovery Familia USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61064
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/NBC_Universo_logo.svg" group-title="Entertainment" tvg-id="NBCUniversoEast.us" tvg-name="NBC Universo East",NBC Universo East
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/NBC_Universo_logo.svg" group-title="Entertainment" tvg-id="NBCUniversoEast.us" tvg-name="NBC Universo East",NBC Universo East USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61036
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="Entertainment" tvg-id="WNJUDT1.us" tvg-name="Telemundo New York",Telemundo New York
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="Entertainment" tvg-id="WNJUDT1.us" tvg-name="Telemundo New York",Telemundo New York USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61225
-#EXTINF:-1 tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn-v2/images/radio-stations/new-york/univision-41-ny.png" group-title="Entertainment" tvg-id="WXTVDT1.us" tvg-name="Univision New York",Univision New York
+#EXTINF:-1 tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn-v2/images/radio-stations/new-york/univision-41-ny.png" group-title="Entertainment" tvg-id="WXTVDT1.us" tvg-name="Univision New York",Univision New York USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/122269
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel",Discovery Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel Latin America",Discovery Channel Latin America
 http://190.149.66.90:4000/play/a051/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science",Discovery Science
-http://138.59.177.34:8000/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryTurboPanregional.us" tvg-name="Discovery Turbo",Discovery Turbo
-http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryWorldLatinAmerica.us" tvg-name="Discovery World",Discovery World
-http://138.59.177.34:8000/play/a078/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-name="Discovery Theater",Discovery Theater
-http://138.59.177.34:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="Entertainment" tvg-id="History.mx" tvg-name="History",History
-http://190.149.66.90:4000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="Entertainment" tvg-id="History2.mx" tvg-name="History 2",History 2
-http://38.41.8.1:8000/play/a030
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="Entertainment" tvg-id="NationalGeographic.mx" tvg-name="National Geographic",National Geographic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science Latin America",Discovery Science Latin America
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177630
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryTurboPanregional.us" tvg-name="Discovery Turbo Latin America",Discovery Turbo Latin America
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1404
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryWorldLatinAmerica.us" tvg-name="Discovery World Latin America",Discovery World Latin America
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26896
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-name="Discovery Theater Latin America",Discovery Theater Latin America
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26895
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Entertainment" tvg-id="InvestigationDiscoveryPanregional.us" tvg-name="Investigation Discovery Latin America",Investigation Discovery Latin America
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63679
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryHomeHealthPanregional.us" tvg-name="Discovery Home & Health Latin America",Discovery Home & Health Latin America
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1402
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Entertainment" tvg-id="TLCLatinAmerica.us" tvg-name="TLC Latin America",TLC Latin America
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26890
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="Entertainment" tvg-id="History.mx" tvg-name="History Latin America",History Latin America
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1406
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="Entertainment" tvg-id="History2.mx" tvg-name="History 2 Latin America",History 2 Latin America
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/119954
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="Entertainment" tvg-id="NationalGeographic.mx" tvg-name="National Geographic Latin America",National Geographic Latin America
 http://190.149.66.90:4000/play/a04y/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="Entertainment" tvg-id="AnimalPlanetLatinAmericaHD.us" tvg-name="Animal Planet",Animal Planet
-http://190.149.66.90:4000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="Entertainment" tvg-id="AnimalPlanetLatinAmericaHD.us" tvg-name="Animal Planet Latin America",Animal Planet Latin America
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61114
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="Los Simpsons S01 a S20",Los Simpsons S01 a S20
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37767
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="Los Simpsons S20 a S30",Los Simpsons S20 a S30
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37758
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="The Simpsons",The Simpsons
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/107600
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/640px-Futurama_1999_logo.svg.png" group-title="24/7" tvg-id="" tvg-name="Futurama",Futurama
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37835
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/South_Park_Logo.svg" group-title="24/7" tvg-id="" tvg-name="South Park",South Park
@@ -166,6 +174,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37886
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37799
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Breaking_Bad_logo_simplified.png" group-title="24/7" tvg-id="" tvg-name="Breaking Bad",Breaking Bad
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/44381
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rcuGu1x-AZY/XtKpwFAXwzI/AAAAAAAAAPg/NiUos9AwxvQEARQgobg-KlxwJez691jEgCK4BGAsYHg/xfiles.png" group-title="24/7" tvg-id="" tvg-name="Los Expedientes Secretos X",Los Expedientes Secretos X
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37796
 #EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/th8128tb8b-the-sopranos-logo-the-sopranos-logo-clear-.png" group-title="24/7" tvg-id="" tvg-name="The Sopranos",The Sopranos
 http://tkosportz.live:25461/kevinbeard/3368425/93612
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-iTl7OgdN1wI/XurhnUZiGxI/AAAAAAAACL4/_KrBD6zllBkg6iN1t6SLK6j-Y_oNQstgwCLcBGAsYHQ/s200/Ciencia%2BFiccion%2B3.png" group-title="24/7" tvg-id="" tvg-name="Ciencia Ficcion",Ciencia Ficcion
@@ -174,16 +184,32 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37929
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37913
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-g9Z6tUxU2Pc/XwQInT0RT1I/AAAAAAAAAPs/lrpK2yx8Mbw0FyIOW23sYasUMCoP9Ij_wCK4BGAsYHg/w200-h200/Crimen.png" group-title="24/7" tvg-id="" tvg-name="Crimen",Crimen
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/40271
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AROMkEphnq4/XwQImcorX7I/AAAAAAAAAPg/eCIG4LrKebwtsNlCmWtBnEkhGEVYIjZBgCK4BGAsYHg/w200-h200/Cine%2BBelico.png" group-title="24/7" tvg-id="" tvg-name="Cine Belico",Cine Belico
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/40268
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-coaxc70RKqQ/XwQIm26jVrI/AAAAAAAAAPo/6ioPvk89vdEAc_u1DJMA_I291yoOXxuwwCK4BGAsYHg/w200-h200/Biografico.png" group-title="24/7" tvg-id="" tvg-name="Cine Biografico",Cine Biografico
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/40269
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-I0pD32mZUDM/XwQImn21_8I/AAAAAAAAAPk/UNZtl983DVodfQYl9TZ4K4WYHvKQbmcwwCK4BGAsYHg/w200-h200/catastrofe.png" group-title="24/7" tvg-id="" tvg-name="Cine Catastrofico",Cine Catastrofico
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/40270
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-j-Sak8OHviU/XtmKkGSsTdI/AAAAAAAACCQ/g-WDpRG7qdwt5Pjj8FSfm5m9VqPVVHGfwCLcBGAsYHQ/s200/Disney%2B3D.png" group-title="24/7" tvg-id="" tvg-name="Disney Animacion 3D",Disney Animacion 3D
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37910
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GtBqGhVwpGA/XtmLNyz319I/AAAAAAAACCY/j9q-Gd_zUnEfTbORFb3ObqAYjPTc_9VfACLcBGAsYHQ/s200/Disney%2BClasicos.png" group-title="24/7" tvg-id="" tvg-name="Disney Clasicos Animados",Disney Clasicos Animados
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37908
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YgGVPak0MmQ/XuRz6xCcHDI/AAAAAAAACEM/20CJyV4t90sCX8VH426GHQ94hbhZ3_8RQCLcBGAsYHQ/s200/Fantasy.png" group-title="24/7" tvg-id="" tvg-name="Fantasia",Fantasia
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37921
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-nO6LGIGXiKU/Ydd5jqDaLoI/AAAAAAAACeE/OIJntOj0X38xOVhhkwAYsmDC1rOTJJeHQCNcBGAsYHQ/w200-h200/1641511305901712-5.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Accion",Estrenos Accion
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144548
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MyTiBbE9SY0/Ydd5krKAWYI/AAAAAAAACeI/a7TNY6FDnpgmxC10IS5NTI6rYNAf5k_YgCNcBGAsYHQ/w200-h200/1641511312615859-4.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Animacion",Estrenos Animacion
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144549
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Ekk591Kj83Y/Ydd5iLtv3_I/AAAAAAAACeA/UdbrcAv_oKkB1MvvV-bvP_FuI6qfNpU2wCNcBGAsYHQ/w200-h200/1641511301841391-6.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Aventura",Estrenos Aventura
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144550
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jfk4C0A1lSA/Ydd5lap43MI/AAAAAAAACeM/iChY2cwG1f4laEE7YGsb_qcIh5MPejoYwCNcBGAsYHQ/w200-h200/1641511316245178-3.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Ciencia Ficcion",Estrenos Ciencia Ficcion
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144551
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-q6qobrR1_XA/Ydd5mQP3zzI/AAAAAAAACeQ/KX0qZrnBfUkDYmanj3OrIilEcp2ZhiAVgCNcBGAsYHQ/w200-h200/1641511319639596-2.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Comedia",Estrenos Comedia
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144552
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RrmWhBeYl6U/YdnxiK2FZlI/AAAAAAAACe4/TKCJp6OjA4UROoJekpgft-JRIM8DwIS0wCNcBGAsYHQ/w200-h200/1641673092711216-0.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Disney",Estrenos Disney
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144553
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RR3GZKjVOOg/Ydd5n5PzMTI/AAAAAAAACeY/eIgAx_ZpoOstcYoYbxlfbtiFTgoXkOfhQCNcBGAsYHQ/w200-h200/1641511325849517-0.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Familiar",Estrenos Familiar
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144554
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png" group-title="Business" tvg-id="Negocios.TV" tvg-name="Negocios TV", Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uW4WIvC.png" group-title="Business" tvg-id="WOBI.ar" tvg-name="WOBI", WOBI
@@ -202,8 +228,10 @@ http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61165
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/114
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/800px-Club_MTV_2021_logo.svg.png" group-title="Music" tvg-id="ClubMTVEurope.uk" tvg-name="Club MTV Europe", Club MTV Europe
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52334
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/MTV2.us.png" group-title="Music" tvg-id="MTV2East.us" tvg-name="MTV 2 USA", MTV 2 USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MTV_2_Logo.svg/1200px-MTV_2_Logo.svg.png" group-title="Music" tvg-id="MTV2East.us" tvg-name="MTV 2 USA", MTV 2 USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1077
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/1200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="Music" tvg-id="MTVU.us" tvg-name="MTVU USA", MTVU USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1078
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music" tvg-id="MTVLive.us" tvg-name="MTV Live USA", MTV Live USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1076
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music" tvg-id="MTVLive.uk" tvg-name="MTV Live MTV Latin America", MTV Live MTV Latin America
@@ -252,6 +280,10 @@ https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1200px-BET_Logo.svg.png" group-title="Music" tvg-id="BETEast.us" tvg-name="BET East USA",BET East USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1010
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1200px-BET_Logo.svg.png" group-title="Music" tvg-id="BETWest.us" tvg-name="BET West USA",BET West USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1011
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Music" tvg-id="BETHerEast.us" tvg-name="BET Her East USA",BET Her East USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1012
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/BET_Jams_Logo.png" group-title="Music" tvg-id="BETJams.us" tvg-name="BET Jams", BET Jams
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1013
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png" group-title="Music" tvg-id="BETSoul.us" tvg-name="BET Soul", BET Soul
