@@ -80,14 +80,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177507
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177511
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1280px-HBO_Latino_Logo.svg.png" group-title="Entertainment" tvg-id="HBOLatinoEast.us" tvg-name="HBO Latino",HBO Latino
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/7155
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Starz_Encore_Espa%C3%B1ol.svg/1280px-Starz_Encore_Espa%C3%B1ol.svg.png" group-title="Entertainment" tvg-id="StarzEncoreEast.us" tvg-name="Starz Encore Spanish East USA",Starz Encore Spanish East USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/7154
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/1200px-Starz_2016.svg.png" group-title="Entertainment" tvg-id="StarzEast.us" tvg-name="Starz East USA",Starz East USA
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/2112
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Starz_Cinema_2016.svg/1200px-Starz_Cinema_2016.svg.png" group-title="Entertainment" tvg-id="StarzCinemaEast.us" tvg-name="Starz Cinema East USA",Starz Cinema East USA
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63647
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Starz_Cinema_2016.svg/1200px-Starz_Cinema_2016.svg.png" group-title="Entertainment" tvg-id="StarzCinemaWest.us" tvg-name="Starz Cinema West USA",Starz Cinema West USA
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63649
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Entertainment" tvg-id="UniversalCinema.us" tvg-name="Universal Cinema", Universal Cinema
 http://190.149.66.90:4000/play/a056/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="Entertainment" tvg-id="UniversalComedy.us" tvg-name="Universal Comedy", Universal Comedy
@@ -100,6 +92,28 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/65437
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26737
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Entertainment" tvg-id="UniversalPremiereWest.us" tvg-name="Universal Premiere West",Universal Premiere West
 http://138.59.177.34:8000/play/a05t/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/1200px-Starz_2016.svg.png" group-title="Entertainment" tvg-id="StarzEast.us" tvg-name="Starz East USA",Starz East USA
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/2112
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Starz_Cinema_2016.svg/1200px-Starz_Cinema_2016.svg.png" group-title="Entertainment" tvg-id="StarzCinemaEast.us" tvg-name="Starz Cinema East USA",Starz Cinema East USA
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63647
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Starz_Cinema_2016.svg/1200px-Starz_Cinema_2016.svg.png" group-title="Entertainment" tvg-id="StarzCinemaWest.us" tvg-name="Starz Cinema West USA",Starz Cinema West USA
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63649
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Starz_Comedy_2016.svg/1200px-Starz_Comedy_2016.svg.png" group-title="Entertainment" tvg-id="StarzComedyEast.us" tvg-name="Starz Comedy East USA",Starz Comedy East USA
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63648
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Starz_Edge_2016.svg/1280px-Starz_Edge_2016.svg.png" group-title="Entertainment" tvg-id="StarzEdgeWest.us" tvg-name="Starz Edge West USA",Starz Edge West USA
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177517
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png" group-title="Entertainment" tvg-id="StarzEncoreActionEast.us" tvg-name="Starz Encore Action East USA",Starz Encore Action East USA
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63643
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Starz_Encore_Family.svg/2560px-Starz_Encore_Family.svg.png" group-title="Entertainment" tvg-id="StarzEncoreFamilyEast.us" tvg-name="Starz Encore Family East USA",Starz Encore Family East USA
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63640
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Starz_Encore_Espa%C3%B1ol.svg/1280px-Starz_Encore_Espa%C3%B1ol.svg.png" group-title="Entertainment" tvg-id="StarzEncoreSpanishEast.us" tvg-name="Starz Encore Spanish East USA",Starz Encore Spanish East USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/7154
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/2560px-Starz_Encore_Suspense.svg.png" group-title="Entertainment" tvg-id="StarzEncoreSuspenseEast.us" tvg-name="Starz Encore Suspense East USA",Starz Encore Suspense East USA
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177520
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Starz_Encore_Westerns.svg/1200px-Starz_Encore_Westerns.svg.png" group-title="Entertainment" tvg-id="StarzEncoreWesternsEast.us" tvg-name="Starz Encore Westerns East USA",Starz Encore Westerns East USA
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/2103
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Starz_Kids_%26_Family_2016.svg/2560px-Starz_Kids_%26_Family_2016.svg.png" group-title="Entertainment" tvg-id="StarzKidsFamilyEast.us" tvg-name="Starz Kids & Family East USA",Starz Kids & Family East USA
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177523
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="Entertainment" tvg-id="MXFamily.cl" tvg-name="MX Family",MX Family
 http://138.219.58.234:8112/play/120?null=0
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="Entertainment" tvg-id="MXClassic.cl" tvg-name="MX Classic",MX Classic
@@ -180,35 +194,31 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26961
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Yahoo%21_Finance_logo_2021.png" group-title="Business" tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png" group-title="Music", m2o
-https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/800px-Qmusic_logo.svg.png" group-title="Music" tvg-id="QMusic.be" tvg-name="Qmusic", Qmusic Belgium
-https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/800px-Qmusic_logo.svg.png" group-title="Music" tvg-id="Qmusic.nl" tvg-name="Qmusic", Qmusic Netherlands
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="Music" tvg-id="MTVEast.us" tvg-name="MTV East", MTV East
-https://tinyurl.com/fx5efdhn/358
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="Music" tvg-id="MTVenEspanol.us" tvg-name="MTV LA", MTV LA
-http://190.149.66.90:4000/play/a01e/index.m3u8?null=0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/800px-Club_MTV_2021_logo.svg.png" group-title="Music" tvg-id="ClubMTVEurope.uk" tvg-name="Club MTV", Club MTV
-http://iptv.prosto.tv:7000/ch125/video.m3u8
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/MTV2.us.png" group-title="Music" tvg-id="MTV2East.us" tvg-name="MTV 2", MTV 2
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1372
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music" tvg-id="MTVLive.us" tvg-name="MTV Live", MTV Live
-https://tinyurl.com/fx5efdhn/359
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music" tvg-id="MTVLive.uk" tvg-name="MTV Live LA", MTV Live LA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="Music" tvg-id="MTVEast.us" tvg-name="MTV East USA", MTV East USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1075
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="Music" tvg-id="MTVenEspanol.us" tvg-name="MTV Latin America", MTV Latin America
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61165
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/MTV_Music_2021_logo.svg/512px-MTV_Music_2021_logo.svg.png" group-title="Music" tvg-id="MTVMusic.uk" tvg-name="MTV Music United Kingdom",MTV Music United Kingdom
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/114
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/800px-Club_MTV_2021_logo.svg.png" group-title="Music" tvg-id="ClubMTVEurope.uk" tvg-name="Club MTV Europe", Club MTV Europe
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52334
+#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/MTV2.us.png" group-title="Music" tvg-id="MTV2East.us" tvg-name="MTV 2 USA", MTV 2 USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1077
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music" tvg-id="MTVLive.us" tvg-name="MTV Live USA", MTV Live USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1076
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music" tvg-id="MTVLive.uk" tvg-name="MTV Live MTV Latin America", MTV Live MTV Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1302
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="Music" tvg-id="MTVClassicEast.us" tvg-name="MTV Classic", MTV Classic
-https://tinyurl.com/fx5efdhn/357
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="Music" tvg-id="MTVClassicEast.us" tvg-name="MTV Classic USA", MTV Classic USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1074
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" group-title="Music" tvg-id="MMTVHits.uk" tvg-name="MTV Hits", MTV Hits
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26935
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="Music" tvg-id="MTV80s.uk" tvg-name="MTV 80s", MTV 80s
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1323
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Music" tvg-id="MTV90s.uk" tvg-name="MTV 90s", MTV 90s
-http://38.68.134.177:8080/JUNIOR123@EMELEC/Nz7CabgveENy/93080
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/115
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music" tvg-id="MTV00s.uk" tvg-name="MTV 00s", MTV 00s
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1324
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Music" tvg-id="VH1.mx" tvg-name="VH1",VH1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Music" tvg-id="VH1.us" tvg-name="VH1 USA",VH1 USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1320
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Music" tvg-id="USBA3000093U" tvg-name="MTV Pluto TV", MTV Pluto TV
 https://i.mjh.nz/SamsungTVPlus/USBA3000093U.m3u8
@@ -234,10 +244,18 @@ https://r.mjh.nz/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
 https://r.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png" group-title="Music" tvg-id="5f98471110cca20007d39f76" tvg-name="Pluto TV MTV Unplugged",Pluto TV MTV Unplugged
 https://r.mjh.nz/PlutoTV/5f98471110cca20007d39f76-alt.m3u8
+#EXTINF:-1 tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png" group-title="Music", m2o
+https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/800px-Qmusic_logo.svg.png" group-title="Music" tvg-id="QMusic.be" tvg-name="Qmusic", Qmusic Belgium
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/800px-Qmusic_logo.svg.png" group-title="Music" tvg-id="Qmusic.nl" tvg-name="Qmusic", Qmusic Netherlands
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1200px-BET_Logo.svg.png" group-title="Music" tvg-id="BETEast.us" tvg-name="BET East USA",BET East USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1010
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/BET_Jams_Logo.png" group-title="Music" tvg-id="BETJams.us" tvg-name="BET Jams", BET Jams
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/950
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1013
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png" group-title="Music" tvg-id="BETSoul.us" tvg-name="BET Soul", BET Soul
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/951
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1014
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1716080688884015104/q9IdweF9_400x400.jpg" group-title="Music" tvg-id="Revolt.us" tvg-name="Revolt", Revolt
 https://lnc-revolt.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1716080688884015104/q9IdweF9_400x400.jpg" group-title="Music" tvg-id="Revolt.us" tvg-name="Revolt 2", Revolt 2
