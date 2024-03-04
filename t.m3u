@@ -284,6 +284,8 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1910
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1479
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Entertainment" tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO Signature Latin America", HBO Signature Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/52879
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="Entertainment" tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi Latin America", HBO Mundi Latin America
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53238
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1280px-HBO_Latino_Logo.svg.png" group-title="Entertainment" tvg-id="HBOLatinoEast.us" tvg-name="HBO Latino",HBO Latino
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/7155
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="Entertainment" tvg-id="CinemaxLatinAmerica.us" tvg-name="Cinemax",Cinemax
