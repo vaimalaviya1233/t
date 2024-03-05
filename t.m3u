@@ -249,7 +249,7 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26935
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="Music" tvg-id="MTV80s.uk" tvg-name="MTV 80s", MTV 80s
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1323
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Music" tvg-id="MTV90s.uk" tvg-name="MTV 90s", MTV 90s
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/115
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/95995
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music" tvg-id="MTV00s.uk" tvg-name="MTV 00s", MTV 00s
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1324
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Music" tvg-id="VH1.us" tvg-name="VH1 USA",VH1 USA
@@ -274,6 +274,8 @@ https://r.mjh.nz/PlutoTV/65a6939b4a10d800085cee92-alt.m3u8
 https://r.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/635bfb89b5cd9b0007ca9d63/colorLogoPNG.png" group-title="Music" tvg-id="635bfb89b5cd9b0007ca9d63" tvg-name="Pluto TV MTV Classic",Pluto TV MTV Classic
 https://r.mjh.nz/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/622f46a3769a6d0007429de0/colorLogoPNG.png" group-title="Music" tvg-id="622f46a3769a6d0007429de0" tvg-name="MTV Party",MTV Party
+https://r.mjh.nz/PlutoTV/622f46a3769a6d0007429de0-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Music" tvg-id="61ea759737679900078ff559" tvg-name="MTV Party Music",MTV Party Music
 https://r.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png" group-title="Music" tvg-id="5f98471110cca20007d39f76" tvg-name="Pluto TV MTV Unplugged",Pluto TV MTV Unplugged
