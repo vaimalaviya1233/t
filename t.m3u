@@ -50,8 +50,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69586
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177498
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="Entertainment" tvg-id="WarnerChannel.mx" tvg-name="Warner Channel Latin America",Warner Channel Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119338
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="Entertainment" tvg-id="WarnerChannelPanregional.us" tvg-name="Warner Channel Latino USA",Warner Channel Latino USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/121991
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Entertainment" tvg-id="HBOLatinAmerica.us" tvg-name="HBO Latin America", HBO Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/141189
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Entertainment" tvg-id="HBOEast.us" tvg-name="HBO East USA", HBO East USA
@@ -412,8 +410,22 @@ https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8
 https://r.mjh.nz/PlutoTV/5f984784ccb4de0007dfad74-alt.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Fjbaj5EjZrd0n3dLPT-do9j4rpt4aapi0msad-oXG2K4cQQvLTBB6ioLOiiBVZU3pXEI" group-title="Music", The Lot Radio
 https://mia-prod-catalyst-0.lp-playback.studio/hls/video+85c28sa2o8wppm58/0_1/index.m3u8?tkn=ea015f4adb038
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Kiss_Logo_Purple_2020.png" group-title="Music" tvg-id="KissTV.uk" tvg-name="KissTV.uk", Kiss TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Kiss_Logo_Purple_2020.png" group-title="Music" tvg-id="KissTV.uk" tvg-name="Kiss TV", Kiss TV
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/10851
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Classics",EMusic Classics
+http://168.205.87.198:8555/live/1858/123456/231.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Black",EMusic Black
+http://168.205.87.198:8555/live/1858/123456/232.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Hits",EMusic Hits
+http://168.205.87.198:8555/live/1858/123456/233.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Latino",EMusic Latino
+http://168.205.87.198:8555/live/1858/123456/234.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Party",EMusic Party
+http://168.205.87.198:8555/live/1858/123456/235.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Pop",EMusic Pop
+http://168.205.87.198:8555/live/1858/123456/236.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Rock",EMusic Rock
+http://168.205.87.198:8555/live/1858/123456/237.ts
 #EXTINF:-1 tvg-logo="https://somoscultura247.com/wp-content/uploads/2022/02/cropped-somosculturanew.png" group-title="Music" tvg-id="SomosCulturaTV.pa" tvg-name="Somos Cultura TV", Somos Cultura TV
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="Music" tvg-id="USBD3500024YB" tvg-name="Qello Concerts by Stingray", Qello Concerts by Stingray
