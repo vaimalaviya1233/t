@@ -418,6 +418,10 @@ https://r.mjh.nz/PlutoTV/5f984784ccb4de0007dfad74-alt.m3u8
 https://mia-prod-catalyst-0.lp-playback.studio/hls/video+85c28sa2o8wppm58/0_1/index.m3u8?tkn=ea015f4adb038
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Kiss_Logo_Purple_2020.png" group-title="Music" tvg-id="KissTV.uk" tvg-name="Kiss TV", Kiss TV
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/10851
+#EXTINF:-1 tvg-logo="https://www.dancestar.tv/images/logo.png" group-title="Music" tvg-id="DanceStarTV.us" tvg-name="DanceStar TV", DanceStar TV
+https://d3pyjh3ffabib0.cloudfront.net/scheduler/scheduleMaster/388.m3u8
+#EXTINF:-1 tvg-logo="https://ibizaglobal.tv/wp-content//uploads/2015//07/logo_tv.png" group-title="Music" tvg-id="IbizaGlobalTV.es" tvg-name="Ibiza Global TV", Ibiza Global TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Classics",EMusic Classics
 http://168.205.87.198:8555/live/1858/123456/231.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Black",EMusic Black
