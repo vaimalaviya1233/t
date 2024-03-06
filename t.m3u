@@ -282,6 +282,8 @@ https://r.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
 https://r.mjh.nz/PlutoTV/5f98471110cca20007d39f76-alt.m3u8
 #EXTINF:-1 tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png" group-title="Music", m2o
 https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logo_Deejay.svg/1200px-Logo_Deejay.svg.png" group-title="Music", Deejay TV
+https://vdnisha1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/800px-Qmusic_logo.svg.png" group-title="Music" tvg-id="QMusic.be" tvg-name="Qmusic", Qmusic Belgium
 https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/800px-Qmusic_logo.svg.png" group-title="Music" tvg-id="Qmusic.nl" tvg-name="Qmusic", Qmusic Netherlands
