@@ -134,7 +134,7 @@ http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61225
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/122269
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png" group-title="Entertainment" tvg-id="WSBSDT1.us" tvg-name="Mega WSBS - USA",Mega WSBS - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/95732
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/2560px-WAPA-TV_logo.svg.png" group-title="Entertainment" tvg-id="WAPADT1.pr" tvg-name="WAPA - USA",WAPA - USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/2560px-WAPA-TV_logo.svg.png" group-title="Entertainment" tvg-id="WAPADT1.pr" tvg-name="WAPA - Puerto Rico",WAPA - Puerto Rico
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1043
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel - Latin America",Discovery Channel - Latin America
 http://190.149.66.90:4000/play/a051/index.m3u8
@@ -278,8 +278,6 @@ https://r.mjh.nz/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8
 https://r.mjh.nz/PlutoTV/622f46a3769a6d0007429de0-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Music" tvg-id="61ea759737679900078ff559" tvg-name="MTV Party Music - Spain",MTV Party Music - Spain
 https://r.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Music" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-name="MTV Block Party - USA",MTV Block Party - USA
-https://r.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png" group-title="Music" tvg-id="5f98471110cca20007d39f76" tvg-name="Pluto TV MTV Unplugged - USA",Pluto TV MTV Unplugged - USA
 https://r.mjh.nz/PlutoTV/5f98471110cca20007d39f76-alt.m3u8
 #EXTINF:-1 tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png" group-title="Music" tvg-id="m2oTV.it,  tvg-name="m2o - Italy",m2o - Italy
@@ -302,7 +300,7 @@ http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1012
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1013
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png" group-title="Music" tvg-id="BETSoul.us" tvg-name="BET Soult - USA", BET Soult - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1014
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1716080688884015104/q9IdweF9_400x400.jpg" group-title="Music" tvg-id="Revolt.us" tvg-name="Revolt 2t - USA", Revolt 2t - USA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1716080688884015104/q9IdweF9_400x400.jpg" group-title="Music" tvg-id="Revolt.us" tvg-name="Revolt - USA", Revolt - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1099
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1716080688884015104/q9IdweF9_400x400.jpg" group-title="Music" tvg-id="Revolt.us" tvg-name="Revolt Online - USA", Revolt Online - USA
 https://lnc-revolt.tubi.video/playlist.m3u8
@@ -504,9 +502,9 @@ http://191.97.60.193:10000/play/a032/index.m3u8
 http://177.234.230.226:8010/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicareggaeton.png" group-title="Music" tvg-id="" tvg-name="Mimusica Reggaeton",Mimusica Reggaeton
 http://177.234.230.226:8010/play/a020/index.m3u8
-#EXTINF:-1 tvg-logo="https://audio.lamusica.com/artworks/5dcf310cf6344b771afa1717-xxxhdpi.jpg" group-title="Music" tvg-id="Zeta93.pr" tvg-name="Zeta 93 Puerto Rico",Zeta 93 Puerto Rico
+#EXTINF:-1 tvg-logo="https://audio.lamusica.com/artworks/5dcf310cf6344b771afa1717-xxxhdpi.jpg" group-title="Music" tvg-id="Zeta93.pr" tvg-name="Zeta 93 - Puerto Rico",Zeta 93 Puerto Rico
 https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://audio.lamusica.com/artworks/5dcf310cf6344b771afa1717-xxxhdpi.jpg" group-title="Music" tvg-id="LaX.pr" tvg-name="La-X Puerto Rico",La-X Puerto Rico
+#EXTINF:-1 tvg-logo="https://lax.fm/portal/wp-content/themes/Backstreet/images/footer-logo.png" group-title="Music" tvg-id="LaX.pr" tvg-name="La-X - Puerto Rico",La-X Puerto Rico
 https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Musik 104.5 FM Caracas" tvg-name="Musik 104.5 FM Caracas" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 104.5 FM Caracas
 https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.142.98.225/6743abc7b63e7a42474c7cdf28e1b27005af4b72a0b8d102b976270f33f52556/supertrendy2/supertrendy2/chunks.m3u8
