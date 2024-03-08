@@ -490,6 +490,8 @@ http://190.149.66.90:4000/play/a04g/index.m3u8?null=0
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/329ab2f0-5d1a-4e71-9f9a-e6d5674ad982" group-title="Music" tvg-id="IHeart90s.us" tvg-name="iHeart 90s", iHeart 90s
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg" group-title="Music" tvg-id="LoFiGirl.us" tvg-name="LoFi Girl", LoFi Girl
+https://ythlsgo.onrender.com/channel/UCSJ4gkVC6NrvII8umztf0Ow.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Music" tvg-id="HTV.us" tvg-name="HTV", HTV
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69249
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrFfgzC.png" group-title="Music" tvg-id="SinLimites.co" tvg-name="Sin Limites", Sin Limites
