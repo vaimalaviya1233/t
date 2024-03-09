@@ -414,6 +414,12 @@ https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png" group-title="Music" tvg-id="5f984784ccb4de0007dfad74" tvg-name="ClubbingTV.fr", Clubbing TV
 https://r.mjh.nz/PlutoTV/5f984784ccb4de0007dfad74-alt.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qYOHqhSsqJnUw8g2v2MIfugKNIpJQwxfNFlygYMDIdjAMrkdW5FFEuIcNay04EJBPoT3EQSoJg" group-title="Music" tvg-id="TomorrowlandOneWorldRadio.us" tvg-name="Tomorrowland - One World Radio",Tomorrowland - One World Radio
+https://ythlsgo.onrender.com/video/wBgSH-CGPzg.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qYOHqhSsqJnUw8g2v2MIfugKNIpJQwxfNFlygYMDIdjAMrkdW5FFEuIcNay04EJBPoT3EQSoJg" group-title="Music" tvg-id="TomorrowlandOneWorldRadioDaybreakSessionsChannel.us" tvg-name="Tomorrowland - One World Radio - Daybreak Sessions Channel",Tomorrowland - One World Radio - Daybreak Sessions Channel
+https://ythlsgo.onrender.com/channel/UCsN8M73DMWa8SPp5o_0IAQQ.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WS1r91C4btW2x_705IF0qtQT1woQHvELT5JTo6OtK8aJ0mGwdH1DiWjPk6PubqOdt2Mua3j6HA" group-title="Music" tvg-id="DefectedRecords.us" tvg-name="Defected Records",Defected Records
+https://ythlsgo.onrender.com/channel/UCnOxaDXBiBXg9Nn9hKWu6aw.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Fjbaj5EjZrd0n3dLPT-do9j4rpt4aapi0msad-oXG2K4cQQvLTBB6ioLOiiBVZU3pXEI" group-title="Music", The Lot Radio
 https://mia-prod-catalyst-0.lp-playback.studio/hls/video+85c28sa2o8wppm58/0_1/index.m3u8?tkn=ea015f4adb038
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Kiss_Logo_Purple_2020.png" group-title="Music" tvg-id="KissTV.uk" tvg-name="Kiss TV", Kiss TV
@@ -490,8 +496,28 @@ http://190.149.66.90:4000/play/a04g/index.m3u8?null=0
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/329ab2f0-5d1a-4e71-9f9a-e6d5674ad982" group-title="Music" tvg-id="IHeart90s.us" tvg-name="iHeart 90s", iHeart 90s
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg" group-title="Music" tvg-id="LoFiGirl.us" tvg-name="LoFi Girl", LoFi Girl
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uRyYAtpGYkvWtURqUsj6FVPZTFyJ0o0cl62d4Y1QU8rN5vQh7R43rK8rzj_gYKI7nVyU__kS" group-title="Music" tvg-id="LoFiGirl.us" tvg-name="Lofi Girl",Lofi Girl
 https://ythlsgo.onrender.com/channel/UCSJ4gkVC6NrvII8umztf0Ow.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uRyYAtpGYkvWtURqUsj6FVPZTFyJ0o0cl62d4Y1QU8rN5vQh7R43rK8rzj_gYKI7nVyU__kS" group-title="Music" tvg-id="LoFiGirl.us" tvg-name="Lofi Girl - peaceful piano radio 🎹 - music to focus/study to",Lofi Girl - peaceful piano radio 🎹 - music to focus/study to
+https://ythlsgo.onrender.com/video/nWjC1RnLYbM.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uRyYAtpGYkvWtURqUsj6FVPZTFyJ0o0cl62d4Y1QU8rN5vQh7R43rK8rzj_gYKI7nVyU__kS" group-title="Music" tvg-id="LoFiGirl.us" tvg-name="Lofi Girl - dark ambient radio 🌃 - music to escape/dream to",Lofi Girl - dark ambient radio 🌃 - music to escape/dream to
+https://ythlsgo.onrender.com/video/SKhpl1OMqEY.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uRyYAtpGYkvWtURqUsj6FVPZTFyJ0o0cl62d4Y1QU8rN5vQh7R43rK8rzj_gYKI7nVyU__kS" group-title="Music" tvg-id="LoFiGirl.us" tvg-name="Lofi Girl - synthwave radio 🌌 - beats to chill/game to",Lofi Girl - synthwave radio 🌌 - beats to chill/game to
+https://ythlsgo.onrender.com/video/4xDzrJKXOOY.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uRyYAtpGYkvWtURqUsj6FVPZTFyJ0o0cl62d4Y1QU8rN5vQh7R43rK8rzj_gYKI7nVyU__kS" group-title="Music" tvg-id="LoFiGirl.us" tvg-name="Lofi Girl - lofi hip hop radio 💤 - beats to sleep/chill to",Lofi Girl - lofi hip hop radio 💤 - beats to sleep/chill to
+https://ythlsgo.onrender.com/video/rUxyKA_-grg.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uRyYAtpGYkvWtURqUsj6FVPZTFyJ0o0cl62d4Y1QU8rN5vQh7R43rK8rzj_gYKI7nVyU__kS" group-title="Music" tvg-id="LoFiGirl.us" tvg-name="Lofi Girl - lofi hip hop radio 📚 - beats to relax/study to",Lofi Girl - lofi hip hop radio 📚 - beats to relax/study to
+https://ythlsgo.onrender.com/video/jfKfPfyJRdk.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WGHgrzyKmOLaczaLyitl3OIqY5teaBfasvzErke2Yu9Y1Vds2dT1QKCeCc0GLINxAmanXLi_" group-title="Music" tvg-id="ChillhopMusic.us" tvg-name="Chillhop Music",Chillhop Music
+https://ythlsgo.onrender.com/channel/UCOxqgCwgOqC2lMqC5PYz_Dg.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WGHgrzyKmOLaczaLyitl3OIqY5teaBfasvzErke2Yu9Y1Vds2dT1QKCeCc0GLINxAmanXLi_" group-title="Music" tvg-id="ChillhopMusic.us" tvg-name="Chillhop Music - lofi hip hop radio - beats to study/relax to 🐾",Chillhop Music - lofi hip hop radio - beats to study/relax to 🐾
+https://ythlsgo.onrender.com/video/7NOSDKb0HlU.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WGHgrzyKmOLaczaLyitl3OIqY5teaBfasvzErke2Yu9Y1Vds2dT1QKCeCc0GLINxAmanXLi_" group-title="Music" tvg-id="ChillhopMusic.us" tvg-name="Chillhop Music - Chillhop Radio - jazzy & lofi hip hop beats 🐾",Chillhop Music - Chillhop Radio - jazzy & lofi hip hop beats 🐾
+https://ythlsgo.onrender.com/video/5yx6BWlEVcY.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4WEURbGBEs0-N63_SNeB_NdAltYDNVccI-85TYp0bRqkPhG3ye1PvSIWEGGcJ0W6hVHTvfzIcw" group-title="Music" tvg-id="CoffeeRelaxingJazz.us" tvg-name="Coffee Relaxing Jazz",Coffee Relaxing Jazz
+https://ythlsgo.onrender.com/channel/UCKvKjZ3l9azWz4F49q2R3tQ.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4WEURbGBEs0-N63_SNeB_NdAltYDNVccI-85TYp0bRqkPhG3ye1PvSIWEGGcJ0W6hVHTvfzIcw" group-title="Music" tvg-id="CoffeeRelaxingJazz.us" tvg-name="Coffee Relaxing Jazz - New York Coffee Shop Ambience ☕ Relaxing Jazz Instrumental Music For Good Mood, Work, Study",Coffee Relaxing Jazz - New York Coffee Shop Ambience ☕ Relaxing Jazz Instrumental Music For Good Mood, Work, Study
+https://ythlsgo.onrender.com/video/CDgxzo4dyFI.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Music" tvg-id="HTV.us" tvg-name="HTV", HTV
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69249
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrFfgzC.png" group-title="Music" tvg-id="SinLimites.co" tvg-name="Sin Limites", Sin Limites
