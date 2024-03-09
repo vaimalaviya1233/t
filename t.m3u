@@ -226,6 +226,22 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26699
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Yahoo%21_Finance_logo_2021.png" group-title="Business" tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance - USA",Yahoo! Finance - USA
 https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qhRvzfNw1D4fnxTb59t72lECX4fb3VZK6jEatP8rxx5z5SgfgWZyrdnvshs7a5lTtD8Rh9J08tk" group-title="Business" tvg-id="WorldKing.us" tvg-name="World King",World King
+https://ythlsgo.onrender.com/channel/UCmPbFLE-VDs94csE96FXJ5g.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/DWqpYiEpLbUZ5tJpks-tnJ_SNEYGTvLVpp6zXQ8eZonOngWl7rJWSPLjH_33Lesanb7PRsPilMM" group-title="Business" tvg-id="RajaBanks.us" tvg-name="Raja Banks",Raja Banks
+https://ythlsgo.onrender.com/channel/UCebKD61pQspkOedEtFjUxSw.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/aTtQHfQ2EQOc8YnymM0r77TMV8bOkc6ON-wrduLN-i5YvKT4kxcLscyFMkvP83v8cqlEU9k0iA" group-title="Business" tvg-id="DonVo.us" tvg-name="Don Vo",Don Vo
+https://ythlsgo.onrender.com/channel/UCH2PEOvYxrF56qtaNpre51g.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uMmnqVJigk6tDVUtWDsfrGhTDVmQMZGNnvF4ihtgznR8MNWgud6zIqDQNGKu7KjEpZDIgWgcnQ" group-title="Business" tvg-id="TimeToEatTrading.us" tvg-name="Time To Eat Trading",Time To Eat Trading
+https://ythlsgo.onrender.com/channel/UCjMkzpMcy8Bq_AkmlWrOhCA.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/lP8w3VLuknr7gbLf9IwjWF4qgEkOZcwT33FDzgzkTUWwPpr_VlHxPcul_sbYBZVhpTBw27hDVA" group-title="Business" tvg-id="bard.us" tvg-name="bard",bard
+https://ythlsgo.onrender.com/channel/UCz7eou3uwIXXwpqKLiaVDIg.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/myWRl7G4T85G178EocIYsiTyXMnVsGjR2WBdVPKcte1Lpcjm0ILtQUObRv81nvpmq21o8UUj" group-title="Business" tvg-id="WaliBabaFx.us" tvg-name="WaliBabaFx",WaliBabaFx
+https://ythlsgo.onrender.com/channel/UC07Jnj8JWt7eTkr-AmTeKbw.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hz75k3yYMVljBb72PViZutgg8KB3a0_o46UutTL1DMAnKoVhdnt62gssdUKB6M9bebqOJaoF" group-title="Business" tvg-id="MSBFX.us" tvg-name="MSB FX",MSB FX
+https://ythlsgo.onrender.com/channel/UCILkdq3pCkrab38ehzzyXTA.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/klGcnmcntQj58ajh8Og-ALl8-iOWnTz-01hDmey-vH8imWUUSNZ07dImjo6JWIWmBEe-pXRWrw" group-title="Business" tvg-id="Wix9ine.us" tvg-name="Wix9ine",Wix9ine
+https://ythlsgo.onrender.com/channel/UCM7YyUa7jflvMCd3e5FetfQ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="Music" tvg-id="MTVEast.us" tvg-name="MTV East - USA", MTV East USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1075
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="Music" tvg-id="MTVenEspanol.us" tvg-name="MTV - Latin America", MTV - Latin America
@@ -526,8 +542,10 @@ https://ythlsgo.onrender.com/channel/UCKvKjZ3l9azWz4F49q2R3tQ.m3u8
 https://ythlsgo.onrender.com/video/CDgxzo4dyFI.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Gf48sRTFuRN2aevh9DjKl0cYJrVlfqGmBXcpyQZWOrZpkUn5tNt9Ze275ahVkWemS8__Z5uR" group-title="Music" tvg-id="NightJazzMusic.us" tvg-name="New York Jazz Lounge",New York Jazz Lounge
 https://ythlsgo.onrender.com/video/9Bo9-QJqAuI.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/kclMLjMPZBPPMNpj0oh-eDwnPIsIH64NoFK5t66ClXUd-2jC_WBLYVqXnQfDsGOIZTOXpvwbndA" group-title="Music" tvg-id="LuckyTunes.us" tvg-name="Lucky Tunes",Lucky Tunes
+https://ythlsgo.onrender.com/video/9Bo9-QJqAuI.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IJL8nbuAPOrqBSkvNqcHD3pfVPMQWP73IT5MWh7HooUyftZjRI5R5eT67KpgNyBmNIfAQwoQug" group-title="Music" tvg-id="AlexSensation.us" tvg-name="Alex Sensation",Alex Sensation
-https://ythlsgo.onrender.com/channel/UCH74EMTujyjoaY-eIx7oUXQ.m3u8
+https://ythlsgo.onrender.com/channel/UCC0KP4WCVQPe8n54fL5pHxg.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Music" tvg-id="HTV.us" tvg-name="HTV", HTV
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69249
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrFfgzC.png" group-title="Music" tvg-id="SinLimites.co" tvg-name="Sin Limites", Sin Limites
