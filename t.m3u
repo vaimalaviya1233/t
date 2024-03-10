@@ -40,41 +40,41 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154351
 http://138.59.177.34:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Entertainment" tvg-id="STAR CHANNEL" tvg-name="Star Channel - Latin America",Star Channel - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1454
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="Entertainment" tvg-id="StudioUniversalSouth.us" tvg-name="Studio Universal - Latin America",Studio Universal - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="Entertainment" tvg-id="StudioUniversal.mx" tvg-name="Studio Universal - Latin America",Studio Universal - Latin America
 http://138.59.177.34:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Entertainment" tvg-id="TNT.mx" tvg-name="TNT - Latin America",TNT - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26926
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="Entertainment" tvg-id="TNTSeries.mx" tvg-name="TNT Series - Latin America",TNT Series - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="Entertainment" tvg-id="TNT Series.co" tvg-name="TNT Series - Latin America",TNT Series - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69586
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Entertainment" tvg-id="TNT.us" tvg-name="TNT - USA",TNT - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177498
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="Entertainment" tvg-id="WarnerChannel.mx" tvg-name="Warner Channel - Latin America",Warner Channel - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119338
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Entertainment" tvg-id="HBOLatinAmerica.us" tvg-name="HBO - Latin America", HBO - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Entertainment" tvg-id="HBO.mx" tvg-name="HBO - Latin America", HBO - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/141189
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Entertainment" tvg-id="HBOEast.us" tvg-name="HBO - East - USA", HBO - East - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177508
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Entertainment" tvg-id="HBOWest.us" tvg-name="HBO - West - USA", HBO - West - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177510
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Entertainment" tvg-id="HBO2LatinAmericaHD.us" tvg-name="HBO 2 - Latin America", HBO 2 - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Entertainment" tvg-id="HBO2.mx" tvg-name="HBO 2 - Latin America", HBO 2 - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1030
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Entertainment" tvg-id="HBO2West.us" tvg-name="HBO 2 - West - USA", HBO 2 - West - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177506
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Entertainment" tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+ - Latin America", HBO+ - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Entertainment" tvg-id="HBO PLUS" tvg-name="HBO+ - Latin America", HBO+ - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1434
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Entertainment" tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO Family - Latin America", HBO Family - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Entertainment" tvg-id="HBO FAMILY HD" tvg-name="HBO Family - Latin America", HBO Family - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1033
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Entertainment" tvg-id="HBOFamily.us" tvg-name="HBO Family - USA", HBO Family - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177489
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Entertainment" tvg-id="HBOXtremeLatinAmerica.us" tvg-name="HBO Xtreme - Latin America", HBO Xtreme - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Entertainment" tvg-id="HBO XTREME.co" tvg-name="HBO Xtreme - Latin America", HBO Xtreme - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1910
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="Entertainment" tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO Pop - Latin America", HBO Pop - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="Entertainment" tvg-id="HBOPop.mx" tvg-name="HBO Pop - Latin America", HBO Pop - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1479
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Entertainment" tvg-id="HBOSignatureLatinAmerica.us" tvg-name="HBO Signature - Latin America", HBO Signature - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Entertainment" tvg-id="HBOSignature.mx" tvg-name="HBO Signature - Latin America", HBO Signature - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/52879
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Entertainment" tvg-id="HBOSignature.us" tvg-name="HBO Signature - USA", HBO Signature - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177509
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="Entertainment" tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO Mundi - Latin America", HBO Mundi - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="Entertainment" tvg-id="HBOMundi.mx" tvg-name="HBO Mundi - Latin America", HBO Mundi - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53238
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/1000px-HBO_Comedy_%282014%29.svg.png" group-title="Entertainment" tvg-id="HBOComedyWest.us" tvg-name="HBO Comedy - West - USA", HBO Comedy - West - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177507
@@ -84,15 +84,15 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177511
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/7155
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Entertainment" tvg-id="UniversalCinema.us" tvg-name="Universal Cinema - Latin America", Universal Cinema - Latin America
 http://190.149.66.90:4000/play/a056/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="Entertainment" tvg-id="UniversalComedy.us" tvg-name="Universal Comedy - Latin America", Universal Comedy - Latin America
+#EXTINF:-1 tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="Entertainment" tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy - Latin America", Universal Comedy - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153306
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Entertainment" tvg-id="UniversalCrimeEast.us" tvg-name="Universal Crime - Latin America", Universal Crime - Latin America
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Entertainment" tvg-id="UniversalCrimeEast.mx" tvg-name="Universal Crime - Latin America", Universal Crime - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144836
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mqfUD1R.png" group-title="Entertainment" tvg-id="UniversalReality.us" tvg-name="Universal Reality - Latin America", Universal Reality - Latin America
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mqfUD1R.png" group-title="Entertainment" tvg-id="UniversalReality.mx" tvg-name="Universal Reality - Latin America", Universal Reality - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/65437
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Entertainment" tvg-id="UniversalPremiereEast.us" tvg-name="Universal Premiere East - Latin America",Universal Premiere - East - Latin America
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Entertainment" tvg-id="UniversalPremiereEast.mx" tvg-name="Universal Premiere East - Latin America",Universal Premiere - East - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26737
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Entertainment" tvg-id="UniversalPremiereWest.us" tvg-name="Universal Premiere West - Latin America",Universal Premiere - West - Latin America
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Entertainment" tvg-id="UniversalPremiereWest.mx" tvg-name="Universal Premiere West - Latin America",Universal Premiere - West - Latin America
 http://138.59.177.34:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/1200px-Starz_2016.svg.png" group-title="Entertainment" tvg-id="StarzEast.us" tvg-name="Starz - East - USA",Starz - East - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/2112
