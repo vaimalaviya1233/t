@@ -1,24 +1,24 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/all.xml
+#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Entertainment" tvg-id="AandE.mx" tvg-name="A&E - Latin America",A&E - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26925
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Entertainment" tvg-id="AandE.us" tvg-name="A&E - USA",A&E - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177486
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Entertainment" tvg-id="AMC.mx" tvg-name="AMC - Latin America",AMC - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Entertainment" tvg-id="I19.90653.schedulesdirect.org" tvg-name="AMC - Latin America",AMC - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26931
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="Entertainment" tvg-id="AXN.mx" tvg-name="AXN - Latin America",AXN - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="Entertainment" tvg-id="I78.72534.schedulesdirect.org" tvg-name="AXN - Latin America",AXN - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119331
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="Entertainment" tvg-id="Cinecanal.mx" tvg-name="Cinecanal - Latin America",Cinecanal - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="Entertainment" tvg-id="I128.70424.schedulesdirect.org" tvg-name="Cinecanal - Latin America",Cinecanal - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26903
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="Entertainment" tvg-id="Cinemax.mx" tvg-name="Cinemax - Latin America",Cinemax - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="Entertainment" tvg-id="I138.101730.schedulesdirect.org" tvg-name="Cinemax - Latin America",Cinemax - Latin America
 http://190.90.154.73:8080/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/800px-Cinemax_2016.svg.png" group-title="Entertainment" tvg-id="Cinemax.us" tvg-name="Cinemax - Latino - USA",Cinemax - Latino - USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/800px-Cinemax_2016.svg.png" group-title="Entertainment" tvg-id="I523.59965.zap2it.com" tvg-name="Cinemax - Latino - USA",Cinemax - Latino - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/7153
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/1280px-MoreMax_Logo.svg.png" group-title="Entertainment" tvg-id="MoreMaxEast.us" tvg-name="MoreMax - East - USA",MoreMax East - USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/1280px-MoreMax_Logo.svg.png" group-title="Entertainment" tvg-id="I517.10121.zap2it.com" tvg-name="MoreMax - East - USA",MoreMax East - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/673
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="Entertainment" tvg-id="FX.mx" tvg-name="FX - Latin America",FX - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="Entertainment" tvg-id="I321.82819.schedulesdirect.org" tvg-name="FX - Latin America",FX - Latin America
 http://138.59.177.34:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/320px-Canal_Golden_logo.svg.png" group-title="Entertainment" tvg-id="Golden.mx" tvg-name="Golden - Latin America",Golden - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="Entertainment" tvg-id="I333.16298.schedulesdirect.org" tvg-name="Golden - Latin America",Golden - Latin America
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61079
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="Entertainment" tvg-id="GoldenPlus.mx" tvg-name="Golden Plus - Latin America",Golden Plus - Latin America
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
@@ -26,7 +26,7 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1474
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="Entertainment" tvg-id="GoldenPremier2.mx" tvg-name="Golden Premier 2 - Latin America",Golden Premier 2 - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69893
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png" group-title="Entertainment" tvg-id="GoldenEdge.mx" tvg-name="Golden Edge - Latin America",Golden Edge - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.pngg" group-title="Entertainment" tvg-id="I334.16423.schedulesdirect.org" tvg-name="Golden Edge - Latin America",Golden Edge - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1478
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/125px-Paramount_Network.svg.png" group-title="Entertainment" tvg-id="PARAMOUNT HD" tvg-name="Paramount Network - Latin America",Paramount Network - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1486
@@ -80,7 +80,7 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53238
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177507
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/1200px-HBO_Zone_%282014%29.svg.png" group-title="Entertainment" tvg-id="HBOZoneWest.us" tvg-name="HBO Zone - West - USA", HBO Zone - West - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177511
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1280px-HBO_Latino_Logo.svg.png" group-title="Entertainment" tvg-id="HBOLatinoEast.us" tvg-name="HBO - Latino - USA",HBO - Latino - USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1280px-HBO_Latino_Logo.svg.png" group-title="Entertainment" tvg-id="I313.59837.schedulesdirect.org" tvg-name="HBO - Latino - USA",HBO - Latino - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/7155
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Entertainment" tvg-id="UniversalCinema.us" tvg-name="Universal Cinema - Latin America", Universal Cinema - Latin America
 http://190.149.66.90:4000/play/a056/index.m3u8
