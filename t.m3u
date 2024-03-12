@@ -218,11 +218,11 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144553
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144554
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png" group-title="Business" tvg-id="Negocios.TV" tvg-name="Negocios TV - Spain", Negocios TV - Spain
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uW4WIvC.png" group-title="Business" tvg-id="WOBI.ar" tvg-name="WOBI - Argentina", WOBI - Argentina
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59014_dark_360w_270h.png" group-title="Business" tvg-id="I714.59014.schedulesdirect.org" tvg-name="WOBI - Argentina", WOBI - Argentina
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26900
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MmoueNU.png" group-title="Business" tvg-id="ElFinancieroBloombergTV.mx" tvg-name="El Financiero Bloomberg TV - Mexico", El Financiero Bloomberg TV - Mexico
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87311_dark_360w_270h.png" group-title="Business" tvg-id="I241.87311.schedulesdirect.org" tvg-name="El Financiero Bloomberg TV - Mexico", El Financiero Bloomberg TV - Mexico
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26699
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bloomberg_Television_logo.svg/1280px-Bloomberg_Television_logo.svg.png" group-title="Business" tvg-id="BloombergTV.us" tvg-name="Bloomberg TV - USA",Bloomberg TV - USA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95630_dark_360w_270h.png" group-title="Business" tvg-id="I242.95630.schedulesdirect.org" tvg-name="Bloomberg TV - USA",Bloomberg TV - USA
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Yahoo%21_Finance_logo_2021.png" group-title="Business" tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance - USA",Yahoo! Finance - USA
 https://yahoo-samsung.amagi.tv/playlist.m3u8
@@ -242,33 +242,33 @@ https://ythlsgo.onrender.com/channel/UC07Jnj8JWt7eTkr-AmTeKbw.m3u8
 https://ythlsgo.onrender.com/channel/UCILkdq3pCkrab38ehzzyXTA.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/klGcnmcntQj58ajh8Og-ALl8-iOWnTz-01hDmey-vH8imWUUSNZ07dImjo6JWIWmBEe-pXRWrw" group-title="Business" tvg-id="Wix9ine.us" tvg-name="Wix9ine",Wix9ine
 https://ythlsgo.onrender.com/channel/UCM7YyUa7jflvMCd3e5FetfQ.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="Music" tvg-id="MTVEast.us" tvg-name="MTV East - USA", MTV East USA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60964_dark_360w_270h.png" group-title="Music" tvg-id="I430.60964.schedulesdirect.org" tvg-name="MTV East - USA", MTV East USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1075
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/1200px-MTV-2021.svg.png" group-title="Music" tvg-id="MTVenEspanol.us" tvg-name="MTV - Latin America", MTV - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="Music" tvg-id="I429.84432.schedulesdirect.org" tvg-name="MTV - Latin America", MTV - Latin America
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61165
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/MTV_Music_2021_logo.svg/512px-MTV_Music_2021_logo.svg.png" group-title="Music" tvg-id="MTVMusic.uk" tvg-name="MTV Music - United Kingdom",MTV Music - United Kingdom
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/114
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/800px-Club_MTV_2021_logo.svg.png" group-title="Music" tvg-id="ClubMTVEurope.uk" tvg-name="Club MTV - Europe", Club MTV - Europe
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52334
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MTV_2_Logo.svg/1200px-MTV_2_Logo.svg.png" group-title="Music" tvg-id="MTV2East.us" tvg-name="MTV 2 - USA", MTV 2 - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16361/s16361_ll_h15_aa.png" group-title="Music" tvg-id="I332.16361.zap2it.com" tvg-name="MTV 2 - USA", MTV 2 - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1077
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/1200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="Music" tvg-id="MTVU.us" tvg-name="MTVU USA", MTVU USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1078
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music" tvg-id="MTVLive.us" tvg-name="MTV Live USA", MTV Live USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music" tvg-id="I572.49141.zap2it.com" tvg-name="MTV Live USA", MTV Live USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1076
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music" tvg-id="MTVLive.uk" tvg-name="MTV Live MTV Latin America", MTV Live MTV Latin America
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49141/s49141_ll_h15_ab.png" group-title="Music" tvg-id="I436.66419.schedulesdirect.org" tvg-name="MTV Live MTV Latin America", MTV Live MTV Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1302
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" group-title="Music" tvg-id="MTVClassicEast.us" tvg-name="MTV Classic- USA", MTV - Classic USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/22561/s22561_ll_h15_ad.png" group-title="Music" tvg-id="I336.22561.zap2it.com" tvg-name="MTV Classic- USA", MTV - Classic USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1074
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png" group-title="Music" tvg-id="MMTVHits.uk" tvg-name="MTV Hits - Latin America", MTV Hits - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67787_dark_360w_270h.png" group-title="Music" tvg-id="I435.67787.schedulesdirect.org" tvg-name="MTV Hits - Latin America", MTV Hits - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26935
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="Music" tvg-id="MTV80s.uk" tvg-name="MTV 80s - United Kingdom", MTV 80s - United Kingdom
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="Music" tvg-id="I432.65060.schedulesdirect.org" tvg-name="MTV 80s - Latin America",MTV 80s - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1323
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Music" tvg-id="MTV90s.uk" tvg-name="MTV 90s - United Kingdom", MTV 90s - United Kingdom
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/95995
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Music" tvg-id="MTV00s.uk" tvg-name="MTV 00s - United Kingdom", MTV 00s - United Kingdom
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" group-title="Music" tvg-id="I431.120767.schedulesdirect.org" tvg-name="MTV 00s - Latin America",MTV 00s - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1324
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1024px-VH1_logonew.svg.png" group-title="Music" tvg-id="VH1.us" tvg-name="VH1 - USA",VH1 - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11218/s11218_ll_h15_ac.png" group-title="Music" tvg-id="I335.11218.zap2it.com" tvg-name="VH1 - USA",VH1 - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1320
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Music" tvg-id="USBA3000093U" tvg-name="MTV Pluto TV - USA", MTV Pluto TV - USA
 https://i.mjh.nz/SamsungTVPlus/USBA3000093U.m3u8
@@ -296,114 +296,6 @@ https://r.mjh.nz/PlutoTV/622f46a3769a6d0007429de0-alt.m3u8
 https://r.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png" group-title="Music" tvg-id="5f98471110cca20007d39f76" tvg-name="Pluto TV MTV Unplugged - USA",Pluto TV MTV Unplugged - USA
 https://r.mjh.nz/PlutoTV/5f98471110cca20007d39f76-alt.m3u8
-#EXTINF:-1 tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png" group-title="Music" tvg-id="m2oTV.it,  tvg-name="m2o - Italy",m2o - Italy
-https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logo_Deejay.svg/1200px-Logo_Deejay.svg.png" group-title="Music" tvg-id="DeejayTVHD.it,  tvg-name="Deejay TV - Italy",Deejay TV - Italy
-https://vdnisha1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/1200px-Radio_Capital_logo_%282020%29.svg.png" group-title="Music" tvg-id="RadioCapitalTiVu.it",  tvg-name="Radio Capital TiVu - Italy",Radio Capital TiVu - Italy
-https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/800px-Qmusic_logo.svg.png" group-title="Music" tvg-id="QMusic.be" tvg-name="Qmusic - Belgium", Qmusic - Belgium
-https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/800px-Qmusic_logo.svg.png" group-title="Music" tvg-id="Qmusic.nl" tvg-name="Qmusic - Netherlands", Qmusic - Netherlands
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1200px-BET_Logo.svg.png" group-title="Music" tvg-id="BETEast.us" tvg-name="BET - East - USA",BET - East - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1010
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1200px-BET_Logo.svg.png" group-title="Music" tvg-id="BETWest.us" tvg-name="BET - West - USA",BET - West - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1011
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Music" tvg-id="BETHerEast.us" tvg-name="BET Her - East - USA",BET Her - East - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1012
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/BET_Jams_Logo.png" group-title="Music" tvg-id="BETJams.us" tvg-name="BET Jamst - USA", BET Jamst - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1013
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png" group-title="Music" tvg-id="BETSoul.us" tvg-name="BET Soult - USA", BET Soult - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1014
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1716080688884015104/q9IdweF9_400x400.jpg" group-title="Music" tvg-id="Revolt.us" tvg-name="Revolt - USA", Revolt - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1099
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1716080688884015104/q9IdweF9_400x400.jpg" group-title="Music" tvg-id="Revolt.us" tvg-name="Revolt Online - USA", Revolt Online - USA
-https://lnc-revolt.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoice80s.us" tvg-name="Music Choice 80s - USA", Music Choice 80s - USA
-http://45.11.56.147:8808/stream?id=1113
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoice90s.us" tvg-name="Music Choice 90s - USA", Music Choice 90s - USA
-http://45.11.56.147:8808/stream?id=140
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceAlternative.us" tvg-name="Music Choice Alternative - USA", Music Choice Alternative - USA
-http://45.11.56.147:8808/stream?id=122
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceCountryHits.us" tvg-name="MC Country Hits", MC Country Hits
-http://45.11.56.147:8808/stream?id=1115
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceDanceEDM.us" tvg-name="MC Dance/EDM", MC Dance/EDM
-http://45.11.56.147:8808/stream?id=127
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceFamilyHits.us" tvg-name="MC Family Hits", MC Family Hits
-http://45.11.56.147:8808/stream?id=1110
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceHipHopandRB.us" tvg-name="MC Hip-Hop and R&B", MC Hip-Hop and R&B
-http://45.11.56.147:8808/stream?id=106
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MC Hit List" tvg-name=MC Hit List", MC Hit List
-http://45.11.56.147:8808/stream?id=100
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceHitList.us" tvg-name="MC Holiday Hits", MC Holiday Hits
-http://45.11.56.147:8808/stream?id=168
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoice HolidayYuleLogs.us" tvg-name="MC Holiday Yule Logs", MC Holiday Yule Logs
-http://45.11.56.147:8808/stream?id=1101
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceKidzBop.us" tvg-name="MC KIDZ BOP", MC KIDZ BOP
-http://45.11.56.147:8808/stream?id=1105
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceKidzChristmas.us" tvg-name="MC Kids Christmas", MC Kids Christmas
-http://45.11.56.147:8808/stream?id=1102
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceKidzOnly.us" tvg-name="MC Kids Only!", MC Kids Only!
-http://45.11.56.147:8808/stream?id=130
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceLearnPlay.us" tvg-name="MC Learn & Play", MC Learn & Play
-http://45.11.56.147:8808/stream?id=176
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceMexicana.us" tvg-name="MC Mexicana", MC Mexicana
-http://45.11.56.147:8808/stream?id=131
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceMax.us" tvg-name="MC Music Choice Max", MC Music Choice Max
-http://45.11.56.147:8808/stream?id=1104
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceMusicUrbana.us" tvg-name="MC Musica Urbana", MC Musica Urbana
-http://45.11.56.147:8808/stream?id=128
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoicePopCountry.us" tvg-name="MC Pop & Country", MC Pop & Country
-http://45.11.56.147:8808/stream?id=132
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoicePopHits.us" tvg-name="MC Pop Hits", MC Pop Hits
-http://45.11.56.147:8808/stream?id=133
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoicePopLatino.us" tvg-name="MC Pop Latino", MC Pop Latino
-http://45.11.56.147:8808/stream?id=123
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceRap.us" tvg-name="MC Rap", MC Rap
-http://45.11.56.147:8808/stream?id=125
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceRap2k.us" tvg-name="MC Rap 2K", MC Rap 2K
-http://45.11.56.147:8808/stream?id=141
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceRBSoul.us" tvg-name="MC R&B Soul", MC R&B Soul
-http://45.11.56.147:8808/stream?id=124
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceRock.us" tvg-name="MC Rock", MC Rock
-http://45.11.56.147:8808/stream?id=138
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceSoftRock.us" tvg-name="MC Soft Rock", MC Soft Rock
-http://45.11.56.147:8808/stream?id=1118
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceTeenBeats.us" tvg-name="MC Teen Beats", MC Teen Beats
-http://45.11.56.147:8808/stream?id=118
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceThrowbackJamz.us" tvg-name="MC Throwback Jamz", MC Throwback Jamz
-http://45.11.56.147:8808/stream?id=142
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceTodaysCountry.us" tvg-name="MC Today's Country", MC Today's Country
-http://45.11.56.147:8808/stream?id=121
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceToddlerTunes.us" tvg-name="MC Toddler Tunes", MC Toddler Tunes
-http://45.11.56.147:8808/stream?id=144
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceTropicales.us" tvg-name="MC Tropicales", MC Tropicales
-http://45.11.56.147:8808/stream?id=137
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceY2K.us" tvg-name="MC Y2K", MC Y2K
-http://45.11.56.147:8808/stream?id=145
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD19000026B_20230614T010133SQUARE.png_20230614010134.png" group-title="Music" tvg-id="GBBD19000026B" tvg-name="Trace UK",Trace UK
-https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900001SC_20230614T010132SQUARE.png_20230614010132.png" group-title="Music" tvg-id="GBBC900001SC" tvg-name="Trace Urban",Trace Urban
-https://i.mjh.nz/SamsungTVPlus/GBBC900001SC.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20230614T005923SQUARE.png_20230614005923.png" group-title="Music" tvg-id="ESBA3300042Y6" tvg-name="Trace Latina",Trace Latina
-https://i.mjh.nz/SamsungTVPlus/ESBA3300042Y6.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png" group-title="Music" tvg-id="USBB320000647" tvg-name="XITE 80s Flashback",XITE 80s Flashback
-https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png" group-title="Music" tvg-id="USBB3200007AK" tvg-name="XITE 90s Throwback",XITE 90s Throwback
-https://i.mjh.nz/SamsungTVPlus/USBB3200007AK.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20231024T231908SQUARE.png_20231024231909.png" group-title="Music" tvg-id="USBD3300004RH" tvg-name="XITE Hits", XITE Hits
-https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20231024T231914SQUARE.png_20231024231915.png" group-title="Music" tvg-id="USBD3300007PB" tvg-name="XITE Nuevo Latino", XITE Nuevo Latino
-https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20231024T231922SQUARE.png_20231024231923.png" group-title="Music" tvg-id="USBD3300010L9" tvg-name="XITE Siempre Latino", XITE Siempre Latino
-https://i.mjh.nz/SamsungTVPlus/USBD3300010L9.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20231024T231919SQUARE.png_20231024231920.png" group-title="Music" tvg-id="USBD330000948" tvg-name="XITE R&B Classic Jams", XITE R&B Classic Jams
-https://i.mjh.nz/SamsungTVPlus/USBD330000948.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20231024T231911SQUARE.png_20231024231912.png" group-title="Music" tvg-id="USBD3300005EX" tvg-name="XITE Icons", XITE Icons
-https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20231024T231619SQUARE.png_20231024231619.png" group-title="Music" tvg-id="USBB2300003JZ" tvg-name="XITE Just Chill",XITE Just Chill
-https://i.mjh.nz/SamsungTVPlus/USBB2300003JZ.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Music" tvg-id=USBC3900009K5" tvg-name="Vevo R&B",Vevo R&B
 https://i.mjh.nz/SamsungTVPlus/USBC3900009K5.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20230322T000030SQUARE.png_20230322000031.png" group-title="Music" tvg-id="USBC3600002EK" tvg-name="Vevo Hip Hop", Vevo Hip Hop
@@ -428,6 +320,114 @@ https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20230627T215025SQUARE.png_20230627215025.png" group-title="Music" tvg-id="USBD120002431" tvg-name="Vevo 2010s",Vevo 2010s
 https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/63236/s63236_ll_h15_ac.png" group-title="Music" tvg-id="I329.63236.zap2it.com" tvg-name="BET - East - USA",BET - East - USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1010
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1200px-BET_Logo.svg.png" group-title="Music" tvg-id="BETWest.us" tvg-name="BET - West - USA",BET - West - USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1011
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14897/s14897_ll_h15_ac.png" group-title="Music" tvg-id="I330.14897.zap2it.com" tvg-name="BET Her - East - USA",BET Her - East - USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1012
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/30419/s30419_ll_h15_ac.png" group-title="Music" tvg-id="I1633.30419.zap2it.com" tvg-name="BET Jams - USA", BET Jams - USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1013
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png" group-title="Music" tvg-id="BETSoul.us" tvg-name="BET Soul - USA", BET Soul - USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1014
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/83098/s83098_ll_h15_ac.png" group-title="Music" tvg-id="I384.83098.zap2it.com" tvg-name="Revolt Music - USA", Revolt Music - USA
+http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1099
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/83098/s83098_ll_h15_ac.png" group-title="Music" tvg-id="Revolt.us" tvg-name="Revolt - USA", Revolt - USA
+https://lnc-revolt.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoice80s.us" tvg-name="Music Choice 80s - USA", Music Choice 80s - USA
+http://45.11.56.147:8808/stream?id=1113
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoice90s.us" tvg-name="Music Choice 90s - USA", Music Choice 90s - USA
+http://45.11.56.147:8808/stream?id=140
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceAlternative.us" tvg-name="Music Choice Alternative - USA", Music Choice Alternative - USA
+http://45.11.56.147:8808/stream?id=122
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceCountryHits.us" tvg-name="Music Choice Country Hits - USA", Music Choice Country Hits - USA
+http://45.11.56.147:8808/stream?id=1115
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceDanceEDM.us" tvg-name="Music Choice Dance/EDM - USA", Music Choice Dance/EDM - USA
+http://45.11.56.147:8808/stream?id=127
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceFamilyHits.us" tvg-name="Music Choice Family Hits - USA", Music Choice Family Hits - USA
+http://45.11.56.147:8808/stream?id=1110
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceHipHopandRB.us" tvg-name="Music Choice Hip-Hop and R&B - USA", Music Choice Hip-Hop and R&B - USA
+http://45.11.56.147:8808/stream?id=106
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MC Hit List" tvg-name=Music Choice Hit List - USA", Music Choice Hit List - USA
+http://45.11.56.147:8808/stream?id=100
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceHitList.us" tvg-name="Music Choice Holiday Hits - USA", Music Choice Holiday Hits - USA
+http://45.11.56.147:8808/stream?id=168
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoice HolidayYuleLogs.us" tvg-name="Music Choice Holiday Yule Logs - USA", Music Choice Holiday Yule Logs - USA
+http://45.11.56.147:8808/stream?id=1101
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceKidzBop.us" tvg-name="Music Choice KIDZ BOP - USA", Music Choice KIDZ BOP - USA
+http://45.11.56.147:8808/stream?id=1105
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceKidzChristmas.us" tvg-name="Music Choice Kids Christmas - USA", Music Choice Kids Christmas - USA
+http://45.11.56.147:8808/stream?id=1102
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceKidzOnly.us" tvg-name="Music Choice Kids Only! - USA", Music Choice Kids Only! - USA
+http://45.11.56.147:8808/stream?id=130
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceLearnPlay.us" tvg-name="Music Choice Learn & Play - USA", Music Choice Learn & Play - USA
+http://45.11.56.147:8808/stream?id=176
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceMexicana.us" tvg-name="MC Mexicana - USA", MC Mexicana - USA
+http://45.11.56.147:8808/stream?id=131
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceMax.us" tvg-name="Music Choice Music Choice Max - USA", Music Choice Music Choice Max - USA
+http://45.11.56.147:8808/stream?id=1104
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceMusicUrbana.us" tvg-name="Music Choice Musica Urbana - USA", Music Choice Musica Urbana - USA
+http://45.11.56.147:8808/stream?id=128
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoicePopCountry.us" tvg-name="Music Choice Pop & Country - USA", Music Choice Pop & Country - USA
+http://45.11.56.147:8808/stream?id=132
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoicePopHits.us" tvg-name="Music Choice Pop Hits - USA", Music Choice Pop Hits - USA
+http://45.11.56.147:8808/stream?id=133
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoicePopLatino.us" tvg-name="Music Choice Pop Latino - USA", Music Choice Pop Latino - USA
+http://45.11.56.147:8808/stream?id=123
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceRap.us" tvg-name="Music Choice Rap - USA", Music Choice Rap - USA
+http://45.11.56.147:8808/stream?id=125
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceRap2k.us" tvg-name="Music Choice Rap 2K", Music Choice Rap 2K
+http://45.11.56.147:8808/stream?id=141
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceRBSoul.us" tvg-name="Music Choice R&B Soul - USA", Music Choice R&B Soul - USA
+http://45.11.56.147:8808/stream?id=124
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceRock.us" tvg-name="Music Choice Rock - USA", Music Choice Rock - USA
+http://45.11.56.147:8808/stream?id=138
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceSoftRock.us" tvg-name="Music Choice Soft Rock - USA", Music Choice Soft Rock - USA
+http://45.11.56.147:8808/stream?id=1118
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceTeenBeats.us" tvg-name="Music Choice Teen Beats - USA", Music Choice Teen Beats - USA
+http://45.11.56.147:8808/stream?id=118
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceThrowbackJamz.us" tvg-name="Music Choice Throwback Jamz - USA", Music Choice Throwback Jamz - USA
+http://45.11.56.147:8808/stream?id=142
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceTodaysCountry.us" tvg-name="Music Choice Today's Country - USA", Music Choice Today's Country - USA
+http://45.11.56.147:8808/stream?id=121
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceToddlerTunes.us" tvg-name="Music Choice Toddler Tunes - USA", Music Choice Toddler Tunes - USA
+http://45.11.56.147:8808/stream?id=144
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceTropicales.us" tvg-name="Music Choice Tropicales - USA", Music Choice Tropicales - USA
+http://45.11.56.147:8808/stream?id=137
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoiceY2K.us" tvg-name="Music Choice Y2K - USA", Music Choice Y2K - USA
+http://45.11.56.147:8808/stream?id=145
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD19000026B_20230614T010133SQUARE.png_20230614010134.png" group-title="Music" tvg-id="GBBD19000026B" tvg-name="Trace UK",Trace UK
+https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900001SC_20230614T010132SQUARE.png_20230614010132.png" group-title="Music" tvg-id="GBBC900001SC" tvg-name="Trace Urban",Trace Urban
+https://i.mjh.nz/SamsungTVPlus/GBBC900001SC.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300042Y6_20230614T005923SQUARE.png_20230614005923.png" group-title="Music" tvg-id="ESBA3300042Y6" tvg-name="Trace Latina",Trace Latina
+https://i.mjh.nz/SamsungTVPlus/ESBA3300042Y6.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png" group-title="Music" tvg-id="USBB320000647" tvg-name="XITE 80s Flashback",XITE 80s Flashback
+https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png" group-title="Music" tvg-id="USBB3200007AK" tvg-name="XITE 90s Throwback",XITE 90s Throwback
+https://i.mjh.nz/SamsungTVPlus/USBB3200007AK.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20231024T231908SQUARE.png_20231024231909.png" group-title="Music" tvg-id="USBD3300004RH" tvg-name="XITE Hits", XITE Hits
+https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20231024T231914SQUARE.png_20231024231915.png" group-title="Music" tvg-id="USBD3300007PB" tvg-name="XITE Nuevo Latino", XITE Nuevo Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20231024T231922SQUARE.png_20231024231923.png" group-title="Music" tvg-id="USBD3300010L9" tvg-name="XITE Siempre Latino", XITE Siempre Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3300010L9.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20231024T231919SQUARE.png_20231024231920.png" group-title="Music" tvg-id="USBD330000948" tvg-name="XITE R&B Classic Jams", XITE R&B Classic Jams
+https://i.mjh.nz/SamsungTVPlus/USBD330000948.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20231024T231911SQUARE.png_20231024231912.png" group-title="Music" tvg-id="USBD3300005EX" tvg-name="XITE Icons", XITE Icons
+https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20231024T231619SQUARE.png_20231024231619.png" group-title="Music" tvg-id="USBB2300003JZ" tvg-name="XITE Just Chill",XITE Just Chill
+https://i.mjh.nz/SamsungTVPlus/USBB2300003JZ.m3u8
+#EXTINF:-1 tvg-logo="https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png" group-title="Music" tvg-id="m2oTV.it,  tvg-name="m2o - Italy",m2o - Italy
+https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logo_Deejay.svg/1200px-Logo_Deejay.svg.png" group-title="Music" tvg-id="DeejayTVHD.it,  tvg-name="Deejay TV - Italy",Deejay TV - Italy
+https://vdnisha1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/38/Radio_Capital_logo_%282020%29.svg/1200px-Radio_Capital_logo_%282020%29.svg.png" group-title="Music" tvg-id="RadioCapitalTiVu.it",  tvg-name="Radio Capital TiVu - Italy",Radio Capital TiVu - Italy
+https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/800px-Qmusic_logo.svg.png" group-title="Music" tvg-id="QMusic.be" tvg-name="Qmusic - Belgium", Qmusic - Belgium
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Qmusic_logo.svg/800px-Qmusic_logo.svg.png" group-title="Music" tvg-id="Qmusic.nl" tvg-name="Qmusic - Netherlands", Qmusic - Netherlands
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png" group-title="Music" tvg-id="5f984784ccb4de0007dfad74" tvg-name="ClubbingTV.fr", Clubbing TV
 https://r.mjh.nz/PlutoTV/5f984784ccb4de0007dfad74-alt.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qYOHqhSsqJnUw8g2v2MIfugKNIpJQwxfNFlygYMDIdjAMrkdW5FFEuIcNay04EJBPoT3EQSoJg" group-title="Music" tvg-id="TomorrowlandOneWorldRadio.us" tvg-name="Tomorrowland - One World Radio",Tomorrowland - One World Radio
@@ -480,20 +480,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2020/03/SDLX_RADIO_LOGO.png" group-title="Music" tvg-id="SchlagerDeluxe.de" tvg-name="Schlager Deluxe", Schlager Deluxe
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Classics",EMusic Classics
-http://168.205.87.198:8555/live/1858/123456/231.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Black",EMusic Black
-http://168.205.87.198:8555/live/1858/123456/232.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Hits",EMusic Hits
-http://168.205.87.198:8555/live/1858/123456/233.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Latino",EMusic Latino
-http://168.205.87.198:8555/live/1858/123456/234.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Party",EMusic Party
-http://168.205.87.198:8555/live/1858/123456/235.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Pop",EMusic Pop
-http://168.205.87.198:8555/live/1858/123456/236.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BaHxsNpm_400x400.png/220px-BaHxsNpm_400x400.png" group-title="Music" tvg-id="" tvg-name="EMusic Rock",EMusic Rock
-http://168.205.87.198:8555/live/1858/123456/237.ts
 #EXTINF:-1 tvg-logo="https://somoscultura247.com/wp-content/uploads/2022/02/cropped-somosculturanew.png" group-title="Music" tvg-id="SomosCulturaTV.pa" tvg-name="Somos Cultura TV", Somos Cultura TV
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="Music" tvg-id="USBD3500024YB" tvg-name="Qello Concerts by Stingray", Qello Concerts by Stingray
@@ -546,11 +532,11 @@ https://ythlsgo.onrender.com/video/9Bo9-QJqAuI.m3u8
 https://ythlsgo.onrender.com/channel/UC5p9rsjaguRP0p9bckUTdHg.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IJL8nbuAPOrqBSkvNqcHD3pfVPMQWP73IT5MWh7HooUyftZjRI5R5eT67KpgNyBmNIfAQwoQug" group-title="Music" tvg-id="AlexSensation.us" tvg-name="Alex Sensation",Alex Sensation
 https://ythlsgo.onrender.com/channel/UCH74EMTujyjoaY-eIx7oUXQ.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="Music" tvg-id="HTV.us" tvg-name="HTV", HTV
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15969_dark_360w_270h.png" group-title="Music" tvg-id="I380.15969.schedulesdirect.org" tvg-name="HTV", HTV
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69249
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrFfgzC.png" group-title="Music" tvg-id="SinLimites.co" tvg-name="Sin Limites", Sin Limites
 http://190.149.66.90:4000/play/a02j/index.m3u8?null=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWOqr1a.png" group-title="Music" tvg-id="ExaTV.mx" tvg-name="Exa TV", Exa TV
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47403_dark_360w_270h.png" group-title="Music" tvg-id="I274.47403.schedulesdirect.org" tvg-name="Exa TV", Exa TV
 http://190.149.66.90:4000/play/a03c/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2021/08/mi-musica-HITS.png" group-title="Music" tvg-id="" tvg-name="Mimusica Hits",Mimusica Hits
 http://191.97.60.193:10000/play/a032/index.m3u8
