@@ -222,7 +222,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26900
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87311_dark_360w_270h.png" group-title="Business" tvg-id="I241.87311.schedulesdirect.org" tvg-name="El Financiero Bloomberg TV - Mexico", El Financiero Bloomberg TV - Mexico
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26699
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95630_dark_360w_270h.png" group-title="Business" tvg-id="I242.95630.schedulesdirect.org" tvg-name="Bloomberg TV - USA",Bloomberg TV - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/71799/s71799_ll_h15_ab.png" group-title="Business" tvg-id="I353.71799.zap2it.com" tvg-name="Bloomberg TV - USA",Bloomberg TV - USA
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Yahoo%21_Finance_logo_2021.png" group-title="Business" tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance - USA",Yahoo! Finance - USA
 https://yahoo-samsung.amagi.tv/playlist.m3u8
