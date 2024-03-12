@@ -72,7 +72,7 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1910
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1479
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="Entertainment" tvg-id="I365.80120.schedulesdirect.org" tvg-name="HBO Signature - Latin America", HBO Signature - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/52879
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10243/s10243_ll_h15_aa.png" group-title="Entertainment" tvg-id="I503.10243.zap2it.com" tvg-name="HBO Signature - USA", HBO Signature - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59363/s59363_ll_h15_aa.png" group-title="Entertainment" tvg-id="I503.59363.zap2it.com" tvg-name="HBO Signature - USA", HBO Signature - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177509
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="Entertainment" tvg-id="HBOMundi.mx" tvg-name="HBO Mundi - Latin America", HBO Mundi - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53238
@@ -80,7 +80,7 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53238
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177507
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59845/s59845_ll_h15_aa.png" group-title="Entertainment" tvg-id="I509.59845.zap2it.com" tvg-name="HBO Zone - USA", HBO Zone - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177511
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24553_dark_360w_270h.png" group-title="Entertainment" tvg-id="I313.59837.schedulesdirect.org" tvg-name="HBO - Latino - USA",HBO - Latino - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59837/s24553_ll_h9_ab.png" group-title="Entertainment" tvg-id="I511.59837.zap2it.com" tvg-name="HBO - Latino - USA",HBO - Latino - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/7155
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="Entertainment" tvg-id="I685.122767.schedulesdirect.org" tvg-name="Universal Cinema - Latin America", Universal Cinema - Latin America
 http://190.149.66.90:4000/play/a056/index.m3u8
