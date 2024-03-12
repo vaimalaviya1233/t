@@ -39,14 +39,14 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154351
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16499_dark_360w_270h.png" group-title="Entertainment" tvg-id="I527.60801.schedulesdirect.org" tvg-name="Space - Latin America",Space - Latin America
 http://138.59.177.34:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="Entertainment" tvg-id="I528.88534.schedulesdirect.org" tvg-name="Star Channel - Latin America",Star Channel - Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1454
+http://45.166.92.22:58001/play/a048/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90605_dark_360w_270h.png" group-title="Entertainment" tvg-id="I618.90605.schedulesdirect.org" tvg-name="Studio Universal - Latin America",Studio Universal - Latin America
 http://138.59.177.34:8000/play/a02y/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="Entertainment" tvg-id="I644.80807.schedulesdirect.org" tvg-name="TNT - Latin America",TNT - Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26926
+http://181.78.105.146:6060/play/a03i
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Entertainment" tvg-id="I648.106709.schedulesdirect.org" tvg-name="TNT Series - Latin America",TNT Series - Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69586
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="Entertainment" tvg-id="I646.89899.schedulesdirect.org" tvg-name="TNT - USA",TNT - USA
+http://45.166.92.22:58001/play/a01m/index.m3u8
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/42642/s42642_ll_h15_ac.png" group-title="Entertainment" tvg-id="I245.42642.zap2it.com" tvg-name="TNT - USA",TNT - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177498
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="Entertainment" tvg-id="I712.80808.schedulesdirect.org" tvg-name="Warner Channel - Latin America",Warner Channel - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119338
