@@ -1,120 +1,120 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Entertainment" tvg-id="AandE.mx" tvg-name="A&E - Latin America",A&E - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="Entertainment" tvg-id="I6.18955.schedulesdirect.org" tvg-name="A&E - Latin America",A&E - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26925
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/125px-A%26E_Network_logo.svg.png" group-title="Entertainment" tvg-id="AandE.us" tvg-name="A&E - USA",A&E - USA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="Entertainment" tvg-id="I5.87004.schedulesdirect.org" tvg-name="A&E - USA",A&E - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177486
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/150px-AMC_logo_2019.svg.png" group-title="Entertainment" tvg-id="I19.90653.schedulesdirect.org" tvg-name="AMC - Latin America",AMC - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="Entertainment" tvg-id="I19.90653.schedulesdirect.org" tvg-name="AMC - Latin America",AMC - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26931
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" group-title="Entertainment" tvg-id="I78.72534.schedulesdirect.org" tvg-name="AXN - Latin America",AXN - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72534_dark_360w_270h.png" group-title="Entertainment" tvg-id="I78.72534.schedulesdirect.org" tvg-name="AXN - Latin America",AXN - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119331
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/150px-CinecanalLA.png" group-title="Entertainment" tvg-id="I128.70424.schedulesdirect.org" tvg-name="Cinecanal - Latin America",Cinecanal - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="Entertainment" tvg-id="I128.70424.schedulesdirect.org" tvg-name="Cinecanal - Latin America",Cinecanal - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26903
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/175px-Cinemax_%28Yellow%29.svg.png" group-title="Entertainment" tvg-id="I138.101730.schedulesdirect.org" tvg-name="Cinemax - Latin America",Cinemax - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="Entertainment" tvg-id="I138.101730.schedulesdirect.org" tvg-name="Cinemax - Latin America",Cinemax - Latin America
 http://190.90.154.73:8080/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/800px-Cinemax_2016.svg.png" group-title="Entertainment" tvg-id="I523.59965.zap2it.com" tvg-name="Cinemax - Latino - USA",Cinemax - Latino - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59965/s59965_ll_h15_ab.png" group-title="Entertainment" tvg-id="I523.59965.zap2it.com" tvg-name="Cinemax - Latino - USA",Cinemax - Latino - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/7153
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/1280px-MoreMax_Logo.svg.png" group-title="Entertainment" tvg-id="I517.10121.zap2it.com" tvg-name="MoreMax - East - USA",MoreMax East - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10121/s10121_ll_h15_ad.png" group-title="Entertainment" tvg-id="I517.10121.zap2it.com" tvg-name="MoreMax - East - USA",MoreMax East - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/673
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/125px-FX_International_logo.svg.png" group-title="Entertainment" tvg-id="I321.82819.schedulesdirect.org" tvg-name="FX - Latin America",FX - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="Entertainment" tvg-id="I321.82819.schedulesdirect.org" tvg-name="FX - Latin America",FX - Latin America
 http://138.59.177.34:8000/play/a035/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="Entertainment" tvg-id="I333.16298.schedulesdirect.org" tvg-name="Golden - Latin America",Golden - Latin America
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61079
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="Entertainment" tvg-id="GoldenPlus.mx" tvg-name="Golden Plus - Latin America",Golden Plus - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="Entertainment" tvg-id="I337.68317.schedulesdirect.org" tvg-name="Golden Plus - Latin America",Golden Plus - Latin America
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="Entertainment" tvg-id="GoldenPremier.mx" tvg-name="Golden Premier - Latin America",Golden Premier - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Entertainment" tvg-id="I339.80804.schedulesdirect.org" tvg-name="Golden Premier - Latin America",Golden Premier - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1474
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Golden_Premier_2_2020.png/revision/latest?cb=20201201141739&path-prefix=es" group-title="Entertainment" tvg-id="GoldenPremier2.mx" tvg-name="Golden Premier 2 - Latin America",Golden Premier 2 - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Entertainment" tvg-id="I338.80805.schedulesdirect.org" tvg-name="Golden Premier 2 - Latin America",Golden Premier 2 - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69893
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.pngg" group-title="Entertainment" tvg-id="I334.16423.schedulesdirect.org" tvg-name="Golden Edge - Latin America",Golden Edge - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1478
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/125px-Paramount_Network.svg.png" group-title="Entertainment" tvg-id="PARAMOUNT HD" tvg-name="Paramount Network - Latin America",Paramount Network - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106214_dark_360w_270h.png" group-title="Entertainment" tvg-id="I483.106214.schedulesdirect.org" tvg-name="Paramount Network - Latin America",Paramount Network - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1486
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/125px-Paramount_Network.svg.png" group-title="Entertainment" tvg-id="ParamountNetwork.us" tvg-name="Paramount Network - USA",Paramount Network - USA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="Entertainment" tvg-id="I484.91029.schedulesdirect.org" tvg-name="Paramount Network - USA",Paramount Network - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177491
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/120px-Sony_Channel_Logo.png" group-title="Entertainment" tvg-id="SONY HD" tvg-name="Sony Channel - Latin America",Sony Channel - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="Entertainment" tvg-id="I112.88517.schedulesdirect.org" tvg-name="Sony Channel - Latin America",Sony Channel - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1922
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/120px-Sony_Movies_Logo.svg.png" group-title="Entertainment" tvg-id="SonyMoviesLatinAmerica.us" tvg-name="Sony Movies - Latin America",Sony Movies - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="Entertainment" tvg-id="I111.19385.schedulesdirect.org" tvg-name="Sony Movies - Latin America",Sony Movies - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/154351
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" group-title="Entertainment" tvg-id="Space.co" tvg-name="Space - Latin America",Space - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16499_dark_360w_270h.png" group-title="Entertainment" tvg-id="I527.60801.schedulesdirect.org" tvg-name="Space - Latin America",Space - Latin America
 http://138.59.177.34:8000/play/a06x/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/135px-Star_Channel_2020.svg.png" group-title="Entertainment" tvg-id="STAR CHANNEL" tvg-name="Star Channel - Latin America",Star Channel - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="Entertainment" tvg-id="I528.88534.schedulesdirect.org" tvg-name="Star Channel - Latin America",Star Channel - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1454
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/175px-StudioUniversal2016.png" group-title="Entertainment" tvg-id="StudioUniversal.mx" tvg-name="Studio Universal - Latin America",Studio Universal - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90605_dark_360w_270h.png" group-title="Entertainment" tvg-id="I618.90605.schedulesdirect.org" tvg-name="Studio Universal - Latin America",Studio Universal - Latin America
 http://138.59.177.34:8000/play/a02y/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Entertainment" tvg-id="TNT.mx" tvg-name="TNT - Latin America",TNT - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="Entertainment" tvg-id="I644.80807.schedulesdirect.org" tvg-name="TNT - Latin America",TNT - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26926
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/TNT_Series_Logo_2016.png/94px-TNT_Series_Logo_2016.png" group-title="Entertainment" tvg-id="TNT Series.co" tvg-name="TNT Series - Latin America",TNT Series - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Entertainment" tvg-id="I648.106709.schedulesdirect.org" tvg-name="TNT Series - Latin America",TNT Series - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69586
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" group-title="Entertainment" tvg-id="TNT.us" tvg-name="TNT - USA",TNT - USA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="Entertainment" tvg-id="I646.89899.schedulesdirect.org" tvg-name="TNT - USA",TNT - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177498
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" group-title="Entertainment" tvg-id="WarnerChannel.mx" tvg-name="Warner Channel - Latin America",Warner Channel - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="Entertainment" tvg-id="I712.80808.schedulesdirect.org" tvg-name="Warner Channel - Latin America",Warner Channel - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/119338
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Entertainment" tvg-id="HBO.mx" tvg-name="HBO - Latin America", HBO - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="Entertainment" tvg-id="I346.16795.schedulesdirect.org" tvg-name="HBO - Latin America", HBO - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/141189
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Entertainment" tvg-id="HBOEast.us" tvg-name="HBO - East - USA", HBO - East - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19548/s19548_ll_h15_aa.png" group-title="Entertainment" tvg-id="I501.19548.zap2it.com" tvg-name="HBO - East - USA", HBO - East - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177508
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Entertainment" tvg-id="HBOWest.us" tvg-name="HBO - West - USA", HBO - West - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19566/s19548_ll_h15_aa.png" group-title="Entertainment" tvg-id="I504.19566.zap2it.com" tvg-name="HBO - West - USA", HBO - West - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177510
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Entertainment" tvg-id="HBO2.mx" tvg-name="HBO 2 - Latin America", HBO 2 - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entertainment" tvg-id="I348.80652.schedulesdirect.org" tvg-name="HBO 2 - Latin America", HBO 2 - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1030
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/512px-HBO2_logo.svg.png" group-title="Entertainment" tvg-id="HBO2West.us" tvg-name="HBO 2 - West - USA", HBO 2 - West - USA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entertainment" tvg-id="I632.68140.schedulesdirect.org" tvg-name="HBO 2 - West - USA", HBO 2 - West - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177506
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Entertainment" tvg-id="HBO PLUS" tvg-name="HBO+ - Latin America", HBO+ - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1434
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Entertainment" tvg-id="HBO FAMILY HD" tvg-name="HBO Family - Latin America", HBO Family - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="Entertainment" tvg-id="I350.34879.schedulesdirect.org" tvg-name="HBO Family - Latin America", HBO Family - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1033
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/512px-HBO_Family.svg.png" group-title="Entertainment" tvg-id="HBOFamily.us" tvg-name="HBO Family - USA", HBO Family - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16585/s16585_ll_h15_aa.png" group-title="Entertainment" tvg-id="I507.16585.zap2it.com" tvg-name="HBO Family - USA", HBO Family - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177489
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/512px-HBO_Xtreme.svg.png" group-title="Entertainment" tvg-id="HBO XTREME.co" tvg-name="HBO Xtreme - Latin America", HBO Xtreme - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Entertainment" tvg-id="I367.80115.schedulesdirect.org" tvg-name="HBO Xtreme - Latin America", HBO Xtreme - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1910
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/512px-HBO_Pop.svg.png" group-title="Entertainment" tvg-id="HBOPop.mx" tvg-name="HBO Pop - Latin America", HBO Pop - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="Entertainment" tvg-id="I362.68301.schedulesdirect.org" tvg-name="HBO Pop - Latin America", HBO Pop - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1479
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Entertainment" tvg-id="HBOSignature.mx" tvg-name="HBO Signature - Latin America", HBO Signature - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="Entertainment" tvg-id="I365.80120.schedulesdirect.org" tvg-name="HBO Signature - Latin America", HBO Signature - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/52879
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/512px-HBO_Signature.svg.png" group-title="Entertainment" tvg-id="HBOSignature.us" tvg-name="HBO Signature - USA", HBO Signature - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10243/s10243_ll_h15_aa.png" group-title="Entertainment" tvg-id="I503.10243.zap2it.com" tvg-name="HBO Signature - USA", HBO Signature - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177509
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="Entertainment" tvg-id="HBOMundi.mx" tvg-name="HBO Mundi - Latin America", HBO Mundi - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/53238
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/HBO_Comedy_%282014%29.svg/1000px-HBO_Comedy_%282014%29.svg.png" group-title="Entertainment" tvg-id="HBOComedyWest.us" tvg-name="HBO Comedy - West - USA", HBO Comedy - West - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59839/s59839_ll_h15_aa.png" group-title="Entertainment" tvg-id="I506.59839.zap2it.com" tvg-name="HBO Comedy - West - USA", HBO Comedy - West - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177507
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/1200px-HBO_Zone_%282014%29.svg.png" group-title="Entertainment" tvg-id="HBOZoneWest.us" tvg-name="HBO Zone - West - USA", HBO Zone - West - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59845/s59845_ll_h15_aa.png" group-title="Entertainment" tvg-id="I509.59845.zap2it.com" tvg-name="HBO Zone - USA", HBO Zone - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177511
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/HBO_Latino_Logo.svg/1280px-HBO_Latino_Logo.svg.png" group-title="Entertainment" tvg-id="I313.59837.schedulesdirect.org" tvg-name="HBO - Latino - USA",HBO - Latino - USA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24553_dark_360w_270h.png" group-title="Entertainment" tvg-id="I313.59837.schedulesdirect.org" tvg-name="HBO - Latino - USA",HBO - Latino - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/7155
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XxfET68.png" group-title="Entertainment" tvg-id="UniversalCinema.us" tvg-name="Universal Cinema - Latin America", Universal Cinema - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="Entertainment" tvg-id="I685.122767.schedulesdirect.org" tvg-name="Universal Cinema - Latin America", Universal Cinema - Latin America
 http://190.149.66.90:4000/play/a056/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="Entertainment" tvg-id="UniversalComedy.mx" tvg-name="Universal Comedy - Latin America", Universal Comedy - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="Entertainment" tvg-id="I686.122769.schedulesdirect.org" tvg-name="Universal Comedy - Latin America", Universal Comedy - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/153306
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OwSlGMu.png" group-title="Entertainment" tvg-id="UniversalCrimeEast.mx" tvg-name="Universal Crime - Latin America", Universal Crime - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png" group-title="Entertainment" tvg-id="I687.122765.schedulesdirect.org" tvg-name="Universal Crime - Latin America", Universal Crime - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144836
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mqfUD1R.png" group-title="Entertainment" tvg-id="UniversalReality.mx" tvg-name="Universal Reality - Latin America", Universal Reality - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png" group-title="Entertainment" tvg-id="I689.122763.schedulesdirect.org" tvg-name="Universal Reality - Latin America", Universal Reality - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/65437
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Entertainment" tvg-id="UniversalPremiereEast.mx" tvg-name="Universal Premiere East - Latin America",Universal Premiere - East - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="Entertainment" tvg-id="I688.122761.schedulesdirect.org" tvg-name="Universal Premiere East - Latin America",Universal Premiere - East - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26737
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KdFk80C.png" group-title="Entertainment" tvg-id="UniversalPremiereWest.mx" tvg-name="Universal Premiere West - Latin America",Universal Premiere - West - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="Entertainment" tvg-id="I688.122761.schedulesdirect.org" tvg-name="Universal Premiere West - Latin America",Universal Premiere - West - Latin America
 http://138.59.177.34:8000/play/a05t/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/1200px-Starz_2016.svg.png" group-title="Entertainment" tvg-id="StarzEast.us" tvg-name="Starz - East - USA",Starz - East - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34941/s34941_ll_h15_ac.png" group-title="Entertainment" tvg-id="I525.34941.zap2it.com" tvg-name="Starz - East - USA",Starz - East - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/2112
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Starz_Cinema_2016.svg/1200px-Starz_Cinema_2016.svg.png" group-title="Entertainment" tvg-id="StarzCinemaEast.us" tvg-name="Starz Cinema - East - USA",Starz Cinema - East - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67236/s67236_ll_h15_ac.png" group-title="Entertainment" tvg-id="I531.67236.zap2it.com" tvg-name="Starz Cinema - East - USA",Starz Cinema - East - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63647
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Starz_Cinema_2016.svg/1200px-Starz_Cinema_2016.svg.png" group-title="Entertainment" tvg-id="StarzCinemaWest.us" tvg-name="Starz Cinema - West - USA",Starz Cinema - West - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63649
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Starz_Comedy_2016.svg/1200px-Starz_Comedy_2016.svg.png" group-title="Entertainment" tvg-id="StarzComedyEast.us" tvg-name="Starz Comedy - East - USA",Starz Comedy - East - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57569/s57569_ll_h15_ac.png" group-title="Entertainment" tvg-id="I528.57569.zap2it.com" tvg-name="Starz Comedy - USA",Starz Comedy - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63648
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Starz_Edge_2016.svg/1280px-Starz_Edge_2016.svg.png" group-title="Entertainment" tvg-id="StarzEdgeWest.us" tvg-name="Starz Edge - West - USA",Starz Edge - West - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57573/s57573_ll_h15_ab.png" group-title="Entertainment" tvg-id="I529.57573.zap2it.com" tvg-name="Starz Edge - USA",Starz Edge - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177517
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png" group-title="Entertainment" tvg-id="StarzEncoreActionEast.us" tvg-name="Starz Encore Action - East - USA",Starz Encore Action - East - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14871/s14871_ll_h15_ab.png" group-title="Entertainment" tvg-id="I541.14871.zap2it.com" tvg-name="Starz Encore Action - East - USA",Starz Encore Action - East - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63643
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Starz_Encore_Family.svg/2560px-Starz_Encore_Family.svg.png" group-title="Entertainment" tvg-id="StarzEncoreFamilyEast.us" tvg-name="Starz Encore Family - East - USA",Starz Encore Family - East - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/102903/s102903_ll_h15_aa.png" group-title="Entertainment" tvg-id="I542.102903.zap2it.com" tvg-name="Starz Encore Family - East - USA",Starz Encore Family - East - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63640
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Starz_Encore_Espa%C3%B1ol.svg/1280px-Starz_Encore_Espa%C3%B1ol.svg.png" group-title="Entertainment" tvg-id="StarzEncoreSpanishEast.us" tvg-name="Starz Encore Spanish - East - USA",Starz Encore Spanish - East - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/36225/s36225_ll_h15_ac.png" group-title="Entertainment" tvg-id="I535.36225.zap2it.com" tvg-name="Starz Encore - East - USA",Starz Encore - East - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/7154
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Starz_Encore_Suspense.svg/2560px-Starz_Encore_Suspense.svg.png" group-title="Entertainment" tvg-id="StarzEncoreSuspenseEast.us" tvg-name="Starz Encore Suspense - East - USA",Starz Encore Suspense - East - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14766/s14766_ll_h15_ab.png" group-title="Entertainment" tvg-id="I539.14766.zap2it.com" tvg-name="Starz Encore Suspense - East - USA",Starz Encore Suspense - East - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177520
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Starz_Encore_Westerns.svg/1200px-Starz_Encore_Westerns.svg.png" group-title="Entertainment" tvg-id="StarzEncoreWesternsEast.us" tvg-name="Starz Encore Westerns - East - USA",Starz Encore Westerns - East - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/102906/s102906_ll_h15_ab.png" group-title="Entertainment" tvg-id="I538.102906.zap2it.com" tvg-name="Starz Encore Westerns - East - USA",Starz Encore Westerns - East - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/2103
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Starz_Kids_%26_Family_2016.svg/2560px-Starz_Kids_%26_Family_2016.svg.png" group-title="Entertainment" tvg-id="StarzKidsFamilyEast.us" tvg-name="Starz Kids & Family - East - USA",Starz Kids & Family - East - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57581/s57581_ll_h15_ab.png" group-title="Entertainment" tvg-id="I527.57581.zap2it.com" tvg-name="Starz Kids & Family - East - Latino - USA",Starz Kids & Family - East - Latino - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177523
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="Entertainment" tvg-id="MXFamily.cl" tvg-name="MX Family",MX Family - Latin America
 http://138.219.58.234:8112/play/120?null=0
@@ -122,43 +122,43 @@ http://138.219.58.234:8112/play/120?null=0
 http://138.219.58.234:8112/play/121?null=0
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Entertainment" tvg-id="MXPrime.cl" tvg-name="MX Prime",MX Prime - Latin America
 http://138.219.58.234:8112/play/122?null=0
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Discovery_en_Espa%C3%B1ol_2015.svg/revision/latest?cb=20210816101422" group-title="Entertainment" tvg-id="DiscoveryenEspanol.us" tvg-name="Discovery en Español - USA",Discovery en Español - USA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Entertainment" tvg-id="I180.25788.schedulesdirect.org" tvg-name="Discovery en Español - USA",Discovery en Español - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61031
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/2560px-Discovery_Familia_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryFamilia.us" tvg-name="Discovery Familia - USA",Discovery Familia - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58428/s99630_ll_h15_aa.png" group-title="Entertainment" tvg-id="I436.58428.zap2it.com" tvg-name="Discovery Familia - USA",Discovery Familia - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61064
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/NBC_Universo_logo.svg" group-title="Entertainment" tvg-id="NBCUniversoEast.us" tvg-name="NBC Universo - East - USA",NBC Universo - East - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91588/s91588_ll_h15_ab.png" group-title="Entertainment" tvg-id="I410.91588.zap2it.com" tvg-name="NBC Universo - East - USA",NBC Universo - East - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61036
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/WNJU_Telemundo_47_logo.png" group-title="Entertainment" tvg-id="WNJUDT1.us" tvg-name="Telemundo New York USA",Telemundo - New York - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54437/s73245_ll_h15_ac.png" group-title="Entertainment" tvg-id="I47.1.54437.zap2it.com" tvg-name="Telemundo New York USA",Telemundo - New York - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61225
-#EXTINF:-1 tvg-logo="https://static.univision.com/fragments/noticias/home-locales-tudn-v2/images/radio-stations/new-york/univision-41-ny.png" group-title="Entertainment" tvg-id="WXTVDT1.us" tvg-name="Univision - New York - USA",Univision - New York - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11118/s11118_ll_h15_ab.png" group-title="Entertainment" tvg-id="I270.11118.zap2it.com" tvg-name="Univision - New York - USA",Univision - New York - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/122269
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png" group-title="Entertainment" tvg-id="WSBSDT1.us" tvg-name="Mega WSBS - USA",Mega WSBS - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58698/s58698_ll_h9_aa.png" group-title="Entertainment" tvg-id="I405.58698.zap2it.com" tvg-name="Mega TV - Puerto Rico",Mega TV - Puerto Rico
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/95732
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/2560px-WAPA-TV_logo.svg.png" group-title="Entertainment" tvg-id="WAPADT1.pr" tvg-name="WAPA - Puerto Rico",WAPA - Puerto Rico
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/44322/s63389_ll_h15_ac.png" group-title="Entertainment" tvg-id="I414.44322.zap2it.com" tvg-name="WAPA - Puerto Rico",WAPA - Puerto Rico
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1043
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel - Latin America",Discovery Channel - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Entertainment" tvg-id="I178.96307.schedulesdirect.org" tvg-name="Discovery Channel - Latin America",Discovery Channel - Latin America
 http://190.149.66.90:4000/play/a051/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science - Latin America",Discovery Science - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="Entertainment" tvg-id="I190.46610.schedulesdirect.org" tvg-name="Discovery Science - Latin America",Discovery Science - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177630
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryTurboPanregional.us" tvg-name="Discovery Turbo - Latin America",Discovery Turbo - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="Entertainment" tvg-id="I193.46608.schedulesdirect.org" tvg-name="Discovery Turbo - Latin America",Discovery Turbo - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1404
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryWorldLatinAmerica.us" tvg-name="Discovery World - Latin America",Discovery World - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="Entertainment" tvg-id="I194.66488.schedulesdirect.org" tvg-name="Discovery World - Latin America",Discovery World - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26896
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryTheaterLatinAmerica.us" tvg-name="Discovery Theater - Latin America",Discovery Theater - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="Entertainment" tvg-id="I191.65940.schedulesdirect.org" tvg-name="Discovery Theater - Latin America",Discovery Theater - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26895
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Entertainment" tvg-id="InvestigationDiscoveryPanregional.us" tvg-name="Investigation Discovery - Latin America",Investigation Discovery - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25743_dark_360w_270h.png" group-title="Entertainment" tvg-id="I382.25793.schedulesdirect.org" tvg-name="Investigation Discovery - Latin America",Investigation Discovery - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63679
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Entertainment" tvg-id="DiscoveryHomeHealthPanregional.us" tvg-name="Discovery Home & Health - Latin America",Discovery Home & Health - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="Entertainment" tvg-id="I182.97928.schedulesdirect.org" tvg-name="Discovery Home & Health - Latin America",Discovery Home & Health - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1402
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Entertainment" tvg-id="TLCLatinAmerica.us" tvg-name="TLC - Latin America",TLC - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="Entertainment" tvg-id="I642.74420.schedulesdirect.org" tvg-name="TLC - Latin America",TLC - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26890
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="Entertainment" tvg-id="History.mx" tvg-name="History - Latin America",History - Latin America
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/43362/s105678_ll_h15_ab.png" group-title="Entertainment" tvg-id="I443.43362.zap2it.com" tvg-name="History - Latin America",History - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1406
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="Entertainment" tvg-id="History2.mx" tvg-name="History 2 - Latin America",History 2 - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="Entertainment" tvg-id="I375.80374.schedulesdirect.org" tvg-name="History 2 - Latin America",History 2 - Latin America
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/119954
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="Entertainment" tvg-id="NationalGeographic.mx" tvg-name="National Geographic - Latin America",National Geographic - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="Entertainment" tvg-id="I454.88533.schedulesdirect.org" tvg-name="National Geographic - Latin America",National Geographic - Latin America
 http://190.149.66.90:4000/play/a04y/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="Entertainment" tvg-id="AnimalPlanetLatinAmericaHD.us" tvg-name="Animal Planet - Latin America",Animal Planet - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="Entertainment" tvg-id="I22.96445.schedulesdirect.org" tvg-name="Animal Planet - Latin America",Animal Planet - Latin America
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61114
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="The Simpsons S01-S20 - Latin America",The Simpsons S01-S20 - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37767
