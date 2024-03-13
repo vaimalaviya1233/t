@@ -730,7 +730,7 @@ https://stream.revma.ihrhls.com/zc8830
 https://stream.revma.ihrhls.com/zc4722
 #EXTINF:-1 radio="true" tvg-id="Pop Top 20" tvg-name="Pop Top 20" tvg-logo="https://i.iheart.com/v3/re/assets.streams/641e2f9002602ae7dcd0e9ad" group-title="Radio",iHeart Pop Top 20
 https://stream.revma.ihrhls.com/zc4878
-#EXTINF:-1 radio="true" tvg-id="LoFi - Relax" tvg-name="LoFi - Relax" tvg-logo="https://i.iheart.com/v3/re/new_assets/6042aa40b7174759c15a7e61g" group-title="Radio",iHeart LoFi - Relax
+#EXTINF:-1 radio="true" tvg-id="LoFi - Relax" tvg-name="LoFi - Relax" tvg-logo="https://i.iheart.com/v3/re/new_assets/6042aa40b7174759c15a7e61" group-title="Radio",iHeart LoFi - Relax
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR41_S01AAC.m3u8
 #EXTINF:-1 radio="true" tvg-id="Relaxing Sounds" tvg-name="Relaxing Sounds" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d2780356ea1fbc86771f071" group-title="Radio",iHeart Relaxing Sounds
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR43_S01AAC.m3u8
