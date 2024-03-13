@@ -589,6 +589,8 @@ https://streamcdnb6-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o
 #EXTINF:-1 radio="true" tvg-id="Tomorrowland - One World Radio" tvg-name="Tomorrowland - One World Radio" tvg-logo="https://cdn-profiles.tunein.com/s307749/images/logog.png" group-title="Radio",Tomorrowland - One World Radio
 http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac
 #EXTINF:-1 radio="true" tvg-id="Tomorrowland - One World Radio - Daybreak Sessions" tvg-name="Tomorrowland - One World Radio - Daybreak Sessions" tvg-logo="https://cdn-profiles.tunein.com/s308839/images/logog.png" group-title="Radio",Tomorrowland - One World Radio - Daybreak Sessions
+https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DAYBREAKAAC.aac
+#EXTINF:-1 radio="true" tvg-id="Tomorrowland - One World Radio - Anthems" tvg-name="Tomorrowland - One World Radio - Anthems" tvg-logo="https://cdn-profiles.tunein.com/s309698/images/logog.png" group-title="Radio",Tomorrowland - One World Radio - Anthems
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_DABAAC.aac
 #EXTINF:-1 radio="true" tvg-id="Defected Radio" tvg-name="Defected Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Defected_Logo.jpg/1200px-Defected_Logo.jpg" group-title="Radio",Defected Radio
 https://solid41.streamupsolutions.com//proxy//tbkhkrlu//stream
