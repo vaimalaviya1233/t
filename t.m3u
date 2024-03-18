@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz
 
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="Entertainment" tvg-id="I5.87004.schedulesdirect.org" tvg-name="A&E - Latin America",A&E - Latin America
-http://138.59.177.34:8000/play/a032/index.m3u8
+http://38.56.109.19/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/51529/s51529_ll_h15_ab.png" group-title="Entertainment" tvg-id="I265.51529.zap2it.com" tvg-name="A&E - USA",A&E - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177486
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="Entertainment" tvg-id="I19.90653.schedulesdirect.org" tvg-name="AMC - Latin America",AMC - Latin America
-http://138.59.177.34:8000/play/a033/index.m3u8
+http://38.56.109.19/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59337/s59337_ll_h15_ab.png" group-title="Entertainment" tvg-id="I254.59337.zap2it.com" tvg-name="AMC - USA",AMC - USA
 http://170.254.18.106/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72534_dark_360w_270h.png" group-title="Entertainment" tvg-id="I78.72534.schedulesdirect.org" tvg-name="AXN - Latin America",AXN - Latin America
@@ -31,29 +31,29 @@ http://138.59.177.34:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="Entertainment" tvg-id="I334.16423.schedulesdirect.org" tvg-name="Golden Edge - Latin America",Golden Edge - Latin America
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="Entertainment" tvg-id="I918.106215.schedulesdirect.org" tvg-name="Paramount Network - Latin America",Paramount Network - Latin America
-http://138.59.177.34:8000/play/a075/index.m3u8
+http://38.56.109.19/play/a011/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11163/s11163_ll_h15_ac.png" group-title="Entertainment" tvg-id="I241.11163.zap2it.com" tvg-name="Paramount Network - USA",Paramount Network - USA
 http://170.254.18.106/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png" group-title="Entertainment" tvg-id="I110.70312.schedulesdirect.org" tvg-name="Sony Channel - Latin America",Sony Channel - Latin America
-http://138.59.177.34:8000/play/a05e/index.m3u8
+http://38.56.109.19/play/a014/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69091_dark_360w_270h.png" group-title="Entertainment" tvg-id="I386.69091.schedulesdirect.org" tvg-name="Sony Movies - Latin America",Sony Movies - Latin America
-http://138.59.177.34:8000/play/a037/index.m3u8
+http://38.56.109.19/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16499_dark_360w_270h.png" group-title="Entertainment" tvg-id="I527.60801.schedulesdirect.org" tvg-name="Space - Latin America",Space - Latin America
-http://138.59.177.34:8000/play/a06x/index.m3u8
+http://38.56.109.19/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="Entertainment" tvg-id="I528.88534.schedulesdirect.org" tvg-name="Star Channel - Latin America",Star Channel - Latin America
 http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90605_dark_360w_270h.png" group-title="Entertainment" tvg-id="I618.90605.schedulesdirect.org" tvg-name="Studio Universal - Latin America",Studio Universal - Latin America
 http://170.254.18.106/STUDIO_UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="Entertainment" tvg-id="I644.80807.schedulesdirect.org" tvg-name="TNT - Latin America",TNT - Latin America
-http://138.59.177.34:8000/play/a05l/index.m3u8
+http://38.56.109.19/play/a00i/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Entertainment" tvg-id="I648.106709.schedulesdirect.org" tvg-name="TNT Series - Latin America",TNT Series - Latin America
-http://138.59.177.34:8000/play/a076/index.m3u8
+http://38.56.109.19/play/a01g/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/42642/s42642_ll_h15_ac.png" group-title="Entertainment" tvg-id="I245.42642.zap2it.com" tvg-name="TNT - USA",TNT - USA
 http://170.254.18.106/TNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53218_dark_360w_270h.png" group-title="Entertainment" tvg-id="I690.77534.schedulesdirect.org" tvg-name="Universal Channel - Latin America",Universal Channel - Latin America
-http://00322.xyz:8000/coachprato/40437757/39
+http://38.56.109.19/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png" group-title="Entertainment" tvg-id="I712.80808.schedulesdirect.org" tvg-name="Warner Channel - Latin America",Warner Channel - Latin America
-http://138.59.177.34:8000/play/a05d/index.m3u8
+http://38.56.109.19/play/a016/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="Entertainment" tvg-id="I346.16795.schedulesdirect.org" tvg-name="HBO - Latin America", HBO - Latin America
 http://138.59.177.34:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19548/s19548_ll_h15_aa.png" group-title="Entertainment" tvg-id="I501.19548.zap2it.com" tvg-name="HBO - East - USA", HBO - East - USA
