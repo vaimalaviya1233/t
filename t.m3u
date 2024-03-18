@@ -4,7 +4,7 @@
 http://38.56.109.19/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/51529/s51529_ll_h15_ab.png" group-title="Entertainment" tvg-id="I265.51529.zap2it.com" tvg-name="A&E - USA",A&E - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177486
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="Entertainment" tvg-id="I19.90653.schedulesdirect.org" tvg-name="AMC - Latin America",AMC - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="Entertainment" tvg-id="I18.90852.schedulesdirect.org" tvg-name="AMC - Latin America",AMC - Latin America
 http://38.56.109.19/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59337/s59337_ll_h15_ab.png" group-title="Entertainment" tvg-id="I254.59337.zap2it.com" tvg-name="AMC - USA",AMC - USA
 http://170.254.18.106/AMC/index.m3u8
