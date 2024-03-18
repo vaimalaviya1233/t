@@ -34,7 +34,7 @@ https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 http://190.11.130.46/mnp/paramount/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11163/s11163_ll_h15_ac.png" group-title="Entertainment" tvg-id="I241.11163.zap2it.com" tvg-name="Paramount Network - USA",Paramount Network - USA
 http://170.254.18.106/PARAMOUNT/index.m3u8
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png" group-title="Entertainment" tvg-id="I110.70312.schedulesdirect.org" tvg-name="Sony Channel - Latin America",Sony Channel - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png" group-title="Entertainment" tvg-id="I111.19385.schedulesdirect.org" tvg-name="Sony Channel - Latin America",Sony Channel - Latin America
 http://38.56.109.19/play/a014/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69091_dark_360w_270h.png" group-title="Entertainment" tvg-id="I386.69091.schedulesdirect.org" tvg-name="Sony Movies - Latin America",Sony Movies - Latin America
 http://38.56.109.19/play/a00q/index.m3u8
