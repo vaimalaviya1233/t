@@ -31,7 +31,7 @@ http://138.59.177.34:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="Entertainment" tvg-id="I334.16423.schedulesdirect.org" tvg-name="Golden Edge - Latin America",Golden Edge - Latin America
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="Entertainment" tvg-id="I918.106215.schedulesdirect.org" tvg-name="Paramount Network - Latin America",Paramount Network - Latin America
-http://38.56.109.19/play/a011/index.m3u8
+http://190.11.130.46/mnp/paramount/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11163/s11163_ll_h15_ac.png" group-title="Entertainment" tvg-id="I241.11163.zap2it.com" tvg-name="Paramount Network - USA",Paramount Network - USA
 http://170.254.18.106/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png" group-title="Entertainment" tvg-id="I110.70312.schedulesdirect.org" tvg-name="Sony Channel - Latin America",Sony Channel - Latin America
@@ -163,7 +163,7 @@ http://170.254.18.106/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="Entertainment" tvg-id="I454.88533.schedulesdirect.org" tvg-name="National Geographic - Latin America",National Geographic - Latin America
 http://170.254.18.106/NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="Entertainment" tvg-id="I22.96445.schedulesdirect.org" tvg-name="Animal Planet - Latin America",Animal Planet - Latin America
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61114
+http://38.56.109.19/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="The Simpsons S01-S20 - Latin America",The Simpsons S01-S20 - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37767
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="The Simpsons S20-S30 - Latin America",The Simpsons S20-S30 - Latin America
