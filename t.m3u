@@ -127,19 +127,19 @@ http://138.219.58.234:8112/play/121?null=0
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Entertainment" tvg-id="MXPrime.cl" tvg-name="MX Prime",MX Prime - Latin America
 http://138.219.58.234:8112/play/122?null=0
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Entertainment" tvg-id="I180.25788.schedulesdirect.org" tvg-name="Discovery en Español - USA",Discovery en Español - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61031
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/85
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58428/s99630_ll_h15_aa.png" group-title="Entertainment" tvg-id="I436.58428.zap2it.com" tvg-name="Discovery Familia - USA",Discovery Familia - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61064
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/90
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91588/s91588_ll_h15_ab.png" group-title="Entertainment" tvg-id="I410.91588.zap2it.com" tvg-name="NBC Universo - East - USA",NBC Universo - East - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61036
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/349
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54437/s73245_ll_h15_ac.png" group-title="Entertainment" tvg-id="I47.1.54437.zap2it.com" tvg-name="Telemundo New York USA",Telemundo - New York - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61225
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/308
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11118/s11118_ll_h15_ab.png" group-title="Entertainment" tvg-id="I270.11118.zap2it.com" tvg-name="Univision - New York - USA",Univision - New York - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/122269
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/350
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58698/s58698_ll_h9_aa.png" group-title="Entertainment" tvg-id="I405.58698.zap2it.com" tvg-name="Mega TV - Puerto Rico",Mega TV - Puerto Rico
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/44322/s63389_ll_h15_ac.png" group-title="Entertainment" tvg-id="I414.44322.zap2it.com" tvg-name="WAPA - Puerto Rico",WAPA - Puerto Rico
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1043
+http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/365
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Entertainment" tvg-id="I178.96307.schedulesdirect.org" tvg-name="Discovery Channel - Latin America",Discovery Channel - Latin America
 http://170.254.18.106/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="Entertainment" tvg-id="I190.46610.schedulesdirect.org" tvg-name="Discovery Science - Latin America",Discovery Science - Latin America
