@@ -31,7 +31,7 @@ http://190.11.130.46/mnp/axn/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_dark_360w_270h.png" group-title="Entertainment" tvg-id="I128.70424.schedulesdirect.org" tvg-name="Cinecanal - Latin America",Cinecanal - Latin America
 http://190.11.130.46/mnp/cinecanal/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png" group-title="Entertainment" tvg-id="I138.101730.schedulesdirect.org" tvg-name="Cinemax - Latin America",Cinemax - Latin America
-http://190.11.130.46/mnp/cinemax/output.mpd
+http://170.254.18.106/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100848_dark_360w_270h.png" group-title="Entertainment" tvg-id="I165.74906.schedulesdirect.org" tvg-name="Comedy Central - Latin America",Comedy Central - Latin America
 http://190.11.130.46/mnp/comedy/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59965/s59965_ll_h15_ab.png" group-title="Entertainment" tvg-id="I523.59965.zap2it.com" tvg-name="Cinemax - Latino - USA",Cinemax - Latino - USA
