@@ -3,11 +3,17 @@
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Sports" tvg-id="I253.110964.schedulesdirect.org" tvg-name="ESPN - Latin America",ESPN - Latin America
 http://190.11.130.46/mnp/espn/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Sports" tvg-id="I257.96876.schedulesdirect.org" tvg-name="ESPN 2 - Latin America",ESPN 2 - Latin America
-http://190.11.130.46/mnp/espn2/output.mpd
+http://38.41.8.1:8000/play/a00c
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Sports" tvg-id="I264.79049.schedulesdirect.org" tvg-name="ESPN 3 - Latin America",ESPN 3 - Latin America
 http://190.11.130.46/mnp/espn3/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Sports" tvg-id="I261.121144.schedulesdirect.org" tvg-name="ESPN 4 - Latin America",ESPN 4 - Latin America
 http://190.11.130.46/mnp/espn_extra/output.mpd
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Sports" tvg-id="I261.121144.schedulesdirect.org" tvg-name="ESPN 5 - Latin America",ESPN 5 - Latin America
+http://8.242.175.221:8000/play/a04e/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Sports" tvg-id="I261.121144.schedulesdirect.org" tvg-name="ESPN 6 - Latin America",ESPN 6 - Latin America
+http://190.83.2.239:8000/play/a13z/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Sports" tvg-id="I261.121144.schedulesdirect.org" tvg-name="ESPN 7 - Latin America",ESPN 7 - Latin America
+http://8.242.175.221:8000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Sports" tvg-id="I261.121144.schedulesdirect.org" tvg-name="ESPN Premium - Latin America",ESPN Premium - Latin America
 http://190.11.130.46/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="Sports" tvg-id="I854.25595.schedulesdirect.org" tvg-name="ESPN Deportes - USA",ESPN Deportes - USA
