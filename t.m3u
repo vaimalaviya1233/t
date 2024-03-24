@@ -14,9 +14,9 @@ http://190.11.130.46/mnp/espnpremium/output.mpd
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/128.ts
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61704_dark_360w_270h.png" group-title="Sports" tvg-id="I303.61704.schedulesdirect.org" tvg-name="FOX Sports - Latin America",FOX Sports - Latin America
 http://190.11.130.46/mnp/fox_sport/output.mpd
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="Sports" tvg-id="I305.71328.schedulesdirect.org" tvg-name="FOX Sports 2 - Latin America",FOX Sports 2- Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="Sports" tvg-id="I305.71328.schedulesdirect.org" tvg-name="FOX Sports 2 - Latin America",FOX Sports 2 - Latin America
 http://190.11.130.46/mnp/fox_sport2/output.mpd
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png" group-title="Sports" tvg-id="I308.105005.schedulesdirect.org" tvg-name="FOX Sports 3 - Latin America",FOX Sports 3- Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png" group-title="Sports" tvg-id="I308.105005.schedulesdirect.org" tvg-name="FOX Sports 3 - Latin America",FOX Sports 3 - Latin America
 http://190.11.130.46/mnp/fox_sport3/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="Entertainment" tvg-id="I6.18955.schedulesdirect.org" tvg-name="A&E - Latin America",A&E - Latin America
 http://190.11.130.46/mnp/ae/output.mpd
