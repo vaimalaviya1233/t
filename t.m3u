@@ -8,13 +8,13 @@ http://38.41.8.1:8000/play/a00c
 http://190.11.130.46/mnp/espn3/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Sports" tvg-id="I261.121144.schedulesdirect.org" tvg-name="ESPN 4 - Latin America",ESPN 4 - Latin America
 http://190.11.130.46/mnp/espn_extra/output.mpd
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Sports" tvg-id="I261.121144.schedulesdirect.org" tvg-name="ESPN 5 - Latin America",ESPN 5 - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="Sports" tvg-id="ESPN4.uy" tvg-name="ESPN 5 - Latin America",ESPN 5 - Latin America
 http://8.242.175.221:8000/play/a04e/index.m3u8
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Sports" tvg-id="I261.121144.schedulesdirect.org" tvg-name="ESPN 6 - Latin America",ESPN 6 - Latin America
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/2560px-ESPN_6_logo.svg.png" group-title="Sports" tvg-id="FOXSports3.uy" tvg-name="ESPN 6 - Latin America",ESPN 6 - Latin America
 http://190.83.2.239:8000/play/a13z/index.m3u8
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Sports" tvg-id="I261.121144.schedulesdirect.org" tvg-name="ESPN 7 - Latin America",ESPN 7 - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="Sports" tvg-id="FOXSports2.uy" tvg-name="ESPN 7 - Latin America",ESPN 7 - Latin America
 http://8.242.175.221:8000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Sports" tvg-id="I261.121144.schedulesdirect.org" tvg-name="ESPN Premium - Latin America",ESPN Premium - Latin America
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="Sports" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium - Latin America",ESPN Premium - Latin America
 http://190.11.130.46/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="Sports" tvg-id="I854.25595.schedulesdirect.org" tvg-name="ESPN Deportes - USA",ESPN Deportes - USA
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/128.ts
@@ -28,6 +28,8 @@ http://190.11.130.46/mnp/fox_sport3/output.mpd
 http://190.11.130.46/mnp/ae/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/51529/s51529_ll_h15_ab.png" group-title="Entertainment" tvg-id="I265.51529.zap2it.com" tvg-name="A&E - USA",A&E - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177486
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="Entertainment" tvg-id="I659.16496.schedulesdirect.org" tvg-name="Adult Swim - Latin America",Adult Swim - Latin America
+http://45.179.164.30:8000/play/a0co/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="Entertainment" tvg-id="I18.90852.schedulesdirect.org" tvg-name="AMC - Latin America",AMC - Latin America
 http://190.11.130.46/mnp/amc/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59337/s59337_ll_h15_ab.png" group-title="Entertainment" tvg-id="I254.59337.zap2it.com" tvg-name="AMC - USA",AMC - USA
@@ -292,10 +294,10 @@ https://ythlsgo.onrender.com/channel/UCM7YyUa7jflvMCd3e5FetfQ.m3u8
 https://ythlsgo.onrender.com/channel/UCwTpGtxskAGukzfQ4qdXzxg.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/85-UGHZpuqq2lg-PS6UVMQzHo-qlBDCxsrav-vt8smQg2ew9r5ivaIDE-iRF28gMu1wnhpmV" group-title="Business" tvg-id="BitcoinLIVE.us" tvg-name="Bitcoin LIVE",Bitcoin LIVE
 https://ythlsgo.onrender.com/channel/UCuQtM8OfHpOMp7TimkLOcTg.m3u8
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60964_dark_360w_270h.png" group-title="Music" tvg-id="I430.60964.schedulesdirect.org" tvg-name="MTV East - USA", MTV East USA
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60964_dark_360w_270h.png" group-title="Music" tvg-id="I430.60964.schedulesdirect.org" tvg-name="MTV - USA", MTV - USA
 http://170.254.18.106/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png" group-title="Music" tvg-id="I429.84432.schedulesdirect.org" tvg-name="MTV - Latin America", MTV - Latin America
-http://138.59.177.34:8000/play/a02u/index.m3u8
+http://190.11.130.46/mnp/mtv/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/MTV_Music_2021_logo.svg/512px-MTV_Music_2021_logo.svg.png" group-title="Music" tvg-id="MTVMusic.uk" tvg-name="MTV Music - United Kingdom",MTV Music - United Kingdom
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/114
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/800px-Club_MTV_2021_logo.svg.png" group-title="Music" tvg-id="ClubMTVEurope.uk" tvg-name="Club MTV - Europe", Club MTV - Europe
@@ -304,20 +306,20 @@ http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52334
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1077
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/1200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="Music" tvg-id="MTVU.us" tvg-name="MTVU USA", MTVU USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1078
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Music" tvg-id="I572.49141.zap2it.com" tvg-name="MTV Live USA", MTV Live USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49141/s49141_ll_h15_ab.png" group-title="Music" tvg-id="I572.49141.zap2it.com" tvg-name="MTV Live USA", MTV Live USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1076
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49141/s49141_ll_h15_ab.png" group-title="Music" tvg-id="I436.66419.schedulesdirect.org" tvg-name="MTV Live MTV Latin America", MTV Live MTV Latin America
-http://190.11.130.46/mnp/mtv/output.mpd
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66419_dark_360w_270h.png" group-title="Music" tvg-id="I436.66419.schedulesdirect.org" tvg-name="MTV Live MTV Latin America", MTV Live MTV Latin America
+http://45.179.164.30:8000/play/a043/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/22561/s22561_ll_h15_ad.png" group-title="Music" tvg-id="I336.22561.zap2it.com" tvg-name="MTV Classic- USA", MTV - Classic USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1074
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67787_dark_360w_270h.png" group-title="Music" tvg-id="I435.67787.schedulesdirect.org" tvg-name="MTV Hits - Latin America", MTV Hits - Latin America
-http://138.59.177.34:8000/play/a02i/index.m3u8
+http://45.179.164.30:8000/play/a08l/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="Music" tvg-id="I432.65060.schedulesdirect.org" tvg-name="MTV 80s - Latin America",MTV 80s - Latin America
-http://138.59.177.34:8000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Music" tvg-id="MTV90s.uk" tvg-name="MTV 90s - United Kingdom", MTV 90s - United Kingdom
+http://45.179.164.30:8000/play/a08m/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Music" tvg-id="MTV90s.uk" tvg-name="MTV 90s - Latin America", MTV 90s - Latin America
 http://163.172.210.95:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" group-title="Music" tvg-id="I431.120767.schedulesdirect.org" tvg-name="MTV 00s - Latin America",MTV 00s - Latin America
-http://138.59.177.34:8000/play/a05r/index.m3u8
+http://45.179.164.30:8000/play/a09x/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11218/s11218_ll_h15_ac.png" group-title="Music" tvg-id="I335.11218.zap2it.com" tvg-name="VH1 - USA",VH1 - USA
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Music" tvg-id="USBA3000093U" tvg-name="MTV Pluto TV - USA", MTV Pluto TV - USA
@@ -537,7 +539,7 @@ https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png" group-title="Music" tvg-id="USBD3500024YB" tvg-name="Qello Concerts by Stingray", Qello Concerts by Stingray
 https://i.mjh.nz/SamsungTVPlus/USBD3500024YB.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GKc7RFz.png" group-title="Music" tvg-id="StingrayiConcerts.ca" tvg-name="Stingray iConcerts", Stingray iConcerts
-http://181.78.208.254:8010/play/a05b/index.m3u8?null=0
+http://177.53.153.20:8001/play/a03u/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6267dc92cc905f00087ee623/colorLogoPNG.png" group-title="Music" tvg-id="USBD350002623" tvg-name="Stingray Classica", Stingray Classica
 https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64240ccfaa2d690008dc4406/colorLogoPNG.png" group-title="Music" tvg-id="USBD3500025GS" tvg-name="Stingray DJAZZ", Stingray DJAZZ
