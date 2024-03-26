@@ -198,14 +198,18 @@ http://170.254.18.106/DISCOVERY_ID/index.m3u8
 http://38.41.8.1:8000/play/a017
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png" group-title="Entertainment" tvg-id="I642.74420.schedulesdirect.org" tvg-name="TLC - Latin America",TLC - Latin America
 http://170.254.18.106/TLC/index.m3u8
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/43362/s105678_ll_h15_ab.png" group-title="Entertainment" tvg-id="I443.43362.zap2it.com" tvg-name="History - Latin America",History - Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s40137_dark_360w_270h.png" group-title="Entertainment" tvg-id="I372.70669.schedulesdirect.org" tvg-name="History - Latin America",History - Latin America
 http://190.11.130.46/mnp/history/output.mpd
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14771/s14771_ll_h15_af.png" group-title="Entertainment" tvg-id="I269.14771.zap2it.com" tvg-name="History - USA",History - USA
+http://41.205.93.154/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="Entertainment" tvg-id="I375.80374.schedulesdirect.org" tvg-name="History 2 - Latin America",History 2 - Latin America
 http://170.254.18.106/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="Entertainment" tvg-id="I454.88533.schedulesdirect.org" tvg-name="National Geographic - Latin America",National Geographic - Latin America
 http://190.11.130.46/mnp/natgeohd/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="Entertainment" tvg-id="I22.96445.schedulesdirect.org" tvg-name="Animal Planet - Latin America",Animal Planet - Latin America
 http://38.41.8.1:8000/play/a023
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57394/s57394_ll_h9_ad.png" group-title="Entertainment" tvg-id="I282.57394.zap2it.com" tvg-name="Animal Planet - USA",Animal Planet - USA
+http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="Entertainment" tvg-id="I653.63109.schedulesdirect.org" tvg-name="Tooncast - Latin America",Tooncast - Latin America
 http://190.11.130.46/mnp/tooncast/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="The Simpsons S01-S20 - Latin America",The Simpsons S01-S20 - Latin America
@@ -268,8 +272,10 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144554
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87311_dark_360w_270h.png" group-title="Business" tvg-id="I241.87311.schedulesdirect.org" tvg-name="El Financiero Bloomberg TV - Mexico", El Financiero Bloomberg TV - Mexico
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26699
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58780_dark_360w_270h.png" group-title="Business" tvg-id="I208.58780.schedulesdirect.org" tvg-name="CNBC - USA", CNBC - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58780/s58780_ll_h15_ab.png" group-title="Business" tvg-id="I355.58780.zap2it.com" tvg-name="CNBC - USA", CNBC - USA
 http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/69.ts
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58718/s58718_ll_h15_ac.png" group-title="Business" tvg-id="I359.58718.zap2it.com" tvg-name="Fox Business - USA", Fox Business - USA
+http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png" group-title="Business" tvg-id="Negocios.TV" tvg-name="Negocios TV - Spain", Negocios TV - Spain
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59014_dark_360w_270h.png" group-title="Business" tvg-id="I714.59014.schedulesdirect.org" tvg-name="WOBI - Argentina", WOBI - Argentina
