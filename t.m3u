@@ -86,6 +86,8 @@ http://170.254.18.106/STUDIO_UNIVERSAL/index.m3u8
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png" group-title="Entertainment" tvg-id="I624.19246.schedulesdirect.org" tvg-name="TCM - Latin America",TCM - Latin America
 http://190.11.130.46/mnp/tcm/output.mpd
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12852/s12852_ll_h15_ab.png" group-title="Entertainment" tvg-id="I256.12852.zap2it.com" tvg-name="TCM - USA",TCM - USA
+http://143.244.60.30/TCM/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71727_dark_360w_270h.png" group-title="Entertainment" tvg-id="I644.80807.schedulesdirect.org" tvg-name="TNT - Latin America",TNT - Latin America
 http://190.11.130.46/mnp/tnt/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Entertainment" tvg-id="I648.106709.schedulesdirect.org" tvg-name="TNT Series - Latin America",TNT Series - Latin America
