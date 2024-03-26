@@ -318,13 +318,13 @@ http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/114
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52334
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16361/s16361_ll_h15_aa.png" group-title="Music" tvg-id="I332.16361.zap2it.com" tvg-name="MTV 2 - USA", MTV 2 - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1077
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/1200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="Music" tvg-id="MTVU.us" tvg-name="MTVU USA", MTVU USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/1200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="Music" tvg-id="MTVU.us" tvg-name="MTVU - USA", MTVU - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1078
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49141/s49141_ll_h15_ab.png" group-title="Music" tvg-id="I572.49141.zap2it.com" tvg-name="MTV Live USA", MTV Live USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49141/s49141_ll_h15_ab.png" group-title="Music" tvg-id="I572.49141.zap2it.com" tvg-name="MTV Live - USA", MTV Live - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1076
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66419_dark_360w_270h.png" group-title="Music" tvg-id="I436.66419.schedulesdirect.org" tvg-name="MTV Live MTV Latin America", MTV Live MTV Latin America
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66419_dark_360w_270h.png" group-title="Music" tvg-id="I436.66419.schedulesdirect.org" tvg-name="MTV Live - Latin America", MTV Live - Latin America
 http://45.179.164.30:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/22561/s22561_ll_h15_ad.png" group-title="Music" tvg-id="I336.22561.zap2it.com" tvg-name="MTV Classic- USA", MTV - Classic USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/22561/s22561_ll_h15_ad.png" group-title="Music" tvg-id="I336.22561.zap2it.com" tvg-name="MTV Classic- USA", MTV Classic - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1074
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67787_dark_360w_270h.png" group-title="Music" tvg-id="I435.67787.schedulesdirect.org" tvg-name="MTV Hits - Latin America", MTV Hits - Latin America
 http://45.179.164.30:8000/play/a08l/index.m3u8
@@ -397,7 +397,7 @@ http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/39.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png" group-title="Music" tvg-id="BETSoul.us" tvg-name="BET Soul - USA", BET Soul - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1014
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/83098/s83098_ll_h15_ac.png" group-title="Music" tvg-id="I384.83098.zap2it.com" tvg-name="Revolt Music - USA", Revolt Music - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1099
+http://143.244.60.30/REVOLT/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/83098/s83098_ll_h15_ac.png" group-title="Music" tvg-id="Revolt.us" tvg-name="Revolt - USA", Revolt - USA
 https://lnc-revolt.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="Music" tvg-id="MusicChoice80s.us" tvg-name="Music Choice 80s - USA", Music Choice 80s - USA
