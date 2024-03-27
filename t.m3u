@@ -169,11 +169,11 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/2103
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57581/s57581_ll_h15_ab.png" group-title="Entertainment" tvg-id="I527.57581.zap2it.com" tvg-name="Starz Kids & Family - East - Latino - USA",Starz Kids & Family - East - Latino - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177523
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="Entertainment" tvg-id="MXFamily.cl" tvg-name="MX Family",MX Family - Latin America
-http://138.219.58.234:8112/play/120?null=0
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg" group-title="Entertainment" tvg-id="MXClassic.cl" tvg-name="MX Classic",MX Classic - Latin America
-http://138.219.58.234:8112/play/121?null=0
+https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Entertainment" tvg-id="MXPrime.cl" tvg-name="MX Prime",MX Prime - Latin America
-http://138.219.58.234:8112/play/122?null=0
+https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Entertainment" tvg-id="I180.25788.schedulesdirect.org" tvg-name="Discovery en Español - USA",Discovery en Español - USA
 http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/85
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58428/s99630_ll_h15_aa.png" group-title="Entertainment" tvg-id="I436.58428.zap2it.com" tvg-name="Discovery Familia - USA",Discovery Familia - USA
