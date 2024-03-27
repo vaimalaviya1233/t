@@ -604,39 +604,41 @@ https://ythlsgo.onrender.com/channel/UC5p9rsjaguRP0p9bckUTdHg.m3u8
 https://ythlsgo.onrender.com/channel/UCGh9c0wtR1vgLtlH7kUmjYw.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IJL8nbuAPOrqBSkvNqcHD3pfVPMQWP73IT5MWh7HooUyftZjRI5R5eT67KpgNyBmNIfAQwoQug" group-title="Music" tvg-id="AlexSensation.us" tvg-name="Alex Sensation",Alex Sensation
 https://ythlsgo.onrender.com/channel/UCH74EMTujyjoaY-eIx7oUXQ.m3u8
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15211_dark_360w_270h.png" group-title="Music" tvg-id="I630.15211.schedulesdirect.org" tvg-name="Telehit",Telehit
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15211_dark_360w_270h.png" group-title="Music" tvg-id="I630.15211.schedulesdirect.org" tvg-name="Telehit - Latin America",Telehit - Latin America
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73070_dark_360w_270h.png" group-title="Music" tvg-id="I632.73070.schedulesdirect.org" tvg-name="Telehit Musica",Telehit Musica
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73070_dark_360w_270h.png" group-title="Music" tvg-id="I632.73070.schedulesdirect.org" tvg-name="Telehit Musica - Latin America",Telehit Musica - Latin America
 https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73070_dark_360w_270h.png" group-title="Music" tvg-id="I632.73070.schedulesdirect.org" tvg-name="Telehit Musica Plus",Telehit Musica Plus
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73070_dark_360w_270h.png" group-title="Music" tvg-id="I632.73070.schedulesdirect.org" tvg-name="Telehit Musica Plus - Latin America",Telehit Musica Plus - Latin America
 https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15969_dark_360w_270h.png" group-title="Music" tvg-id="I380.15969.schedulesdirect.org" tvg-name="HTV", HTV
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15969_dark_360w_270h.png" group-title="Music" tvg-id="I380.15969.schedulesdirect.org" tvg-name="HTV - Latin America", HTV - Latin America
 http://190.11.130.46/mnp/htv/output.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wrFfgzC.png" group-title="Music" tvg-id="SinLimites.co" tvg-name="Sin Limites", Sin Limites
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wrFfgzC.png" group-title="Music" tvg-id="SinLimites.co" tvg-name="Sin Limites - Latin America", Sin Limites - Latin America
 http://38.41.8.1:8000/play/a07e
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47403_dark_360w_270h.png" group-title="Music" tvg-id="I274.47403.schedulesdirect.org" tvg-name="Exa TV", Exa TV
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47403_dark_360w_270h.png" group-title="Music" tvg-id="I274.47403.schedulesdirect.org" tvg-name="Exa TV - Latin America", Exa TV - Latin America
 http://190.149.66.90:4000/play/a03c/index.m3u8?null=0
-#EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2021/08/mi-musica-HITS.png" group-title="Music" tvg-id="" tvg-name="Mimusica Hits",Mimusica Hits
+#EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2021/08/mi-musica-HITS.png" group-title="Music" tvg-id="" tvg-name="Mimusica Hits - Latin America",Mimusica Hits - Latin America
 http://191.97.60.193:10000/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicsalsa.png" group-title="Music" tvg-id="" tvg-name="Mimusica Salsa",Mimusica Salsa
+#EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicsalsa.png" group-title="Music" tvg-id="" tvg-name="Mimusica Salsa - Latin America",Mimusica Salsa - Latin America
 http://181.78.64.71:16123/play/ch55
-#EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicareggaeton.png" group-title="Music" tvg-id="" tvg-name="Mimusica Reggaeton",Mimusica Reggaeton
+#EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicareggaeton.png" group-title="Music" tvg-id="" tvg-name="Mimusica Reggaeton - Latin America",Mimusica Reggaeton - Latin America
 http://181.78.64.71:16123/play/ch53
-#EXTINF:-1 tvg-logo="https://audio.lamusica.com/artworks/5dcf310cf6344b771afa1717-xxxhdpi.jpg" group-title="Music" tvg-id="Zeta93.pr" tvg-name="Zeta 93 - Puerto Rico",Zeta 93 Puerto Rico
+#EXTINF:-1 tvg-logo="https://audio.lamusica.com/artworks/5dcf310cf6344b771afa1717-xxxhdpi.jpg" group-title="Music" tvg-id="Zeta93.pr" tvg-name="Zeta 93 - Puerto Rico",Zeta 93 - Puerto Rico
 https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lax.fm/portal/wp-content/themes/Backstreet/images/footer-logo.png" group-title="Music" tvg-id="LaX.pr" tvg-name="La-X - Puerto Rico",La-X Puerto Rico
+#EXTINF:-1 tvg-logo="https://lax.fm/portal/wp-content/themes/Backstreet/images/footer-logo.png" group-title="Music" tvg-id="LaX.pr" tvg-name="La-X - Puerto Rico",La-X - Puerto Rico
 https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Musik 104.5 FM Caracas" tvg-name="Musik 104.5 FM Caracas" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 104.5 FM Caracas
+#EXTINF:-1 tvg-id="Musik 104.5 FM Caracas" tvg-name="Musik 104.5 FM Caracas" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 104.5 FM Caracas - Venezuela
 https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.142.98.225/6743abc7b63e7a42474c7cdf28e1b27005af4b72a0b8d102b976270f33f52556/supertrendy2/supertrendy2/chunks.m3u8
-#EXTINF:-1 tvg-id="Musik 101.9 FM Valencia" tvg-name="Musik 101.9 FM Valencia" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 101.9 FM Valencia
+#EXTINF:-1 tvg-id="Musik 101.9 FM Valencia" tvg-name="Musik 101.9 FM Valencia" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 101.9 FM Valencia - Venezuela
 https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.142.98.225/422d179518f64b12a54605412c970f02af58b6a4990bb79b7ada91f4ac043103/supertrendy1/supertrendy1/chunks.m3u8
-#EXTINF:-1 tvg-id="Pop 92.3 FM Valencia" tvg-name="Pop 92.3 FM Valencia" tvg-logo="https://cdn-radiotime-logos.tunein.com/s157743g.png" group-title="Music",Pop 92.3 FM Valencia
+#EXTINF:-1 tvg-id="Pop 92.3 FM Valencia" tvg-name="Pop 92.3 FM Valencia" tvg-logo="https://cdn-radiotime-logos.tunein.com/s157743g.png" group-title="Music",Pop 92.3 FM Valencia - Venezuela
 https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.142.98.225/a39672dcb191bd50922a00ca46243fdf66b9dfe05bd2badf57d5b885867f5065/supertrendy3/supertrendy3/chunks.m3u8
-#EXTINF:-1 tvg-id="Mix Music Channel" tvg-name="Mix Music Channel" tvg-logo="https://supertrendy.net/wp-content/uploads/2022/08/logo-mix-aprobado-03.png" group-title="Music",Mix Music Channel
+#EXTINF:-1 tvg-id="Mix Music Channel" tvg-name="Mix Music Channel" tvg-logo="https://supertrendy.net/wp-content/uploads/2022/08/logo-mix-aprobado-03.png" group-title="Music",Mix Music Channel - Venezuela
 https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tropicalmusictv.com/wp-content/uploads/2022/07/tropical_music_logo_red-155x68px.png" group-title="Music" tvg-id="TropicalMusicTV.us" tvg-name="Tropical Music TV", Tropical Music TV
+#EXTINF:-1 tvg-logo="https://tropicalmusictv.com/wp-content/uploads/2022/07/tropical_music_logo_red-155x68px.png" group-title="Music" tvg-id="TropicalMusicTV.us" tvg-name="Tropical Music TV - Latin America", Tropical Music TV - Latin America
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
-#EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/radioenvivo//images/portalfoxmix-radio-logo-gran-tras.png" group-title="Music" tvg-id="Portalfoxmix.cl" tvg-name="Portalfoxmix", Portalfoxmix
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s202159/images/logog.png" group-title="Music" tvg-id="LaVozSalsa.us" tvg-name="La Voz Salsa - Colombia",La Voz Salsa - Colombia
+https://videolatam.com:3841/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/radioenvivo//images/portalfoxmix-radio-logo-gran-tras.png" group-title="Music" tvg-id="Portalfoxmix.cl" tvg-name="Portalfoxmix - Chile", Portalfoxmix - Chile
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://latinurbano.com/logo.jpg" group-title="Radio",Latinurbano Radio
 http://radio.latinurbano.com/radio
