@@ -191,7 +191,7 @@ https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/59
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Entertainment" tvg-id="I178.96307.schedulesdirect.org" tvg-name="Discovery Channel - Latin America",Discovery Channel - Latin America
 http://190.11.130.46/mnp/discovery/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11150/s11150_ll_h15_af.png" group-title="Entertainment" tvg-id="I278.11150.zap2it.com" tvg-name="Discovery Channel - USA",Discovery Channel - USA
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/88.ts
+https://nxt.plus:8443/olmos/1234guz/64518
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="Entertainment" tvg-id="I190.46610.schedulesdirect.org" tvg-name="Discovery Science - Latin America",Discovery Science - Latin America
 http://190.11.130.46/mnp/dsc_sci/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="Entertainment" tvg-id="I193.46608.schedulesdirect.org" tvg-name="Discovery Turbo - Latin America",Discovery Turbo - Latin America
