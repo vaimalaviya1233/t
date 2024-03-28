@@ -175,15 +175,15 @@ https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Entertainment" tvg-id="MXPrime.cl" tvg-name="MX Prime",MX Prime - Latin America
 https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Entertainment" tvg-id="I180.25788.schedulesdirect.org" tvg-name="Discovery en Español - USA",Discovery en Español - USA
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/85
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/22
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58428/s99630_ll_h15_aa.png" group-title="Entertainment" tvg-id="I436.58428.zap2it.com" tvg-name="Discovery Familia - USA",Discovery Familia - USA
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/90
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/137
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91588/s91588_ll_h15_ab.png" group-title="Entertainment" tvg-id="I410.91588.zap2it.com" tvg-name="NBC Universo - East - USA",NBC Universo - East - USA
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/349
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/354
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54437/s73245_ll_h15_ac.png" group-title="Entertainment" tvg-id="I47.1.54437.zap2it.com" tvg-name="Telemundo New York USA",Telemundo - New York - USA
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/308
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11118/s11118_ll_h15_ab.png" group-title="Entertainment" tvg-id="I270.11118.zap2it.com" tvg-name="Univision - New York - USA",Univision - New York - USA
-http://live.superteve.com:33527/ENVIVO/qOGzDaCITL/350
+https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/498
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58698/s58698_ll_h9_aa.png" group-title="Entertainment" tvg-id="I405.58698.zap2it.com" tvg-name="Mega TV - Puerto Rico",Mega TV - Puerto Rico
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/44322/s63389_ll_h15_ac.png" group-title="Entertainment" tvg-id="I414.44322.zap2it.com" tvg-name="WAPA - Puerto Rico",WAPA - Puerto Rico
@@ -281,7 +281,7 @@ https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87311_dark_360w_270h.png" group-title="Business" tvg-id="I241.87311.schedulesdirect.org" tvg-name="El Financiero Bloomberg TV - Mexico", El Financiero Bloomberg TV - Mexico
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26699
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58780/s58780_ll_h15_ab.png" group-title="Business" tvg-id="I355.58780.zap2it.com" tvg-name="CNBC - USA", CNBC - USA
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/69.ts
+http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58718/s58718_ll_h15_ac.png" group-title="Business" tvg-id="I359.58718.zap2it.com" tvg-name="Fox Business - USA", Fox Business - USA
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png" group-title="Business" tvg-id="Negocios.TV" tvg-name="Negocios TV - Spain", Negocios TV - Spain
