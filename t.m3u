@@ -19,7 +19,7 @@ http://181.78.64.71:16123/play/ch20
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="Sports" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium - Latin America",ESPN Premium - Latin America
 http://190.11.130.46/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="Sports" tvg-id="I854.25595.schedulesdirect.org" tvg-name="ESPN Deportes - USA",ESPN Deportes - USA
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/128.ts
+https://nxt.plus:8443/olmos/1234guz/160760
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61704_dark_360w_270h.png" group-title="Sports" tvg-id="I303.61704.schedulesdirect.org" tvg-name="FOX Sports - Latin America",FOX Sports - Latin America
 http://190.11.130.46/mnp/fox_sport/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="Sports" tvg-id="I305.71328.schedulesdirect.org" tvg-name="FOX Sports 2 - Latin America",FOX Sports 2 - Latin America
