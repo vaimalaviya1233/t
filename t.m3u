@@ -239,11 +239,13 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37886
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fresh_Prince_Bel_Aire_logo.png" group-title="24/7" tvg-id="" tvg-name="The Fresh Prince of Bel-Air - Latin America", The Fresh Prince of Bel-Air - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37799
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Breaking_Bad_logo_simplified.png" group-title="24/7" tvg-id="" tvg-name="Breaking Bad - Latin America",Breaking Bad - Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/44381
+http://51.159.104.29:8080/BREAKINGBAD/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rcuGu1x-AZY/XtKpwFAXwzI/AAAAAAAAAPg/NiUos9AwxvQEARQgobg-KlxwJez691jEgCK4BGAsYHg/xfiles.png" group-title="24/7" tvg-id="" tvg-name="The X-Files - Latin America",The X-Files - Latin America
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37796
 #EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/th8128tb8b-the-sopranos-logo-the-sopranos-logo-clear-.png" group-title="24/7" tvg-id="" tvg-name="The Sopranos - USA",The Sopranos - USA
 http://tkosportz.live:25461/kevinbeard/3368425/93612
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/5009/5009255.png" group-title="24/7" tvg-id="" tvg-name="Accion",Accion
+http://51.159.104.29:8080/action/tracks-v1a2/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-iTl7OgdN1wI/XurhnUZiGxI/AAAAAAAACL4/_KrBD6zllBkg6iN1t6SLK6j-Y_oNQstgwCLcBGAsYHQ/s200/Ciencia%2BFiccion%2B3.png" group-title="24/7" tvg-id="" tvg-name="Ciencia Ficcion",Ciencia Ficcion
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37929
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wKoOdCSz_YA/XcsQ4aWeqMI/AAAAAAAAA0w/V7kWXXAPvO0Muf4tN0T1Qce2Cv5bwFbxgCLcBGAsYHQ/s200/comedia.png" group-title="24/7" tvg-id="" tvg-name="Comedia",Comedia
