@@ -63,11 +63,11 @@ https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Entertainment" tvg-id="I339.80804.schedulesdirect.org" tvg-name="Golden Premier - Latin America",Golden Premier - Latin America
 https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Entertainment" tvg-id="I338.80805.schedulesdirect.org" tvg-name="Golden Premier 2 - Latin America",Golden Premier 2 - Latin America
-http://138.59.177.34:8000/play/a019/index.m3u8
+http://138.59.177.34:8000/play/a019
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="Entertainment" tvg-id="I334.16423.schedulesdirect.org" tvg-name="Golden Edge - Latin America",Golden Edge - Latin America
 https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="Entertainment" tvg-id="I444.18169.schedulesdirect.org" tvg-name="Golden Edge - Latin America",Multipremier - Multipremier
-http://160.20.165.246:8000/play/a00b/index.m3u8
+http://160.20.165.246:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="Entertainment" tvg-id="I918.106215.schedulesdirect.org" tvg-name="Paramount Network - Latin America",Paramount Network - Latin America
 http://190.11.130.46/mnp/paramount/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11163/s11163_ll_h15_ac.png" group-title="Entertainment" tvg-id="I241.11163.zap2it.com" tvg-name="Paramount Network - USA",Paramount Network - USA
@@ -139,13 +139,13 @@ http://45.228.234.77:4430/play/universalcinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="Entertainment" tvg-id="I686.122769.schedulesdirect.org" tvg-name="Universal Comedy - Latin America", Universal Comedy - Latin America
 http://45.228.234.77:4430/play/universalcomedyhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121868_dark_360w_270h.png" group-title="Entertainment" tvg-id="I687.122765.schedulesdirect.org" tvg-name="Universal Crime - Latin America", Universal Crime - Latin America
-http://201.159.113.219:49000/play/a059/index.m3u8
+http://201.159.113.219:49000/play/a059
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121867_dark_360w_270h.png" group-title="Entertainment" tvg-id="I689.122763.schedulesdirect.org" tvg-name="Universal Reality - Latin America", Universal Reality - Latin America
-http://201.159.113.219:49000/play/a058/index.m3u8
+http://201.159.113.219:49000/play/a058
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="Entertainment" tvg-id="I688.122761.schedulesdirect.org" tvg-name="Universal Premiere East - Latin America",Universal Premiere - East - Latin America
 http://45.228.234.77:4430/play/universalpremierehd/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="Entertainment" tvg-id="I688.122761.schedulesdirect.org" tvg-name="Universal Premiere West - Latin America",Universal Premiere - West - Latin America
-http://201.159.113.219:49000/play/a057/index.m3u8
+http://201.159.113.219:49000/play/a057
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34941/s34941_ll_h15_ac.png" group-title="Entertainment" tvg-id="I525.34941.zap2it.com" tvg-name="Starz - East - USA",Starz - East - USA
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/2112
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67236/s67236_ll_h15_ac.png" group-title="Entertainment" tvg-id="I531.67236.zap2it.com" tvg-name="Starz Cinema - East - USA",Starz Cinema - East - USA
@@ -181,13 +181,13 @@ http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61064
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91588/s91588_ll_h15_ab.png" group-title="Entertainment" tvg-id="I410.91588.zap2it.com" tvg-name="NBC Universo - East - USA",NBC Universo - East - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61036
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54437/s73245_ll_h15_ac.png" group-title="Entertainment" tvg-id="I47.1.54437.zap2it.com" tvg-name="Telemundo New York USA",Telemundo - New York - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/63698
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11118/s11118_ll_h15_ab.png" group-title="Entertainment" tvg-id="I270.11118.zap2it.com" tvg-name="Univision - New York - USA",Univision - New York - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/122269
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58698/s58698_ll_h9_aa.png" group-title="Entertainment" tvg-id="I405.58698.zap2it.com" tvg-name="Mega TV - Puerto Rico",Mega TV - Puerto Rico
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/44322/s63389_ll_h15_ac.png" group-title="Entertainment" tvg-id="I414.44322.zap2it.com" tvg-name="WAPA - Puerto Rico",WAPA - Puerto Rico
-https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/59
+https://live.field59.com/wapa/wapa1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Entertainment" tvg-id="I178.96307.schedulesdirect.org" tvg-name="Discovery Channel - Latin America",Discovery Channel - Latin America
 http://190.11.130.46/mnp/discovery/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11150/s11150_ll_h15_af.png" group-title="Entertainment" tvg-id="I278.11150.zap2it.com" tvg-name="Discovery Channel - USA",Discovery Channel - USA
@@ -331,9 +331,9 @@ http://45.228.234.77:4430/play/mtvhits/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/22561/s22561_ll_h15_ad.png" group-title="Music" tvg-id="I336.22561.zap2it.com" tvg-name="MTV Classic- USA", MTV Classic - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1074
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67787_dark_360w_270h.png" group-title="Music" tvg-id="I435.67787.schedulesdirect.org" tvg-name="MTV Hits - Latin America", MTV Hits - Latin America
-http://45.179.164.30:8000/play/a08l/index.m3u8
+http://45.179.164.30:8000/play/a08l
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="Music" tvg-id="I432.65060.schedulesdirect.org" tvg-name="MTV 80s - Latin America",MTV 80s - Latin America
-http://45.179.164.30:8000/play/a08m/index.m3u8
+http://45.179.164.30:8000/play/a08m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Music" tvg-id="MTV90s.uk" tvg-name="MTV 90s - Latin America", MTV 90s - Latin America
 http://163.172.210.95:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" group-title="Music" tvg-id="I431.120767.schedulesdirect.org" tvg-name="MTV 00s - Latin America",MTV 00s - Latin America
@@ -567,7 +567,7 @@ https://i.mjh.nz/SamsungTVPlus/USBD35000128A.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/6058a55e7bf32c592084ed88/6059be4e542a774d2917fcbb_newLogo-white.png" group-title="Music" tvg-id="QwestTV.fr" tvg-name="Qwest TV", Qwest TV
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u2irADf.png" group-title="Music" tvg-id="ConcertChannel.us" tvg-name="Concert Channel", Concert Channel
-http://190.149.66.90:4000/play/a04g/index.m3u8?null=0
+http://190.149.66.90:4000/play/a04g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fbgxqqq.png" group-title="Music" tvg-id="IHeart80s.us" tvg-name="iHeart 80s", iHeart 80s
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/329ab2f0-5d1a-4e71-9f9a-e6d5674ad982" group-title="Music" tvg-id="IHeart90s.us" tvg-name="iHeart 90s", iHeart 90s
@@ -620,10 +620,12 @@ http://38.41.8.1:8000/play/a07e
 http://190.149.66.90:4000/play/a03c/index.m3u8?null=0
 #EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2021/08/mi-musica-HITS.png" group-title="Music" tvg-id="" tvg-name="Mimusica Hits - Latin America",Mimusica Hits - Latin America
 http://191.97.60.193:10000/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicsalsa.png" group-title="Music" tvg-id="" tvg-name="Mimusica Salsa - Latin America",Mimusica Salsa - Latin America
-http://181.78.64.71:16123/play/ch55
 #EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicareggaeton.png" group-title="Music" tvg-id="" tvg-name="Mimusica Reggaeton - Latin America",Mimusica Reggaeton - Latin America
-http://181.78.64.71:16123/play/ch53
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicareggaeton_t1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicaromantica.png" group-title="Music" tvg-id="" tvg-name="Mimusica Romantica - Latin America",Mimusica Romantica - Latin America
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicsalsa.png" group-title="Music" tvg-id="" tvg-name="Mimusica Salsa - Latin America",Mimusica Salsa - Latin America
+http://bantel.iptvperu.tv:1935/transcoderip/mimusicasalsa_t1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://audio.lamusica.com/artworks/5dcf310cf6344b771afa1717-xxxhdpi.jpg" group-title="Music" tvg-id="Zeta93.pr" tvg-name="Zeta 93 - Puerto Rico",Zeta 93 - Puerto Rico
 https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lax.fm/portal/wp-content/themes/Backstreet/images/footer-logo.png" group-title="Music" tvg-id="LaX.pr" tvg-name="La-X - Puerto Rico",La-X - Puerto Rico
