@@ -329,7 +329,7 @@ http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1078
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49141/s49141_ll_h15_ab.png" group-title="Music" tvg-id="I572.49141.zap2it.com" tvg-name="MTV Live - USA", MTV Live - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1076
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66419_dark_360w_270h.png" group-title="Music" tvg-id="I436.66419.schedulesdirect.org" tvg-name="MTV Live - Latin America", MTV Live - Latin America
-http://45.228.234.77:4430/play/mtvhits/index.m3u8
+http://138.59.177.34:8000/play/a05q
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/22561/s22561_ll_h15_ad.png" group-title="Music" tvg-id="I336.22561.zap2it.com" tvg-name="MTV Classic- USA", MTV Classic - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1074
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67787_dark_360w_270h.png" group-title="Music" tvg-id="I435.67787.schedulesdirect.org" tvg-name="MTV Hits - Latin America", MTV Hits - Latin America
@@ -337,9 +337,9 @@ http://45.179.164.30:8000/play/a08l
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="Music" tvg-id="I432.65060.schedulesdirect.org" tvg-name="MTV 80s - Latin America",MTV 80s - Latin America
 http://45.179.164.30:8000/play/a08m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Music" tvg-id="MTV90s.uk" tvg-name="MTV 90s - Latin America", MTV 90s - Latin America
-http://163.172.210.95:8000/play/a059/index.m3u8
+http://163.172.210.95:8000/play/a059
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" group-title="Music" tvg-id="I431.120767.schedulesdirect.org" tvg-name="MTV 00s - Latin America",MTV 00s - Latin America
-http://45.228.234.77:4430/play/mtv00s/index.m3u8
+http://138.59.177.34:8000/play/a05r
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11218/s11218_ll_h15_ac.png" group-title="Music" tvg-id="I335.11218.zap2it.com" tvg-name="VH1 - USA",VH1 - USA
 http://170.254.18.106/VH1/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png" group-title="Music" tvg-id="USBA3000093U" tvg-name="MTV Pluto TV - USA", MTV Pluto TV - USA
@@ -397,11 +397,11 @@ http://170.254.18.106/BET/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1200px-BET_Logo.svg.png" group-title="Music" tvg-id="BETWest.us" tvg-name="BET - West - USA",BET - West - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1011
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14897/s14897_ll_h15_ac.png" group-title="Music" tvg-id="I330.14897.zap2it.com" tvg-name="BET Her - East - USA",BET Her - East - USA
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/38.ts
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/203
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/30419/s30419_ll_h15_ac.png" group-title="Music" tvg-id="I1633.30419.zap2it.com" tvg-name="BET Jams - USA", BET Jams - USA
-http://live.superteve.com:33527/live/ENVIVO/qOGzDaCITL/39.ts
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/950
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png" group-title="Music" tvg-id="BETSoul.us" tvg-name="BET Soul - USA", BET Soul - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1014
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/951
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/83098/s83098_ll_h15_ac.png" group-title="Music" tvg-id="I384.83098.zap2it.com" tvg-name="Revolt Music - USA", Revolt Music - USA
 http://143.244.60.30/REVOLT/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/83098/s83098_ll_h15_ac.png" group-title="Music" tvg-id="Revolt.us" tvg-name="Revolt - USA", Revolt - USA
@@ -623,9 +623,9 @@ http://190.11.130.46/mnp/htv/output.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrFfgzC.png" group-title="Music" tvg-id="SinLimites.co" tvg-name="Sin Limites - Latin America", Sin Limites - Latin America
 http://38.41.8.1:8000/play/a07e
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47403_dark_360w_270h.png" group-title="Music" tvg-id="I274.47403.schedulesdirect.org" tvg-name="Exa TV - Latin America", Exa TV - Latin America
-http://190.149.66.90:4000/play/a03c/index.m3u8?null=0
+http://138.59.177.34:8000/play/a05a
 #EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2021/08/mi-musica-HITS.png" group-title="Music" tvg-id="" tvg-name="Mimusica Hits - Latin America",Mimusica Hits - Latin America
-http://191.97.60.193:10000/play/a032/index.m3u8
+http://191.97.60.193:10000/play/a032
 #EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicareggaeton.png" group-title="Music" tvg-id="" tvg-name="Mimusica Reggaeton - Latin America",Mimusica Reggaeton - Latin America
 http://bantel.iptvperu.tv:1935/transcoderip/mimusicareggaeton_t1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicaromantica.png" group-title="Music" tvg-id="" tvg-name="Mimusica Romantica - Latin America",Mimusica Romantica - Latin America
