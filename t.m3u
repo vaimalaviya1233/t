@@ -283,7 +283,7 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144554
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/71799/s71799_ll_h15_ab.png" group-title="Business" tvg-id="I353.71799.zap2it.com" tvg-name="Bloomberg TV - USA",Bloomberg TV - USA
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87311_dark_360w_270h.png" group-title="Business" tvg-id="I241.87311.schedulesdirect.org" tvg-name="El Financiero Bloomberg TV - Mexico", El Financiero Bloomberg TV - Mexico
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26699
+https://d3mhf0ikztdylu.cloudfront.net/out/v1/817cf22a7bc24a778898407b3a2bfdb3/index.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58780/s58780_ll_h15_ab.png" group-title="Business" tvg-id="I355.58780.zap2it.com" tvg-name="CNBC - USA", CNBC - USA
 http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58718/s58718_ll_h15_ac.png" group-title="Business" tvg-id="I359.58718.zap2it.com" tvg-name="Fox Business - USA", Fox Business - USA
