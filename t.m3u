@@ -296,6 +296,8 @@ http://41.205.93.154/CNBC/index.m3u8
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png" group-title="Business" tvg-id="Negocios.TV" tvg-name="Negocios TV - Spain", Negocios TV - Spain
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Charles_Schwab_Corporation_logo.png" group-title="Business" tvg-id="SchwabNetwork.us" tvg-name="Schwab Network - USA",Schwab Network - USA
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59014_dark_360w_270h.png" group-title="Business" tvg-id="I714.59014.schedulesdirect.org" tvg-name="WOBI - Argentina", WOBI - Argentina
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26900
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Yahoo%21_Finance_logo_2021.png" group-title="Business" tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance - USA",Yahoo! Finance - USA
