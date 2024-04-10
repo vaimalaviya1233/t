@@ -146,27 +146,31 @@ http://201.159.113.219:49000/play/a058
 http://201.159.113.219:49000/play/a056
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="Entertainment" tvg-id="I688.122761.schedulesdirect.org" tvg-name="Universal Premiere West - Latin America",Universal Premiere - West - Latin America
 http://201.159.113.219:49000/play/a057
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34941/s34941_ll_h15_ac.png" group-title="Entertainment" tvg-id="I525.34941.zap2it.com" tvg-name="Starz - East - USA",Starz - East - USA
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/2112
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67236/s67236_ll_h15_ac.png" group-title="Entertainment" tvg-id="I531.67236.zap2it.com" tvg-name="Starz Cinema - East - USA",Starz Cinema - East - USA
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63647
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Starz_Cinema_2016.svg/1200px-Starz_Cinema_2016.svg.png" group-title="Entertainment" tvg-id="StarzCinemaWest.us" tvg-name="Starz Cinema - West - USA",Starz Cinema - West - USA
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63649
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34941/s34941_ll_h15_ac.png" group-title="Entertainment" tvg-id="I525.34941.zap2it.com" tvg-name="Starz - USA",Starz - USA
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/280
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67236/s67236_ll_h15_ac.png" group-title="Entertainment" tvg-id="I531.67236.zap2it.com" tvg-name="Starz Cinema - USA",Starz Cinema - USA
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1250
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57569/s57569_ll_h15_ac.png" group-title="Entertainment" tvg-id="I528.57569.zap2it.com" tvg-name="Starz Comedy - USA",Starz Comedy - USA
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63648
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1653
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57573/s57573_ll_h15_ab.png" group-title="Entertainment" tvg-id="I529.57573.zap2it.com" tvg-name="Starz Edge - USA",Starz Edge - USA
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177517
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14871/s14871_ll_h15_ab.png" group-title="Entertainment" tvg-id="I541.14871.zap2it.com" tvg-name="Starz Encore Action - East - USA",Starz Encore Action - East - USA
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/444
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/36225/s36225_ll_h15_ac.png" group-title="Entertainment" tvg-id="I535.36225.zap2it.com" tvg-name="Starz Encore - USA",Starz Encore - USA
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1468
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14871/s14871_ll_h15_ab.png" group-title="Entertainment" tvg-id="I541.14871.zap2it.com" tvg-name="Starz Encore Action - USA",Starz Encore Action - USA
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1469
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/102903/s102903_ll_h15_aa.png" group-title="Entertainment" tvg-id="I542.102903.zap2it.com" tvg-name="Starz Encore Family - East - USA",Starz Encore Family - East - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14870/s14870_ll_h15_ac.png" group-title="Entertainment" tvg-id="I540.14870.zap2it.com" tvg-name="Starz Encore Black - USA",Starz Encore Black - USA
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1470
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14764/s14764_ll_h15_ac.png" group-title="Entertainment" tvg-id="I537.14764.zap2it.com" tvg-name="Starz Encore Classic - USA",Starz Encore Classic - USA
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1471
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/102903/s102903_ll_h15_aa.png" group-title="Entertainment" tvg-id="I542.102903.zap2it.com" tvg-name="Starz Encore Family - USA",Starz Encore Family - USA
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1472
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/36225/s36225_ll_h15_ac.png" group-title="Entertainment" tvg-id="I535.36225.zap2it.com" tvg-name="Starz Encore - East - USA",Starz Encore - East - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/7154
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14766/s14766_ll_h15_ab.png" group-title="Entertainment" tvg-id="I539.14766.zap2it.com" tvg-name="Starz Encore Suspense - USA",Starz Encore Suspense - USA
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1249
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/102906/s102906_ll_h15_ab.png" group-title="Entertainment" tvg-id="I538.102906.zap2it.com" tvg-name="Starz Encore Westerns - USA",Starz Encore Westerns - USA
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/649
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57581/s57581_ll_h15_ab.png" group-title="Entertainment" tvg-id="I527.57581.zap2it.com" tvg-name="Starz Kids & Family - East - USA",Starz Kids & Family - East - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16833/s16833_ll_h15_ac.png" group-title="Entertainment" tvg-id="I530.16833.zap2it.com" tvg-name="Starz in Black - USA",Starz in Black - USA
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/397
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57581/s57581_ll_h15_ab.png" group-title="Entertainment" tvg-id="I527.57581.zap2it.com" tvg-name="Starz Kids & Family - USA",Starz Kids & Family - USA
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1248
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/102905/s102905_ll_h15_ab.png" group-title="Entertainment" tvg-id="I426.102905.zap2it.com" tvg-name="Starz Encore Latino - USA",Starz Encore Latino - USA
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/651
