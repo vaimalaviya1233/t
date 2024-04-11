@@ -57,11 +57,11 @@ http://190.11.130.46/mnp/filmsarts/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="Entertainment" tvg-id="I839.77617.schedulesdirect.org" tvg-name="FX - Latin America",FX - Latin America
 http://190.11.130.46/mnp/fx/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="Entertainment" tvg-id="I333.16298.schedulesdirect.org" tvg-name="Golden - Latin America",Golden - Latin America
-https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+https://linear-408.frequency.stream/dist/vix/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="Entertainment" tvg-id="I337.68317.schedulesdirect.org" tvg-name="Golden Plus - Latin America",Golden Plus - Latin America
-https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Entertainment" tvg-id="I339.80804.schedulesdirect.org" tvg-name="Golden Premier - Latin America",Golden Premier - Latin America
-https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Entertainment" tvg-id="I338.80805.schedulesdirect.org" tvg-name="Golden Premier 2 - Latin America",Golden Premier 2 - Latin America
 http://138.59.177.34:8000/play/a019
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="Entertainment" tvg-id="I334.16423.schedulesdirect.org" tvg-name="Golden Edge - Latin America",Golden Edge - Latin America
