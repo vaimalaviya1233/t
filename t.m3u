@@ -19,7 +19,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="Sports" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium - Latin America",ESPN Premium - Latin America
 http://190.11.130.46/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="Sports" tvg-id="I854.25595.schedulesdirect.org" tvg-name="ESPN Deportes - USA",ESPN Deportes - USA
-https://nxt.plus:8443/olmos/1234guz/160760
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/212
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61704_dark_360w_270h.png" group-title="Sports" tvg-id="I303.61704.schedulesdirect.org" tvg-name="FOX Sports - Latin America",FOX Sports - Latin America
 http://190.11.130.46/mnp/fox_sport/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="Sports" tvg-id="I305.71328.schedulesdirect.org" tvg-name="FOX Sports 2 - Latin America",FOX Sports 2 - Latin America
@@ -31,7 +31,7 @@ http://41.205.93.154:80/NBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="Entertainment" tvg-id="I6.18955.schedulesdirect.org" tvg-name="A&E - Latin America",A&E - Latin America
 http://190.11.130.46/mnp/ae/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/51529/s51529_ll_h15_ab.png" group-title="Entertainment" tvg-id="I265.51529.zap2it.com" tvg-name="A&E - USA",A&E - USA
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/177486
+http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/14927
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="Entertainment" tvg-id="I659.16496.schedulesdirect.org" tvg-name="Adult Swim - Latin America",Adult Swim - Latin America
 http://45.179.164.30:8000/play/a0co/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="Entertainment" tvg-id="I18.90852.schedulesdirect.org" tvg-name="AMC - Latin America",AMC - Latin America
