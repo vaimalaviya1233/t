@@ -231,63 +231,63 @@ http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="Entertainment" tvg-id="I653.63109.schedulesdirect.org" tvg-name="Tooncast - Latin America",Tooncast - Latin America
 http://190.11.130.46/mnp/tooncast/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="The Simpsons S01-S20 - Latin America",The Simpsons S01-S20 - Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37767
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/37767
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="The Simpsons S20-S30 - Latin America",The Simpsons S20-S30 - Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37758
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/37758
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="The Simpsons - USA",The Simpsons - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/107600
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/640px-Futurama_1999_logo.svg.png" group-title="24/7" tvg-id="" tvg-name="Futurama - Latin America",Futurama - Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37835
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/37835
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/South_Park_Logo.svg" group-title="24/7" tvg-id="" tvg-name="South Park - Latin America",South Park - Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37754
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/37754
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Flintstones_logo.svg/2560px-The_Flintstones_logo.svg.png" group-title="24/7" tvg-id="" tvg-name="The Flintstones - Latin America",The Flintstones - Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37854
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/37854
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fictionalcrossover/images/8/82/A_jetsons_logo.png" group-title="24/7" tvg-id="" tvg-name="The Jetsons - Latin America",The Jetsons - Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37876
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/37876
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nicthic/images/3/3d/Top_Cat_Logo.png" group-title="24/7" tvg-id="" tvg-name="Top Cat - Latin America",Top Cat - Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37886
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/37886
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Fresh_Prince_Bel_Aire_logo.png" group-title="24/7" tvg-id="" tvg-name="The Fresh Prince of Bel-Air - Latin America", The Fresh Prince of Bel-Air - Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37799
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/37799
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Breaking_Bad_logo_simplified.png" group-title="24/7" tvg-id="" tvg-name="Breaking Bad - Latin America",Breaking Bad - Latin America
 http://51.159.104.29:8080/BREAKINGBAD/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-rcuGu1x-AZY/XtKpwFAXwzI/AAAAAAAAAPg/NiUos9AwxvQEARQgobg-KlxwJez691jEgCK4BGAsYHg/xfiles.png" group-title="24/7" tvg-id="" tvg-name="The X-Files - Latin America",The X-Files - Latin America
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37796
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/37796
 #EXTINF:-1 tvg-logo="https://www.liblogo.com/img-logo/th8128tb8b-the-sopranos-logo-the-sopranos-logo-clear-.png" group-title="24/7" tvg-id="" tvg-name="The Sopranos - USA",The Sopranos - USA
 http://tkosportz.live:25461/kevinbeard/3368425/93612
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.freepik.com/512/5009/5009255.png" group-title="24/7" tvg-id="" tvg-name="Accion",Accion
 http://51.159.104.29:8080/action/tracks-v1a2/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-iTl7OgdN1wI/XurhnUZiGxI/AAAAAAAACL4/_KrBD6zllBkg6iN1t6SLK6j-Y_oNQstgwCLcBGAsYHQ/s200/Ciencia%2BFiccion%2B3.png" group-title="24/7" tvg-id="" tvg-name="Ciencia Ficcion",Ciencia Ficcion
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37929
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/37929
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wKoOdCSz_YA/XcsQ4aWeqMI/AAAAAAAAA0w/V7kWXXAPvO0Muf4tN0T1Qce2Cv5bwFbxgCLcBGAsYHQ/s200/comedia.png" group-title="24/7" tvg-id="" tvg-name="Comedia",Comedia
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37913
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/37913
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-g9Z6tUxU2Pc/XwQInT0RT1I/AAAAAAAAAPs/lrpK2yx8Mbw0FyIOW23sYasUMCoP9Ij_wCK4BGAsYHg/w200-h200/Crimen.png" group-title="24/7" tvg-id="" tvg-name="Crimen",Crimen
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/40271
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/40271
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AROMkEphnq4/XwQImcorX7I/AAAAAAAAAPg/eCIG4LrKebwtsNlCmWtBnEkhGEVYIjZBgCK4BGAsYHg/w200-h200/Cine%2BBelico.png" group-title="24/7" tvg-id="" tvg-name="Cine Belico",Cine Belico
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/40268
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/40268
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-coaxc70RKqQ/XwQIm26jVrI/AAAAAAAAAPo/6ioPvk89vdEAc_u1DJMA_I291yoOXxuwwCK4BGAsYHg/w200-h200/Biografico.png" group-title="24/7" tvg-id="" tvg-name="Cine Biografico",Cine Biografico
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/40269
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/40269
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-I0pD32mZUDM/XwQImn21_8I/AAAAAAAAAPk/UNZtl983DVodfQYl9TZ4K4WYHvKQbmcwwCK4BGAsYHg/w200-h200/catastrofe.png" group-title="24/7" tvg-id="" tvg-name="Cine Catastrofico",Cine Catastrofico
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/40270
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/40270
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-j-Sak8OHviU/XtmKkGSsTdI/AAAAAAAACCQ/g-WDpRG7qdwt5Pjj8FSfm5m9VqPVVHGfwCLcBGAsYHQ/s200/Disney%2B3D.png" group-title="24/7" tvg-id="" tvg-name="Disney Animacion 3D",Disney Animacion 3D
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37910
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/37910
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-GtBqGhVwpGA/XtmLNyz319I/AAAAAAAACCY/j9q-Gd_zUnEfTbORFb3ObqAYjPTc_9VfACLcBGAsYHQ/s200/Disney%2BClasicos.png" group-title="24/7" tvg-id="" tvg-name="Disney Clasicos Animados",Disney Clasicos Animados
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37908
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/37908
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YgGVPak0MmQ/XuRz6xCcHDI/AAAAAAAACEM/20CJyV4t90sCX8VH426GHQ94hbhZ3_8RQCLcBGAsYHQ/s200/Fantasy.png" group-title="24/7" tvg-id="" tvg-name="Fantasia",Fantasia
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37921
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/37921
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-nO6LGIGXiKU/Ydd5jqDaLoI/AAAAAAAACeE/OIJntOj0X38xOVhhkwAYsmDC1rOTJJeHQCNcBGAsYHQ/w200-h200/1641511305901712-5.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Accion",Estrenos Accion
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144548
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/144548
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-MyTiBbE9SY0/Ydd5krKAWYI/AAAAAAAACeI/a7TNY6FDnpgmxC10IS5NTI6rYNAf5k_YgCNcBGAsYHQ/w200-h200/1641511312615859-4.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Animacion",Estrenos Animacion
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144549
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/144549
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Ekk591Kj83Y/Ydd5iLtv3_I/AAAAAAAACeA/UdbrcAv_oKkB1MvvV-bvP_FuI6qfNpU2wCNcBGAsYHQ/w200-h200/1641511301841391-6.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Aventura",Estrenos Aventura
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144550
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/144550
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jfk4C0A1lSA/Ydd5lap43MI/AAAAAAAACeM/iChY2cwG1f4laEE7YGsb_qcIh5MPejoYwCNcBGAsYHQ/w200-h200/1641511316245178-3.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Ciencia Ficcion",Estrenos Ciencia Ficcion
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144551
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/144551
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-q6qobrR1_XA/Ydd5mQP3zzI/AAAAAAAACeQ/KX0qZrnBfUkDYmanj3OrIilEcp2ZhiAVgCNcBGAsYHQ/w200-h200/1641511319639596-2.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Comedia",Estrenos Comedia
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144552
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/144552
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RrmWhBeYl6U/YdnxiK2FZlI/AAAAAAAACe4/TKCJp6OjA4UROoJekpgft-JRIM8DwIS0wCNcBGAsYHQ/w200-h200/1641673092711216-0.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Disney",Estrenos Disney
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144553
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/144553
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RR3GZKjVOOg/Ydd5n5PzMTI/AAAAAAAACeY/eIgAx_ZpoOstcYoYbxlfbtiFTgoXkOfhQCNcBGAsYHQ/w200-h200/1641511325849517-0.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Familiar",Estrenos Familiar
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/144554
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/144554
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/71799/s71799_ll_h15_ab.png" group-title="Business" tvg-id="I353.71799.zap2it.com" tvg-name="Bloomberg TV - USA",Bloomberg TV - USA
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87311_dark_360w_270h.png" group-title="Business" tvg-id="I241.87311.schedulesdirect.org" tvg-name="El Financiero Bloomberg TV - Mexico", El Financiero Bloomberg TV - Mexico
@@ -303,7 +303,7 @@ https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Charles_Schwab_Corporation_logo.png" group-title="Business" tvg-id="SchwabNetwork.us" tvg-name="Schwab Network - USA",Schwab Network - USA
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59014_dark_360w_270h.png" group-title="Business" tvg-id="I714.59014.schedulesdirect.org" tvg-name="WOBI - Argentina", WOBI - Argentina
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26900
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/26900
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Yahoo%21_Finance_logo_2021.png" group-title="Business" tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance - USA",Yahoo! Finance - USA
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qhRvzfNw1D4fnxTb59t72lECX4fb3VZK6jEatP8rxx5z5SgfgWZyrdnvshs7a5lTtD8Rh9J08tk" group-title="Business" tvg-id="WorldKing.us" tvg-name="World King",World King
