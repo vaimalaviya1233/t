@@ -19,7 +19,7 @@ http://bantel.iptvperu.tv:1935/transcoder_t2/ESPN7_t2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/1200px-ESPN_Premium_logo.svg.png" group-title="Sports" tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium - Latin America",ESPN Premium - Latin America
 http://190.11.130.46/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25595_dark_360w_270h.png" group-title="Sports" tvg-id="I854.25595.schedulesdirect.org" tvg-name="ESPN Deportes - USA",ESPN Deportes - USA
-http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/212
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/528
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61704_dark_360w_270h.png" group-title="Sports" tvg-id="I303.61704.schedulesdirect.org" tvg-name="FOX Sports - Latin America",FOX Sports - Latin America
 http://190.11.130.46/mnp/fox_sport/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71328_dark_360w_270h.png" group-title="Sports" tvg-id="I305.71328.schedulesdirect.org" tvg-name="FOX Sports 2 - Latin America",FOX Sports 2 - Latin America
@@ -33,7 +33,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="Entertainment" tvg-id="I6.18955.schedulesdirect.org" tvg-name="A&E - Latin America",A&E - Latin America
 http://190.11.130.46/mnp/ae/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/51529/s51529_ll_h15_ab.png" group-title="Entertainment" tvg-id="I265.51529.zap2it.com" tvg-name="A&E - USA",A&E - USA
-http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/14927
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/212
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16496_dark_360w_270h.png" group-title="Entertainment" tvg-id="I659.16496.schedulesdirect.org" tvg-name="Adult Swim - Latin America",Adult Swim - Latin America
 http://45.179.164.30:8000/play/a0co/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90653_dark_360w_270h.png" group-title="Entertainment" tvg-id="I18.90852.schedulesdirect.org" tvg-name="AMC - Latin America",AMC - Latin America
@@ -107,19 +107,19 @@ http://190.11.130.46/mnp/warner/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="Entertainment" tvg-id="I346.16795.schedulesdirect.org" tvg-name="HBO - Latin America", HBO - Latin America
 http://190.11.130.46/mnp/hbo/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19548/s19548_ll_h15_aa.png" group-title="Entertainment" tvg-id="I501.19548.zap2it.com" tvg-name="HBO - East - USA", HBO - East - USA
-http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/31132
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/160
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19566/s19548_ll_h15_aa.png" group-title="Entertainment" tvg-id="I504.19566.zap2it.com" tvg-name="HBO - West - USA", HBO - West - USA
-http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/64773
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/177510
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entertainment" tvg-id="I348.80652.schedulesdirect.org" tvg-name="HBO 2 - Latin America", HBO 2 - Latin America
 http://170.254.18.106/HBO2/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entertainment" tvg-id="I632.68140.schedulesdirect.org" tvg-name="HBO 2 - West - USA", HBO 2 - West - USA
-http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/31133
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1085
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Entertainment" tvg-id="HBO PLUS" tvg-name="HBO+ - Latin America", HBO+ - Latin America
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="Entertainment" tvg-id="I350.34879.schedulesdirect.org" tvg-name="HBO Family - Latin America", HBO Family - Latin America
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16585/s16585_ll_h15_aa.png" group-title="Entertainment" tvg-id="I507.16585.zap2it.com" tvg-name="HBO Family - USA", HBO Family - USA
-http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/31134
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/157
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Entertainment" tvg-id="I367.80115.schedulesdirect.org" tvg-name="HBO Xtreme - Latin America", HBO Xtreme - Latin America
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="Entertainment" tvg-id="I362.68301.schedulesdirect.org" tvg-name="HBO Pop - Latin America", HBO Pop - Latin America
@@ -127,15 +127,15 @@ http://170.254.18.106/HBO_POP/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_dark_360w_270h.png" group-title="Entertainment" tvg-id="I365.80120.schedulesdirect.org" tvg-name="HBO Signature - Latin America", HBO Signature - Latin America
 http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59363/s59363_ll_h15_aa.png" group-title="Entertainment" tvg-id="I503.59363.zap2it.com" tvg-name="HBO Signature - USA", HBO Signature - USA
-http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/31161
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/156
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="Entertainment" tvg-id="HBOMundi.mx" tvg-name="HBO Mundi - Latin America", HBO Mundi - Latin America
 http://170.254.18.106/HBO_MUNDI/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59839/s59839_ll_h15_aa.png" group-title="Entertainment" tvg-id="I506.59839.zap2it.com" tvg-name="HBO Comedy - West - USA", HBO Comedy - West - USA
-http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/31149
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1087
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59845/s59845_ll_h15_aa.png" group-title="Entertainment" tvg-id="I509.59845.zap2it.com" tvg-name="HBO Zone - USA", HBO Zone - USA
-http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/31135
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/155
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59837/s24553_ll_h9_ab.png" group-title="Entertainment" tvg-id="I511.59837.zap2it.com" tvg-name="HBO - Latino - USA",HBO - Latino - USA
-http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/31131
+http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/177485
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="Entertainment" tvg-id="I685.122767.schedulesdirect.org" tvg-name="Universal Cinema - Latin America", Universal Cinema - Latin America
 http://201.159.113.219:49000/play/a05o
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121870_dark_360w_270h.png" group-title="Entertainment" tvg-id="I686.122769.schedulesdirect.org" tvg-name="Universal Comedy - Latin America", Universal Comedy - Latin America
@@ -183,11 +183,11 @@ https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FONDO-2-300x169.jpg" group-title="Entertainment" tvg-id="MXPrime.cl" tvg-name="MX Prime",MX Prime - Latin America
 https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Entertainment" tvg-id="I180.25788.schedulesdirect.org" tvg-name="Discovery en Español - USA",Discovery en Español - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61031
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/567
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58428/s99630_ll_h15_aa.png" group-title="Entertainment" tvg-id="I436.58428.zap2it.com" tvg-name="Discovery Familia - USA",Discovery Familia - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61064
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/253
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91588/s91588_ll_h15_ab.png" group-title="Entertainment" tvg-id="I410.91588.zap2it.com" tvg-name="NBC Universo - East - USA",NBC Universo - East - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/61036
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/329
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54437/s73245_ll_h15_ac.png" group-title="Entertainment" tvg-id="I47.1.54437.zap2it.com" tvg-name="Telemundo New York USA",Telemundo - New York - USA
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11118/s11118_ll_h15_ab.png" group-title="Entertainment" tvg-id="I270.11118.zap2it.com" tvg-name="Univision - New York - USA",Univision - New York - USA
@@ -199,7 +199,7 @@ https://live.field59.com/wapa/wapa1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15798_dark_360w_270h.png" group-title="Entertainment" tvg-id="I178.96307.schedulesdirect.org" tvg-name="Discovery Channel - Latin America",Discovery Channel - Latin America
 http://190.11.130.46/mnp/discovery/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11150/s11150_ll_h15_af.png" group-title="Entertainment" tvg-id="I278.11150.zap2it.com" tvg-name="Discovery Channel - USA",Discovery Channel - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1034
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/184
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48527_dark_360w_270h.png" group-title="Entertainment" tvg-id="I190.46610.schedulesdirect.org" tvg-name="Discovery Science - Latin America",Discovery Science - Latin America
 http://190.11.130.46/mnp/dsc_sci/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="Entertainment" tvg-id="I193.46608.schedulesdirect.org" tvg-name="Discovery Turbo - Latin America",Discovery Turbo - Latin America
@@ -293,7 +293,7 @@ https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87311_dark_360w_270h.png" group-title="Business" tvg-id="I241.87311.schedulesdirect.org" tvg-name="El Financiero Bloomberg TV - Mexico", El Financiero Bloomberg TV - Mexico
 https://d3mhf0ikztdylu.cloudfront.net/out/v1/817cf22a7bc24a778898407b3a2bfdb3/index.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58780/s58780_ll_h15_ab.png" group-title="Business" tvg-id="I355.58780.zap2it.com" tvg-name="CNBC - USA", CNBC - USA
-http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/4318
+http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/192
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58718/s58718_ll_h15_ac.png" group-title="Business" tvg-id="I359.58718.zap2it.com" tvg-name="Fox Business - USA", Fox Business - USA
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png" group-title="Business" tvg-id="Negocios.TV" tvg-name="Negocios TV - Spain", Negocios TV - Spain
