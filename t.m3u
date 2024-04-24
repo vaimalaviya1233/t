@@ -359,7 +359,7 @@ http://45.179.164.30:8000/play/a08l
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="Music" tvg-id="I432.65060.schedulesdirect.org" tvg-name="MTV 80s - Latin America",MTV 80s - Latin America
 http://201.159.113.219:49000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Music" tvg-id="MTV90s.uk" tvg-name="MTV 90s - Latin America", MTV 90s - Latin America
-http://163.172.210.95:8000/play/a059
+http://ip365.cx:80/live/marco1408/2318317575/400220315.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png" group-title="Music" tvg-id="I431.120767.schedulesdirect.org" tvg-name="MTV 00s - Latin America",MTV 00s - Latin America
 http://201.159.113.219:49000/play/a055/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11218/s11218_ll_h15_ac.png" group-title="Music" tvg-id="I335.11218.zap2it.com" tvg-name="VH1 - USA",VH1 - USA
