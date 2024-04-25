@@ -674,6 +674,8 @@ http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 https://videolatam.com:3841/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/radioenvivo//images/portalfoxmix-radio-logo-gran-tras.png" group-title="Music" tvg-id="Portalfoxmix.cl" tvg-name="Portalfoxmix - Chile", Portalfoxmix - Chile
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lastfm.freetls.fastly.net/i/u/ar0/d77e6d86a7b7433b99284f7ce71902d8.jpg" group-title="Music" tvg-id="TheClassicProject.cl" tvg-name="The Classic Project - Latin America", The Classic Project - Latin America
+https://nxt.plus:8443/sandragk/651120/227370
 #EXTINF:-1 radio="true" tvg-id="Latinurbano Radio" tvg-name="Latinurbano Radio" tvg-logo="https://latinurbano.com/logo.jpg" group-title="Radio",Latinurbano Radio
 http://radio.latinurbano.com/radio
 #EXTINF:-1 radio="true" tvg-id="DJ Pflow Radio" tvg-name="DJ Pflow Radio" tvg-logo="https://djpflow.com/logo.jpg" group-title="Radio",DJ Pflow Radio
