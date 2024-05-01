@@ -539,11 +539,11 @@ https://ythls.armelin.one/channel/UCha0QKR45iw7FCUQ3-1PnhQ.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Fjbaj5EjZrd0n3dLPT-do9j4rpt4aapi0msad-oXG2K4cQQvLTBB6ioLOiiBVZU3pXEI" group-title="Music", The Lot Radio
 https://mia-prod-catalyst-0.lp-playback.studio/hls/video+85c28sa2o8wppm58/0_1/index.m3u8?tkn=ea015f4adb038
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/230px-4Music_logo_2018.svg.png" group-title="Music" tvg-id="4Music.uk" tvg-name="4Music - UK",4Music - UK
-http://176.65.146.170:8013/play/a06v
+https://tinyurl.com/5b5k7znt/189871.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Kiss_Logo_Purple_2020.png" group-title="Music" tvg-id="KissTV.uk" tvg-name="Kiss TV - UK", Kiss TV - UK
-http://176.65.146.170:8013/play/a06w
+https://tinyurl.com/5b5k7znt/391299.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/The_Box_2013.png/200px-The_Box_2013.png" group-title="Music" tvg-id="TheBox.uk" tvg-name="The Box - UK", The Box - UK
-http://176.65.146.170:8013/play/a06u
+https://tinyurl.com/5b5k7znt/391329.ts
 #EXTINF:-1 tvg-logo="https://ibizaglobal.tv/wp-content//uploads/2015//07/logo_tv.png" group-title="Music" tvg-id="IbizaGlobalTV.es" tvg-name="Ibiza Global TV", Ibiza Global TV
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.dancestar.tv/images/logo.png" group-title="Music" tvg-id="DanceStarTV.us" tvg-name="DanceStar TV", DanceStar TV
