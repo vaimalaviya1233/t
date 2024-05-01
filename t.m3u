@@ -31,15 +31,15 @@ http://live1.cl.cdn.lla.vtrplay.com/tntsports3hdchi/vxfmt=dp/playlist.m3u8?devic
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32281/s32281_ll_h15_ad.png" group-title="Sports" tvg-id="I216.32281.zap2it.com" tvg-name="NBA - USA",NBA - USA
 http://41.205.93.154:80/NBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60316/s60316_ll_h15_ab.png" group-title="Sports" tvg-id="I217.60316.zap2it.com" tvg-name="Tennis Channel - USA",Tennis Channel - USA
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45474&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="Sports" tvg-id="I344.135377.schedulesdirect.org" tvg-name="DAZN F1 - Spain",DAZN F1 - Spain
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1650
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87578_dark_360w_270h.png" group-title="Sports" tvg-id="I1100.87578.schedulesdirect.org" tvg-name="SKY Sports F1 - UK",SKY Sports F1 - UK
-https://tinyurl.com/5b5k7znt/1196396.ts
+http://ua3.iptv.monster/play/9923/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61854/s61854_ll_h15_ab.png" group-title="Sports" tvg-id="I218.61854.zap2it.com" tvg-name="Golf Channel - USA",Golf Channel - USA
-https://tinyurl.com/mtrnc9yn/184
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45532&extension=ts
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87579_dark_360w_270h.png" group-title="Sports" tvg-id="I1106.87579.schedulesdirect.org" tvg-name="Sky Sports Golf - UK",Sky Sports Golf - UK
-https://tinyurl.com/5b5k7znt/391434.ts
+http://ua3.iptv.monster/play/924/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="Entertainment" tvg-id="I6.18955.schedulesdirect.org" tvg-name="A&E - Latin America",A&E - Latin America
 http://190.11.130.46/mnp/ae/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/51529/s51529_ll_h15_ab.png" group-title="Entertainment" tvg-id="I265.51529.zap2it.com" tvg-name="A&E - USA",A&E - USA
