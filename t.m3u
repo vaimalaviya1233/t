@@ -65,7 +65,7 @@ http://190.11.130.46/mnp/comedy/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81622_dark_360w_270h.png" group-title="Entertainment" tvg-id="I106.81622.schedulesdirect.org" tvg-name="DHE - Latin America",DHE - Latin America
 http://bantel.iptvperu.tv:1935/transcoderip/DHE_t2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" group-title="Entertainment" tvg-id="I285.106731.schedulesdirect.org" tvg-name="Film & Arts - Latin America",Film & Arts - Latin America
-http://190.11.130.46/mnp/filmsarts/output.mpd
+http://168.181.122.234:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png" group-title="Entertainment" tvg-id="I839.77617.schedulesdirect.org" tvg-name="FX - Latin America",FX - Latin America
 http://190.11.130.46/mnp/fx/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="Entertainment" tvg-id="I333.16298.schedulesdirect.org" tvg-name="Golden - Latin America",Golden - Latin America
