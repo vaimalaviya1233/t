@@ -77,7 +77,7 @@ http://45.179.164.30:8000/play/a07u/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Entertainment" tvg-id="I338.80805.schedulesdirect.org" tvg-name="Golden Premier 2 - Latin America",Golden Premier 2 - Latin America
 http://45.179.164.30:8000/play/a07v/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="Entertainment" tvg-id="I334.16423.schedulesdirect.org" tvg-name="Golden Edge - Latin America",Golden Edge - Latin America
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+http://181.78.64.71:16123/play/ch53
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="Entertainment" tvg-id="I444.18169.schedulesdirect.org" tvg-name="Multipremier - Latin America",Multipremier - Multipremier
 http://160.20.165.246:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="Entertainment" tvg-id="I918.106215.schedulesdirect.org" tvg-name="Paramount Network - Latin America",Paramount Network - Latin America
@@ -657,13 +657,13 @@ http://201.159.113.219:49000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47403_dark_360w_270h.png" group-title="Music" tvg-id="I274.47403.schedulesdirect.org" tvg-name="Exa TV - Latin America", Exa TV - Latin America
 http://live.detodotvplay.com:8080/CR6Z25a5pt/7weoJUPJm0/89344
 #EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2021/08/mi-musica-HITS.png" group-title="Music" tvg-id="" tvg-name="Mimusica Hits - Latin America",Mimusica Hits - Latin America
-http://191.97.60.193:10000/play/a032
+http://181.78.64.71:16123/play/ch56
 #EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicareggaeton.png" group-title="Music" tvg-id="" tvg-name="Mimusica Reggaeton - Latin America",Mimusica Reggaeton - Latin America
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicareggaeton_t1/chunks.m3u8
+http://181.78.64.71:16123/play/ch53
 #EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicaromantica.png" group-title="Music" tvg-id="" tvg-name="Mimusica Romantica - Latin America",Mimusica Romantica - Latin America
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicaromantica_t1/chunks.m3u8
+http://181.78.64.71:16123/play/ch54
 #EXTINF:-1 tvg-logo="https://cablemio.com/wp-content/uploads/2020/09/mimusicsalsa.png" group-title="Music" tvg-id="" tvg-name="Mimusica Salsa - Latin America",Mimusica Salsa - Latin America
-http://bantel.iptvperu.tv:1935/transcoderip/mimusicasalsa_t1/chunks.m3u8
+http://181.78.64.71:16123/play/ch55
 #EXTINF:-1 tvg-logo="https://audio.lamusica.com/artworks/5dcf310cf6344b771afa1717-xxxhdpi.jpg" group-title="Music" tvg-id="Zeta93.pr" tvg-name="Zeta 93 - Puerto Rico",Zeta 93 - Puerto Rico
 https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lax.fm/portal/wp-content/themes/Backstreet/images/footer-logo.png" group-title="Music" tvg-id="LaX.pr" tvg-name="La-X - Puerto Rico",La-X - Puerto Rico
