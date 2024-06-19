@@ -123,7 +123,7 @@ http://190.11.130.46/mnp/warner/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png" group-title="Entertainment" tvg-id="I346.16795.schedulesdirect.org" tvg-name="HBO - Latin America", HBO - Latin America
 http://190.11.130.46/mnp/hbo/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19548/s19548_ll_h15_aa.png" group-title="Entertainment" tvg-id="I501.19548.zap2it.com" tvg-name="HBO - East - USA", HBO - East - USA
-http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/160
+http://143.244.60.97/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/19566/s19548_ll_h15_aa.png" group-title="Entertainment" tvg-id="I504.19566.zap2it.com" tvg-name="HBO - West - USA", HBO - West - USA
 http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/177510
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entertainment" tvg-id="I348.80652.schedulesdirect.org" tvg-name="HBO 2 - Latin America", HBO 2 - Latin America
@@ -675,11 +675,13 @@ https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lax.fm/portal/wp-content/themes/Backstreet/images/footer-logo.png" group-title="Music" tvg-id="LaX.pr" tvg-name="La-X - Puerto Rico",La-X - Puerto Rico
 https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Musik 104.5 FM Caracas" tvg-name="Musik 104.5 FM Caracas" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 104.5 FM Caracas - Venezuela
-https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.142.98.225/6743abc7b63e7a42474c7cdf28e1b27005af4b72a0b8d102b976270f33f52556/supertrendy2/supertrendy2/chunks.m3u8
+https://edge.streann.com/supertrendy2/supertrendy2/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3MTg4MzExNTUsInJpZCI6IjVhZDczMDJiMmNkYzJkZTAxMjlmNzcyNCIsImtleSI6ImtleTEiLCJjaWQiOiI1YWQ3MzNmMzJjZGNhZTIwOTJjZTJlYjgifQ.VRd_0AQUvjVuiYYtZgDygIb0MN6Kl1Bn5jozxAOO8cY
 #EXTINF:-1 tvg-id="Musik 101.9 FM Valencia" tvg-name="Musik 101.9 FM Valencia" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/wzsjvcwkufyk.png" group-title="Music",Musik 101.9 FM Valencia - Venezuela
-https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.142.98.225/422d179518f64b12a54605412c970f02af58b6a4990bb79b7ada91f4ac043103/supertrendy1/supertrendy1/chunks.m3u8
+https://edge.streann.com/supertrendy1/supertrendy1/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3MTg4MzEzMzIsInJpZCI6IjVhZDczMDJiMmNkYzJkZTAxMjlmNzcyNCIsImtleSI6ImtleTEiLCJjaWQiOiI1YWQ3MzNkMjJjZGNhZTIwOTJjZTJlYTAifQ.5EqHqNP4c1hisoHJfJifX9h-OD6l_gC92fVP29l5iDM
 #EXTINF:-1 tvg-id="Pop 92.3 FM Valencia" tvg-name="Pop 92.3 FM Valencia" tvg-logo="https://cdn-radiotime-logos.tunein.com/s157743g.png" group-title="Music",Pop 92.3 FM Valencia - Venezuela
-https://streannlivesupertrendy.cachefly.net/Protected/sp=1;dirmatch=true;ip=190.142.98.225/a39672dcb191bd50922a00ca46243fdf66b9dfe05bd2badf57d5b885867f5065/supertrendy3/supertrendy3/chunks.m3u8
+https://edge.streann.com/supertrendy3/supertrendy3/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE4Ni4xNC4yNDMuMzAiLCJleHAiOjE3MTg4MzE1MjEsInJpZCI6IjVhZDczMDJiMmNkYzJkZTAxMjlmNzcyNCIsImtleSI6ImtleTEiLCJjaWQiOiI1YWQ3MzIxMzJjZGMyZGUwMTI5Zjc3ZDcifQ.rTAaLelEnV0h9EsoE4M-LIglKqyVf0VxjPkcYFV4vbY
+#EXTINF:-1 tvg-id="Pop 92.3 FM Valencia" tvg-name="Pop 92.3 FM Valencia" tvg-logo="https://supertrendy.net/wp-content/uploads/2023/09/LOGO-RUMBERA-MODIFICADO-01-300x180.png" group-title="Music",Rumbera 107.9 FM Curacao
+https://edge.streann.com/rumberacur/rumberacur_1/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3MTg4MzE2MzYsInJpZCI6IjVhZDczMDJiMmNkYzJkZTAxMjlmNzcyNCIsImtleSI6ImtleTEiLCJjaWQiOiI2NWU5ZDQ3NWU0YjAzNzZlYzBmMDA2ZjIifQ.NlQPfqaNqzUNoNVN7VDGT0Mmu-OKF4uqXfIcOmeW2do
 #EXTINF:-1 tvg-id="Mix Music Channel" tvg-name="Mix Music Channel" tvg-logo="https://supertrendy.net/wp-content/uploads/2022/08/logo-mix-aprobado-03.png" group-title="Music",Mix Music Channel - Venezuela
 https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tropicalmusictv.com/wp-content/uploads/2022/07/tropical_music_logo_red-155x68px.png" group-title="Music" tvg-id="TropicalMusicTV.us" tvg-name="Tropical Music TV - Latin America", Tropical Music TV - Latin America
