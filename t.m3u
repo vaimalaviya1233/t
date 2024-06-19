@@ -30,8 +30,10 @@ http://190.11.130.46/mnp/fox_sport3/output.mpd
 http://45.179.164.30:8000/play/a0cr/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32281/s32281_ll_h15_ad.png" group-title="Sports" tvg-id="I216.32281.zap2it.com" tvg-name="NBA - USA",NBA - USA
 http://41.205.93.154:80/NBA/index.m3u8
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62081/s62081_ll_h15_ab.png" group-title="Sports" tvg-id="I213.62081.zap2it.com" tvg-name="MLB Network - USA",MLB Network - USA
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60316/s60316_ll_h15_ab.png" group-title="Sports" tvg-id="I217.60316.zap2it.com" tvg-name="Tennis Channel - USA",Tennis Channel - USA
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45474&extension=ts
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000529G_20220323T071122SQUARE.png_20220323071125.png" group-title="Sports" tvg-id="GBBA33000529G" tvg-name="Tennis Channel International - UK",Tennis Channel International - UK
 https://i.mjh.nz/SamsungTVPlus/GBBA33000529G.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="Sports" tvg-id="ESBD2600001ME" tvg-name="Tennis Channel - Spain",Tennis Channel - Spain
@@ -41,7 +43,7 @@ http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1650
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87578_dark_360w_270h.png" group-title="Sports" tvg-id="I1100.87578.schedulesdirect.org" tvg-name="SKY Sports F1 - UK",SKY Sports F1 - UK
 http://ua3.iptv.monster/play/9923/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61854/s61854_ll_h15_ab.png" group-title="Sports" tvg-id="I218.61854.zap2it.com" tvg-name="Golf Channel - USA",Golf Channel - USA
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45532&extension=ts
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87579_dark_360w_270h.png" group-title="Sports" tvg-id="I1106.87579.schedulesdirect.org" tvg-name="Sky Sports Golf - UK",Sky Sports Golf - UK
 http://ua3.iptv.monster/play/924/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="Entertainment" tvg-id="I6.18955.schedulesdirect.org" tvg-name="A&E - Latin America",A&E - Latin America
@@ -126,14 +128,14 @@ http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/160
 http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/177510
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entertainment" tvg-id="I348.80652.schedulesdirect.org" tvg-name="HBO 2 - Latin America", HBO 2 - Latin America
 http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entertainment" tvg-id="I632.68140.schedulesdirect.org" tvg-name="HBO 2 - West - USA", HBO 2 - West - USA
-http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1085
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10241/s68140_ll_h15_ad.png" group-title="Entertainment" tvg-id="I502.10241.zap2it.com" tvg-name="HBO 2 - East - USA", HBO 2 - East - USA
+http://fl2.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/512px-Logohboplus2019.svg.png" group-title="Entertainment" tvg-id="HBO PLUS" tvg-name="HBO+ - Latin America", HBO+ - Latin America
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png" group-title="Entertainment" tvg-id="I350.34879.schedulesdirect.org" tvg-name="HBO Family - Latin America", HBO Family - Latin America
 http://170.254.18.106/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16585/s16585_ll_h15_aa.png" group-title="Entertainment" tvg-id="I507.16585.zap2it.com" tvg-name="HBO Family - USA", HBO Family - USA
-http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/157
+http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Entertainment" tvg-id="I367.80115.schedulesdirect.org" tvg-name="HBO Xtreme - Latin America", HBO Xtreme - Latin America
 http://170.254.18.106/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" group-title="Entertainment" tvg-id="I362.68301.schedulesdirect.org" tvg-name="HBO Pop - Latin America", HBO Pop - Latin America
@@ -144,10 +146,10 @@ http://170.254.18.106/HBO_SIG/index.m3u8
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/156
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="Entertainment" tvg-id="HBOMundi.mx" tvg-name="HBO Mundi - Latin America", HBO Mundi - Latin America
 http://170.254.18.106/HBO_MUNDI/index.m3u8
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59839/s59839_ll_h15_aa.png" group-title="Entertainment" tvg-id="I506.59839.zap2it.com" tvg-name="HBO Comedy - West - USA", HBO Comedy - West - USA
-http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1087
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59839/s59839_ll_h15_aa.png" group-title="Entertainment" tvg-id="I506.59839.zap2it.com" tvg-name="HBO Comedy - East - USA", HBO Comedy - East - USA
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59845/s59845_ll_h15_aa.png" group-title="Entertainment" tvg-id="I509.59845.zap2it.com" tvg-name="HBO Zone - USA", HBO Zone - USA
-http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/155
+http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59837/s24553_ll_h9_ab.png" group-title="Entertainment" tvg-id="I511.59837.zap2it.com" tvg-name="HBO - Latino - USA",HBO - Latino - USA
 http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/177485
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121869_dark_360w_270h.png" group-title="Entertainment" tvg-id="I685.122767.schedulesdirect.org" tvg-name="Universal Cinema - Latin America", Universal Cinema - Latin America
@@ -163,17 +165,17 @@ http://201.159.113.219:49000/play/a056
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s121866_dark_360w_270h.png" group-title="Entertainment" tvg-id="I688.122761.schedulesdirect.org" tvg-name="Universal Premiere West - Latin America",Universal Premiere - West - Latin America
 http://201.159.113.219:49000/play/a057
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34941/s34941_ll_h15_ac.png" group-title="Entertainment" tvg-id="I525.34941.zap2it.com" tvg-name="Starz - USA",Starz - USA
-http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/280
+http://fl2.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/67236/s67236_ll_h15_ac.png" group-title="Entertainment" tvg-id="I531.67236.zap2it.com" tvg-name="Starz Cinema - USA",Starz Cinema - USA
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1250
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57569/s57569_ll_h15_ac.png" group-title="Entertainment" tvg-id="I528.57569.zap2it.com" tvg-name="Starz Comedy - USA",Starz Comedy - USA
-http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1653
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57573/s57573_ll_h15_ab.png" group-title="Entertainment" tvg-id="I529.57573.zap2it.com" tvg-name="Starz Edge - USA",Starz Edge - USA
-http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/444
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/36225/s36225_ll_h15_ac.png" group-title="Entertainment" tvg-id="I535.36225.zap2it.com" tvg-name="Starz Encore - USA",Starz Encore - USA
-http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1468
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14871/s14871_ll_h15_ab.png" group-title="Entertainment" tvg-id="I541.14871.zap2it.com" tvg-name="Starz Encore Action - USA",Starz Encore Action - USA
-http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1469
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14870/s14870_ll_h15_ac.png" group-title="Entertainment" tvg-id="I540.14870.zap2it.com" tvg-name="Starz Encore Black - USA",Starz Encore Black - USA
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1470
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14764/s14764_ll_h15_ac.png" group-title="Entertainment" tvg-id="I537.14764.zap2it.com" tvg-name="Starz Encore Classic - USA",Starz Encore Classic - USA
@@ -183,7 +185,7 @@ http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1472
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14766/s14766_ll_h15_ab.png" group-title="Entertainment" tvg-id="I539.14766.zap2it.com" tvg-name="Starz Encore Suspense - USA",Starz Encore Suspense - USA
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1249
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/102906/s102906_ll_h15_ab.png" group-title="Entertainment" tvg-id="I538.102906.zap2it.com" tvg-name="Starz Encore Westerns - USA",Starz Encore Westerns - USA
-http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/649
+http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16833/s16833_ll_h15_ac.png" group-title="Entertainment" tvg-id="I530.16833.zap2it.com" tvg-name="Starz in Black - USA",Starz in Black - USA
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/397
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57581/s57581_ll_h15_ab.png" group-title="Entertainment" tvg-id="I527.57581.zap2it.com" tvg-name="Starz Kids & Family - USA",Starz Kids & Family - USA
@@ -353,15 +355,15 @@ http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/114
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Club_MTV_2021_logo.svg/800px-Club_MTV_2021_logo.svg.png" group-title="Music" tvg-id="ClubMTVEurope.uk" tvg-name="Club MTV - Europe", Club MTV - Europe
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/52334
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16361/s16361_ll_h15_aa.png" group-title="Music" tvg-id="I332.16361.zap2it.com" tvg-name="MTV 2 - USA", MTV 2 - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1077
+https://fl2.moveonjoy.com/MTV_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/1200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png" group-title="Music" tvg-id="MTVU.us" tvg-name="MTVU - USA", MTVU - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1078
+https://fl2.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49141/s49141_ll_h15_ab.png" group-title="Music" tvg-id="I572.49141.zap2it.com" tvg-name="MTV Live - USA", MTV Live - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1076
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66419_dark_360w_270h.png" group-title="Music" tvg-id="I436.66419.schedulesdirect.org" tvg-name="MTV Live - Latin America", MTV Live - Latin America
 http://201.159.113.219:49000/play/a054/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/22561/s22561_ll_h15_ad.png" group-title="Music" tvg-id="I336.22561.zap2it.com" tvg-name="MTV Classic- USA", MTV Classic - USA
-http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1074
+https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67787_dark_360w_270h.png" group-title="Music" tvg-id="I435.67787.schedulesdirect.org" tvg-name="MTV Hits - Latin America", MTV Hits - Latin America
 http://45.179.164.30:8000/play/a08l
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png" group-title="Music" tvg-id="I432.65060.schedulesdirect.org" tvg-name="MTV 80s - Latin America",MTV 80s - Latin America
@@ -427,11 +429,11 @@ http://170.254.18.106/BET/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1200px-BET_Logo.svg.png" group-title="Music" tvg-id="BETWest.us" tvg-name="BET - West - USA",BET - West - USA
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/1011
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14897/s14897_ll_h15_ac.png" group-title="Music" tvg-id="I330.14897.zap2it.com" tvg-name="BET Her - East - USA",BET Her - East - USA
-http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/203
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/30419/s30419_ll_h15_ac.png" group-title="Music" tvg-id="I1633.30419.zap2it.com" tvg-name="BET Jams - USA", BET Jams - USA
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/950
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png" group-title="Music" tvg-id="BETSoul.us" tvg-name="BET Soul - USA", BET Soul - USA
-http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/951
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/83098/s83098_ll_h15_ac.png" group-title="Music" tvg-id="I384.83098.zap2it.com" tvg-name="Revolt Music - USA", Revolt Music - USA
 http://143.244.60.30/REVOLT/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/83098/s83098_ll_h15_ac.png" group-title="Music" tvg-id="Revolt.us" tvg-name="Revolt - USA", Revolt - USA
