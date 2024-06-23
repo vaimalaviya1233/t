@@ -38,6 +38,8 @@ http://143.244.60.97/TENNIS_CHANNEL/index.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBA33000529G.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="Sports" tvg-id="ESBD2600001ME" tvg-name="Tennis Channel - Spain",Tennis Channel - Spain
 https://i.mjh.nz/SamsungTVPlus/ESBD2600001ME.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600001QL_20231114T233515SQUARE.png_20231114233516.png" group-title="Sports" tvg-id="USBC600001QL" tvg-name="T2 - USA",T2 - USA
+https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="Sports" tvg-id="I344.135377.schedulesdirect.org" tvg-name="DAZN F1 - Spain",DAZN F1 - Spain
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1650
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87578_dark_360w_270h.png" group-title="Sports" tvg-id="I1100.87578.schedulesdirect.org" tvg-name="SKY Sports F1 - UK",SKY Sports F1 - UK
@@ -204,8 +206,10 @@ http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/567
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/253
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91588/s91588_ll_h15_ab.png" group-title="Entertainment" tvg-id="I410.91588.zap2it.com" tvg-name="NBC Universo - East - USA",NBC Universo - East - USA
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/329
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54437/s73245_ll_h15_ac.png" group-title="Entertainment" tvg-id="I47.1.54437.zap2it.com" tvg-name="Telemundo New York USA",Telemundo - New York - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54437/s73245_ll_h15_ac.png" group-title="Entertainment" tvg-id="I47.1.54437.zap2it.com" tvg-name="Telemundo - New York, USA",Telemundo - New York, USA
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400020H7_20230322T000014SQUARE.png_20230322000014.png" group-title="Entertainment" tvg-id="USBC4400020H7" tvg-name="Telemundo - California, USA",Telemundo - California, USA
+https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11118/s11118_ll_h15_ab.png" group-title="Entertainment" tvg-id="I270.11118.zap2it.com" tvg-name="Univision - New York - USA",Univision - New York - USA
 https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58698/s58698_ll_h9_aa.png" group-title="Entertainment" tvg-id="I405.58698.zap2it.com" tvg-name="Mega TV - USA",Mega TV - USA
@@ -304,6 +308,10 @@ http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/144552
 http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/144553
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-RR3GZKjVOOg/Ydd5n5PzMTI/AAAAAAAACeY/eIgAx_ZpoOstcYoYbxlfbtiFTgoXkOfhQCNcBGAsYHQ/w200-h200/1641511325849517-0.png" group-title="24/7" tvg-id="" tvg-name="Estrenos Familiar",Estrenos Familiar
 http://tv.proyectox.vip:8080/ECU3320010025/WsTY11bPHq/144554
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kLSPm0SCJPl82Mlf4lblDuSHz-U1dEgyu36cHxxHfQFQ" group-title="24/7" tvg-id="HugoOneStreams.us" tvg-name="Hugo One Streams",Hugo One Streams
+https://ythls.armelin.one/channel/UCaaPyamj-fpwgI98YARzT7g.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/F7zkYUveNesCqK8PjLoPsR3Ka-Yp8rovytl169UsvdthiFwG5DZD3GA9723a7ovOPFW8w0M4" group-title="24/7" tvg-id="VideogameographY.us" tvg-name="VideogameographY",VideogameographY
+https://ythls.armelin.one/channel/UCYFhAnwX3EIU8rQrEkSUzgw.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/71799/s71799_ll_h15_ab.png" group-title="Business" tvg-id="I353.71799.zap2it.com" tvg-name="Bloomberg TV - USA",Bloomberg TV - USA
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/71799/s71799_ll_h15_ab.png" group-title="Business" tvg-id="BloombergTVPlus.us" tvg-name="Bloomberg TV+ - USA",Bloomberg TV+ - USA
@@ -338,11 +346,11 @@ https://ythls.armelin.one/channel/UCjMkzpMcy8Bq_AkmlWrOhCA.m3u8
 https://ythls.armelin.one/channel/UCz7eou3uwIXXwpqKLiaVDIg.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/myWRl7G4T85G178EocIYsiTyXMnVsGjR2WBdVPKcte1Lpcjm0ILtQUObRv81nvpmq21o8UUj" group-title="Business" tvg-id="WaliBabaFx.us" tvg-name="WaliBabaFx",WaliBabaFx
 https://ythls.armelin.one/channel/UC07Jnj8JWt7eTkr-AmTeKbw.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/hz75k3yYMVljBb72PViZutgg8KB3a0_o46UutTL1DMAnKoVhdnt62gssdUKB6M9bebqOJaoF" group-title="Business" tvg-id="MSBFX.us" tvg-name="MSB FX",MSB FX
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/G-k5embCnaFvjGfeV05EAdNOifUQxnrVXvW7b8GQOTRPkHy67TFf4eSoZ4AFixhbEA0Bt9QM" group-title="Business" tvg-id="MSBFX.us" tvg-name="MSB FX",MSB FX
 https://ythls.armelin.one/channel/UCILkdq3pCkrab38ehzzyXTA.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/klGcnmcntQj58ajh8Og-ALl8-iOWnTz-01hDmey-vH8imWUUSNZ07dImjo6JWIWmBEe-pXRWrw" group-title="Business" tvg-id="Wix9ine.us" tvg-name="Wix9ine",Wix9ine
 https://ythls.armelin.one/channel/UCM7YyUa7jflvMCd3e5FetfQ.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Xg_RfJNJDYdIPguOXhCxXg1822wSXA8kMdCcExfZX1-Mclzg5SV_t7eFKJ2GoMsnZVBkrXQnvA" group-title="Business" tvg-id="HedgingMastermind.us" tvg-name="Hedging Mastermind",Hedging Mastermind
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/CQ42EdrGXaCqSM7fnolXkfEU5iD81PoMnXv7yVXK-nsYcLQH7OxKqDt_PumaqScd3VV6HODKgQ" group-title="Business" tvg-id="HedgingMastermind.us" tvg-name="Hedging Mastermind",Hedging Mastermind
 https://ythls.armelin.one/channel/UCwTpGtxskAGukzfQ4qdXzxg.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/85-UGHZpuqq2lg-PS6UVMQzHo-qlBDCxsrav-vt8smQg2ew9r5ivaIDE-iRF28gMu1wnhpmV" group-title="Business" tvg-id="BitcoinLIVE.us" tvg-name="Bitcoin LIVE",Bitcoin LIVE
 https://ythls.armelin.one/channel/UCuQtM8OfHpOMp7TimkLOcTg.m3u8
