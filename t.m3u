@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10179/s10179_ll_h15_aa.png" group-title="Sports" tvg-id="I253.110964.schedulesdirect.org" tvg-name="ESPN - Latin America",ESPN - Latin America
-http://190.11.130.46/mnp/espn/output.mpd
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Sports" tvg-id="I206.10179.zap2it.com" tvg-name="ESPN - USA",ESPN - USA
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Sports" tvg-id="I257.96876.schedulesdirect.org" tvg-name="ESPN 2 - Latin America",ESPN 2 - Latin America
 http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Sports" tvg-id="I264.79049.schedulesdirect.org" tvg-name="ESPN 3 - Latin America",ESPN 3 - Latin America
-http://190.11.130.46/mnp/espn3/output.mpd
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65930_dark_360w_270h.png" group-title="Sports" tvg-id="I261.121144.schedulesdirect.org" tvg-name="ESPN 4 - Latin America",ESPN 4 - Latin America
 http://190.11.130.46/mnp/espn_extra/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="Sports" tvg-id="ESPN4.uy" tvg-name="ESPN 5 - Latin America",ESPN 5 - Latin America
