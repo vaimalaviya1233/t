@@ -100,6 +100,8 @@ http://45.179.164.30:8000/play/a07u/index.m3u8
 http://168.181.122.234:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16423_dark_360w_270h.png" group-title="Entertainment" tvg-id="I334.16423.schedulesdirect.org" tvg-name="Golden Edge - Latin America",Golden Edge - Latin America
 http://181.78.64.71:16123/play/ch47
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png" group-title="Entertainment" tvg-id="I406.90682.schedulesdirect.org" tvg-name="Lifetime - Latin America",Lifetime - Latin America
+http://190.11.130.46/mnp/lifetime/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18169_dark_360w_270h.png" group-title="Entertainment" tvg-id="I444.18169.schedulesdirect.org" tvg-name="Multipremier - Latin America",Multipremier - Multipremier
 http://160.20.165.246:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106215_dark_360w_270h.png" group-title="Entertainment" tvg-id="I918.106215.schedulesdirect.org" tvg-name="Paramount Network - Latin America",Paramount Network - Latin America
