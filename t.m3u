@@ -283,13 +283,13 @@ http://170.254.18.106/HISTORY2/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="Entertainment" tvg-id="I454.88533.schedulesdirect.org" tvg-name="National Geographic - Latin America",National Geographic - Latin America
 http://190.11.130.46/mnp/natgeohd/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="Entertainment" tvg-id="I22.96445.schedulesdirect.org" tvg-name="Animal Planet - Latin America",Animal Planet - Latin America
-http://181.224.64.2:89/animalplanethd/manifest.m3u8
+http://live1.cl.cdn.lla.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57394/s57394_ll_h9_ad.png" group-title="Entertainment" tvg-id="I282.57394.zap2it.com" tvg-name="Animal Planet - USA",Animal Planet - USA
 http://143.244.60.97/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12574/s12574_ll_h15_ab.png" group-title="Entertainment" tvg-id="I231.12574.zap2it.com" tvg-name="Food Network - USA",Food Network - USA
 http://143.244.60.97/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1280px-DreamWorks_Channel_Logo.svg.png" group-title="Entertainment" tvg-id="DreamWorks" tvg-name="DreamWorks - Latin America",DreamWorks - Latin America
-http://bantel.iptvperu.tv:1935/transcoderip/dreamworkds_t5.stream/chunks.m3u8
+http://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" group-title="Entertainment" tvg-id="I653.63109.schedulesdirect.org" tvg-name="Tooncast - Latin America",Tooncast - Latin America
 http://190.11.130.46/mnp/tooncast/output.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="24/7" tvg-id="" tvg-name="The Simpsons S01-S20 - Latin America",The Simpsons S01-S20 - Latin America
