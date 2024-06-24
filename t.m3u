@@ -117,7 +117,7 @@ http://190.11.130.46/mnp/space/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="Entertainment" tvg-id="I209.15688.schedulesdirect.org" tvg-name="Star Channel - Latin America",Star Channel - Latin America
 http://168.181.122.234:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90605_dark_360w_270h.png" group-title="Entertainment" tvg-id="I618.90605.schedulesdirect.org" tvg-name="Studio Universal - Latin America",Studio Universal - Latin America
-http://38.41.8.1:8000/play/a01y
+http://live1.cl.cdn.lla.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58623/s58623_ll_h15_ae.png" group-title="Entertainment" tvg-id="I244.58623.zap2it.com" tvg-name="SYFY - USA",SYFY - USA
 http://143.244.60.97/SYFY/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11867/s11867_ll_h15_ac.png" group-title="Entertainment" tvg-id="I247.11867.zap2it.com" tvg-name="TBS - USA",TBS - USA
