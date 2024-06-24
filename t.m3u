@@ -165,7 +165,7 @@ http://190.11.130.46/mnp/hbosig/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59363/s59363_ll_h15_aa.png" group-title="Entertainment" tvg-id="I503.59363.zap2it.com" tvg-name="HBO Signature - USA", HBO Signature - USA
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/156
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png" group-title="Entertainment" tvg-id="HBOMundi.mx" tvg-name="HBO Mundi - Latin America", HBO Mundi - Latin America
-http://170.254.18.106/HBO_MUNDI/index.m3u8
+http://live1.cl.cdn.lla.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59839/s59839_ll_h15_aa.png" group-title="Entertainment" tvg-id="I506.59839.zap2it.com" tvg-name="HBO Comedy - East - USA", HBO Comedy - East - USA
 http://143.244.60.97/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59845/s59845_ll_h15_aa.png" group-title="Entertainment" tvg-id="I509.59845.zap2it.com" tvg-name="HBO Zone - USA", HBO Zone - USA
