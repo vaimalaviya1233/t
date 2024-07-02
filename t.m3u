@@ -5,7 +5,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png" group-title="Sports" tvg-id="I206.10179.zap2it.com" tvg-name="ESPN - USA",ESPN - USA
 http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="Sports" tvg-id="I257.96876.schedulesdirect.org" tvg-name="ESPN 2 - Latin America",ESPN 2 - Latin America
-http://45.179.164.30:8000/play/a055/index.m3u8
+http://181.78.64.71:16123/play/ch17
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/45507/s45507_ll_h15_aa.png" group-title="Sports" tvg-id="I209.45507.zap2it.com" tvg-name="ESPN 2 - USA",ESPN 2 - USA
 http://143.244.60.97/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73833_dark_360w_270h.png" group-title="Sports" tvg-id="I264.79049.schedulesdirect.org" tvg-name="ESPN 3 - Latin America",ESPN 3 - Latin America
@@ -105,7 +105,7 @@ http://143.244.60.97/FXX/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50709_dark_360w_270h.png" group-title="Entertainment" tvg-id="I333.16298.schedulesdirect.org" tvg-name="Golden - Latin America",Golden - Latin America
 http://45.179.164.30:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68317_dark_360w_270h.png" group-title="Entertainment" tvg-id="I337.68317.schedulesdirect.org" tvg-name="Golden Plus - Latin America",Golden Plus - Latin America
-http://45.179.164.30:8000/play/a00f/index.m3u8
+http://181.78.64.71:16123/play/ch46
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Entertainment" tvg-id="I339.80804.schedulesdirect.org" tvg-name="Golden Premier - Latin America",Golden Premier - Latin America
 http://45.179.164.30:8000/play/a07u/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80596_dark_360w_270h.png" group-title="Entertainment" tvg-id="I338.80805.schedulesdirect.org" tvg-name="Golden Premier 2 - Latin America",Golden Premier 2 - Latin America
@@ -243,11 +243,11 @@ https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91588/s91588_ll_h15_ab.png" group-title="Entertainment" tvg-id="I410.91588.zap2it.com" tvg-name="NBC Universo - East - USA",NBC Universo - East - USA
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/329
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/54437/s73245_ll_h15_ac.png" group-title="Entertainment" tvg-id="I47.1.54437.zap2it.com" tvg-name="Telemundo - New York, USA",Telemundo - New York, USA
-http://190.11.130.46/mnp/telemundo/output.mpd
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400020H7_20230322T000014SQUARE.png_20230322000014.png" group-title="Entertainment" tvg-id="USBC4400020H7" tvg-name="Telemundo - California, USA",Telemundo - California, USA
-https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8
+https://jmp2.uk/SamsungTVPlus/USBC4400020H7.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11118/s11118_ll_h15_ab.png" group-title="Entertainment" tvg-id="I270.11118.zap2it.com" tvg-name="Univision - New York - USA",Univision - New York - USA
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=hd&.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58698/s58698_ll_h9_aa.png" group-title="Entertainment" tvg-id="I405.58698.zap2it.com" tvg-name="Mega TV - USA",Mega TV - USA
 https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/44322/s63389_ll_h15_ac.png" group-title="Entertainment" tvg-id="I414.44322.zap2it.com" tvg-name="WAPA - Puerto Rico",WAPA - Puerto Rico
@@ -273,7 +273,7 @@ http://45.179.164.30:8000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="Entertainment" tvg-id="I191.65940.schedulesdirect.org" tvg-name="Discovery Theater - Latin America",Discovery Theater - Latin America
 http://45.179.164.30:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25743_dark_360w_270h.png" group-title="Entertainment" tvg-id="I382.25793.schedulesdirect.org" tvg-name="Investigation Discovery - Latin America",Investigation Discovery - Latin America
-http://45.179.164.30:8000/play/a0cn/index.m3u8
+http://181.78.64.71:16123/play/ch23
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16615/s16615_ll_h15_ad.png" group-title="Entertainment" tvg-id="I285.16615.zap2it.com" tvg-name="Investigation Discovery - USA",Investigation Discovery - USA
 http://143.244.60.97/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="Entertainment" tvg-id="I182.97928.schedulesdirect.org" tvg-name="Discovery Home & Health - Latin America",Discovery Home & Health - Latin America
@@ -298,6 +298,8 @@ http://190.11.130.46/mnp/natgeohd/output.mpd
 http://live1.cl.cdn.lla.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/57394/s57394_ll_h9_ad.png" group-title="Entertainment" tvg-id="I282.57394.zap2it.com" tvg-name="Animal Planet - USA",Animal Planet - USA
 http://143.244.60.97/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12574/s12574_ll_h15_ab.png" group-title="Entertainment" tvg-id="I231.12574.zap2it.com" tvg-name="Food Network - Latin America",Food Network - Latin America
+http://181.78.64.71:16123/play/ch28
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/12574/s12574_ll_h15_ab.png" group-title="Entertainment" tvg-id="I231.12574.zap2it.com" tvg-name="Food Network - USA",Food Network - USA
 http://143.244.60.97/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1280px-DreamWorks_Channel_Logo.svg.png" group-title="Entertainment" tvg-id="DreamWorks" tvg-name="DreamWorks - Latin America",DreamWorks - Latin America
