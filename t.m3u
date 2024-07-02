@@ -43,11 +43,11 @@ http://143.244.60.97/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60316/s60316_ll_h15_ab.png" group-title="Sports" tvg-id="I217.60316.zap2it.com" tvg-name="Tennis Channel - USA",Tennis Channel - USA
 http://143.244.60.97/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000529G_20220323T071122SQUARE.png_20220323071125.png" group-title="Sports" tvg-id="GBBA33000529G" tvg-name="Tennis Channel International - UK",Tennis Channel International - UK
-https://i.mjh.nz/SamsungTVPlus/GBBA33000529G.m3u8
+https://jmp2.uk/SamsungTVPlus/GBBA33000529G.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2600001ME_20230809T053838SQUARE.png_20230809053839.png" group-title="Sports" tvg-id="ESBD2600001ME" tvg-name="Tennis Channel - Spain",Tennis Channel - Spain
-https://i.mjh.nz/SamsungTVPlus/ESBD2600001ME.m3u8
+https://jmp2.uk/SamsungTVPlus/ESBD2600001ME.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600001QL_20231114T233515SQUARE.png_20231114233516.png" group-title="Sports" tvg-id="USBC600001QL" tvg-name="T2 - USA",T2 - USA
-https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
+https://jmp2.uk/SamsungTVPlus/USBC600001QL.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1200px-DAZN_F1_logo.svg.png" group-title="Sports" tvg-id="I344.135377.schedulesdirect.org" tvg-name="DAZN F1 - Spain",DAZN F1 - Spain
 http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/1650
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87578_dark_360w_270h.png" group-title="Sports" tvg-id="I1100.87578.schedulesdirect.org" tvg-name="SKY Sports F1 - UK",SKY Sports F1 - UK
