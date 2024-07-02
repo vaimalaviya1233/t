@@ -34,8 +34,20 @@ http://190.11.130.46/mnp/fox_sport2/output.mpd
 http://190.11.130.46/mnp/fox_sport3/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82450_dark_360w_270h.png" group-title="Sports" tvg-id="I1263.82450.schedulesdirect.org" tvg-name="TNT Sports - Latin America",TNT Sports - Latin America
 http://45.179.164.30:8000/play/a0cr/index.m3u8
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/76942/s76942_ll_h15_ab.png" group-title="Sports" tvg-id="I392.76942.zap2it.com" tvg-name="bein Sports - USA",bein Sports - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/111046/s16275_ll_h15_aa.png" group-title="Sports" tvg-id="I469.111046.zap2it.com" tvg-name="TyC Sports - Latin America",TyC Sports - Latin America
+http://45.179.164.30:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/512px-WinSports2017.png" group-title="Sports" tvg-id="WinSports.co" tvg-name="Win Sports - Latin America",Win Sports - Latin America
+http://45.179.164.30:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="Sports" tvg-id="WinSportsPlus.co" tvg-name="Win Sports+ - Latin America",Win Sports+ - Latin America
+http://45.179.164.30:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/76942/s76942_ll_h15_ab.png" group-title="Sports" tvg-id="I392.76942.zap2it.com" tvg-name="beIN SPORTS - USA",beIN SPORTS - USA
 http://143.244.60.97/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76943_dark_360w_270h.png" group-title="Sports" tvg-id="I873.76943.schedulesdirect.org" tvg-name="beIN Sports en Espanol - USA",beIN Sports en Espanol - USA
+http://143.244.60.97/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/76943/s76943_ll_h15_ab.png" group-title="Sports" tvg-id="I443.76943.zap2it.com" tvg-name="beIN SPORTS XTRA - USA",beIN SPORTS XTRA - USA
+https://lnc-bein.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="Sports" tvg-id="beINSPORTSXTRAenEspanol.us" tvg-name="beIN SPORTS XTRA en Espanol - USA",beIN SPORTS XTRA en Espanol - USA
+https://lnc-bein-espanol.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/32281/s32281_ll_h15_ad.png" group-title="Sports" tvg-id="I216.32281.zap2it.com" tvg-name="NBA - USA",NBA - USA
 http://41.205.93.154:80/NBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62081/s62081_ll_h15_ab.png" group-title="Sports" tvg-id="I213.62081.zap2it.com" tvg-name="MLB Network - USA",MLB Network - USA
@@ -257,11 +269,11 @@ http://190.11.130.46/mnp/dsc_sci/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46608_dark_360w_270h.png" group-title="Entertainment" tvg-id="I193.46608.schedulesdirect.org" tvg-name="Discovery Turbo - Latin America",Discovery Turbo - Latin America
 http://190.11.130.46/mnp/dsc_turbo/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_dark_360w_270h.png" group-title="Entertainment" tvg-id="I194.66488.schedulesdirect.org" tvg-name="Discovery World - Latin America",Discovery World - Latin America
-http://170.254.18.106/DISCOVERY_WORLD/index.m3u8
+http://45.179.164.30:8000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="Entertainment" tvg-id="I191.65940.schedulesdirect.org" tvg-name="Discovery Theater - Latin America",Discovery Theater - Latin America
-http://170.254.18.106/DISCOVERY_THEATER/index.m3u8
+http://45.179.164.30:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25743_dark_360w_270h.png" group-title="Entertainment" tvg-id="I382.25793.schedulesdirect.org" tvg-name="Investigation Discovery - Latin America",Investigation Discovery - Latin America
-http://170.254.18.106/DISCOVERY_ID/index.m3u8
+http://45.179.164.30:8000/play/a0cn/index.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/16615/s16615_ll_h15_ad.png" group-title="Entertainment" tvg-id="I285.16615.zap2it.com" tvg-name="Investigation Discovery - USA",Investigation Discovery - USA
 http://143.244.60.97/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97571_dark_360w_270h.png" group-title="Entertainment" tvg-id="I182.97928.schedulesdirect.org" tvg-name="Discovery Home & Health - Latin America",Discovery Home & Health - Latin America
@@ -279,7 +291,7 @@ http://190.11.130.46/mnp/history/output.mpd
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/14771/s14771_ll_h15_af.png" group-title="Entertainment" tvg-id="I269.14771.zap2it.com" tvg-name="History - USA",History - USA
 http://41.205.93.154/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80374_dark_360w_270h.png" group-title="Entertainment" tvg-id="I375.80374.schedulesdirect.org" tvg-name="History 2 - Latin America",History 2 - Latin America
-http://170.254.18.106/HISTORY2/index.m3u8
+http://45.179.164.30:8000/play/a02h/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25068_dark_360w_270h.png" group-title="Entertainment" tvg-id="I454.88533.schedulesdirect.org" tvg-name="National Geographic - Latin America",National Geographic - Latin America
 http://190.11.130.46/mnp/natgeohd/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18649_dark_360w_270h.png" group-title="Entertainment" tvg-id="I22.96445.schedulesdirect.org" tvg-name="Animal Planet - Latin America",Animal Planet - Latin America
