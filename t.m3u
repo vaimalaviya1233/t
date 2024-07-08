@@ -32,9 +32,9 @@ http://190.11.130.46/mnp/fox_sport/output.mpd
 http://190.11.130.46/mnp/fox_sport2/output.mpd
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_dark_360w_270h.png" group-title="Sports" tvg-id="I308.105005.schedulesdirect.org" tvg-name="FOX Sports 3 - Latin America",FOX Sports 3 - Latin America
 http://190.11.130.46/mnp/fox_sport3/output.mpd
-#EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="Sports" tvg-id="I150.82541.schedulesdirect.org" tvg-name="FS1 - USA",FS1 - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/82547/s82547_ll_h15_aa.png" group-title="Sports" tvg-id="I219.82547.zap2it.com" tvg-name="FOX Sports 1 - USA",FOX Sports 1 - USA
 http://4.26.188.2:8081/udp/239.193.10.101:23901
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/320px-FS2_logo_2015.svg.png" group-title="Sports" tvg-id="FoxSports2.us" tvg-name="FS2 - USA",FS2 - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/59305/s59305_ll_h15_aa.png" group-title="Sports" tvg-id="I618.59305.zap2it.com" tvg-name="FOX Sports 2 - USA",FOX Sports 2 - USA
 http://4.26.188.2:8081/udp/239.193.10.102:23902
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82450_dark_360w_270h.png" group-title="Sports" tvg-id="I1263.82450.schedulesdirect.org" tvg-name="TNT Sports - Latin America",TNT Sports - Latin America
 http://45.179.164.30:8000/play/a0cr/index.m3u8
