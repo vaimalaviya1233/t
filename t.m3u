@@ -244,8 +244,14 @@ http://streamsy.online:2999/tpf3r9qnfconc3pioc/wNz29DW8Fy/329
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400020H7_20230322T000014SQUARE.png_20230322000014.png" group-title="Entertainment" tvg-id="USBC4400020H7" tvg-name="Telemundo - California, USA",Telemundo - California, USA
 https://jmp2.uk/SamsungTVPlus/USBC4400020H7.m3u8
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11118/s11118_ll_h15_ab.png" group-title="Entertainment" tvg-id="I270.11118.zap2it.com" tvg-name="Univision - New York - USA",Univision - New York - USA
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/11118/s11118_ll_h15_ab.png" group-title="Entertainment" tvg-id="I270.11118.zap2it.com" tvg-name="Univision - East - USA",Univision - East - USA
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=hd&.m3u8
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34962/s11118_ll_h15_ab.png" group-title="Entertainment" tvg-id="I23.1.34962.zap2it.com" tvg-name="Univision - Miami - USA",Univision - Miami - USA
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=hd&.m3u8
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/10222/s10222_ll_h15_ac.png" group-title="Entertainment" tvg-id="I404.10222.zap2it.com" tvg-name="Galavision - East - USA",Galavision - East - USA
+http://23.237.66.106:25461/now_160322/now2.php?id=GALAVISIONEAST&calidad=hd&.m3u8
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/68040/s29058_ll_h15_ab.png" group-title="Entertainment" tvg-id="I408.68040.zap2it.com" tvg-name="Unimas - East - USA",Unimas - East - USA
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=hd&.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58698/s58698_ll_h9_aa.png" group-title="Entertainment" tvg-id="I405.58698.zap2it.com" tvg-name="Mega TV - USA",Mega TV - USA
 https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/44322/s63389_ll_h15_ac.png" group-title="Entertainment" tvg-id="I414.44322.zap2it.com" tvg-name="WAPA - Puerto Rico",WAPA - Puerto Rico
